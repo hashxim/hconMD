@@ -33,9 +33,13 @@ A --> D[Authorized Contractual Schemes]
 
 It can be ETF but not close ended. When there is huge demand for ETF, ICVC issues a lot of shares to big brokers and investment banks who then add those shares to the market,
 
+Difference between normal ICVS and ETF ICVC?
+Normal ICVC lets you buy or sell when they say you can which ETF can be freely traded. Normal 
+
 **Setup:** 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDAwODk1MCwtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTE2MjAwMjQ4MzYsLTE3NjA0Mzc2NDhdfQ
+==
 -->
