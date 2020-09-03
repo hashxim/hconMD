@@ -77,8 +77,13 @@ There are other costs borne by the fund and show up as reduced performance:
 - Borrowing costs
 - Stamp Duty
 
-Some fund charges are
+**Some fund charges are dual priced:** to try and insulate other shareholders from the cost of dealing with new buyers, or when one individual wants to sell. They want to avoid a situation where a large shareholder sells up and the costs are borne by lots of little shareholders: that would be unfair and not a good selling point.
+
+Thumb Rule: Ignore AMC, look at OCF and what it is made up of.
+
+### Reasonable Fund cost
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzEwMTQ5MCwtMjExNzY0ODAyMSwtMT
-c2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTIwMTQxNjkzNTgsLTIxMTc2NDgwMjEsLT
+E3NjA0Mzc2NDhdfQ==
 -->
