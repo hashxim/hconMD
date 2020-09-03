@@ -39,8 +39,9 @@ Normal ICVC lets you buy or sell when they say you can which ETF can be freely t
 **Types of Shares :**
 Whenever a company in the UK takes company money and gives it to shareholders, it’s called a “distribution”.
 
-- Accumulating (ETF: Capitalising) - the company takes the distribution, and instead of giving it to you in cash, buys more assets with the money.
-- Income (ETF: Distributing)- the company takes the distribution and gives it to you physically to do what you want with it.
+- Accumulating (ETF: Capitalising) - the company takes the distribution, and instead of giving it to you in cash, buys more assets with the money. (Growth in India). 
+	- Removes liability to decide whether to reinvest the income from the fund and avoids an
+- Income (ETF: Distributing)- the company takes the distribution and gives it to you physically to do what you want with it. (Dividend in India)
 
 
 
@@ -48,5 +49,5 @@ Whenever a company in the UK takes company money and gives it to shareholders, i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mjk3NjQ5NiwtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbODc4MjU1OTk2LC0xNzYwNDM3NjQ4XX0=
 -->
