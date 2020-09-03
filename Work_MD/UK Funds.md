@@ -32,12 +32,6 @@ A --> D[Authorized Contractual Schemes]
 
 **Setup:** 
 
-```mermaid
-graph TB
-A --> B;
-
-```
-
 
 # Files
 
@@ -178,5 +172,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA0Mzc2NDhdfQ==
+eyJoaXN0b3J5IjpbLTgwMDkxMDE3OSwtMTc2MDQzNzY0OF19
 -->
