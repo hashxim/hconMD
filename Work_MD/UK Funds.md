@@ -50,8 +50,8 @@ That is a way for funds to sell the same fund to different types of shareholders
 ## Buy a Fund
 - ETF - Directly from Stock market
 - Normal ICVC 
-	- Direct from the Fund - Might need a quite large minimum investment (most funds done like hassle of dealing with lots of individual clients)
-	- Broker/Platform
+	- Direct from the Fund - Might need a quite large minimum investment (most funds done like hassle of dealing with lots of individual clients). If want to buy online, one cannot hold it in wrapper like ISA of SIPP
+	- Broker/Platform - Retail buys from Brokers mostly. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTcwMTIwOSwtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTMyNDQzMjY5OSwtMTc2MDQzNzY0OF19
 -->
