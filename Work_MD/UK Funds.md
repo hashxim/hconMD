@@ -36,12 +36,17 @@ It can be ETF but not close ended. When there is huge demand for ETF, ICVC issue
 Difference between normal ICVS and ETF ICVC?
 Normal ICVC lets you buy or sell when they say you can which ETF can be freely traded. Normal ICVC will buy or sell based on NAV while in ETF, prices is decided by the exchange. Thus ETF can trade at premium or discount to the NAV.
 
-**Types of Shares:**
-- 
+**Types of Shares :**
+Whenever a company in the UK takes company money and gives it to shareholders, it’s called a “distribution”.
+
+- Accumulating (ETF: Capitalising) - the company takes the distribution, and instead of giving it to you in cash, buys more assets with the money.
+- Income (ETF: Distributing)- the company takes the distribution and gives it to you physically to do what you want with it.
+
+
 
 **Setup:** 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDgwMTY0OCwtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTg4Mjk3NjQ5NiwtMTc2MDQzNzY0OF19
 -->
