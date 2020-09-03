@@ -34,12 +34,14 @@ A --> D[Authorized Contractual Schemes]
 It can be ETF but not close ended. When there is huge demand for ETF, ICVC issues a lot of shares to big brokers and investment banks who then add those shares to the market,
 
 Difference between normal ICVS and ETF ICVC?
-Normal ICVC lets you buy or sell when they say you can which ETF can be freely traded. Normal 
+Normal ICVC lets you buy or sell when they say you can which ETF can be freely traded. Normal ICVC will buy or sell based on NAV while in ETF, prices is decided by the exchange. Thus ETF can trade at premium or discount to the NAV.
+
+**Types of Shares:**
+- 
 
 **Setup:** 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAwMjQ4MzYsLTE3NjA0Mzc2NDhdfQ
-==
+eyJoaXN0b3J5IjpbLTM5NDgwMTY0OCwtMTc2MDQzNzY0OF19
 -->
