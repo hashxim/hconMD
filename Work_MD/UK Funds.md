@@ -81,9 +81,8 @@ There are other costs borne by the fund and show up as reduced performance:
 
 Thumb Rule: Ignore AMC, look at OCF and what it is made up of.
 
-### Reasonable Fund cost
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQxNjkzNTgsLTIxMTc2NDgwMjEsLT
-E3NjA0Mzc2NDhdfQ==
+eyJoaXN0b3J5IjpbMTc4NTEyMjMxLC0yMDE0MTY5MzU4LC0yMT
+E3NjQ4MDIxLC0xNzYwNDM3NjQ4XX0=
 -->
