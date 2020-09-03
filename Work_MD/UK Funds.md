@@ -62,7 +62,13 @@ The fund ICVC is going to have costs such as:
 -   dealing with shareholders
 
 That’s reflected in your ongoing charge/annual management charge/total expense ratio.
+
+## Types of Fund Cost
+
+|  | OCF | AMC |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI3OTAwNzAsLTE3NjA0Mzc2NDhdfQ
-==
+eyJoaXN0b3J5IjpbMTQzODU0MDAxNywtMTc2MDQzNzY0OF19
 -->
