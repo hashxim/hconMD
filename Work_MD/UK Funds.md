@@ -81,8 +81,14 @@ There are other costs borne by the fund and show up as reduced performance:
 
 Thumb Rule: Ignore AMC, look at OCF and what it is made up of.
 
+### Fund goes bust
 
+If went insolvent, say, the ICVC has been fined millions and can’t pay – then if the fund is authorised in the UK, **you will be covered by the FSCS up to £50,000**, if the fund has somehow lost the underlying assets.
+
+### Broker goes bust
+
+The same thing as above – your shares are held by a custodian or ring-fenced and will just be transferred to a new broker. If they are missing for some reason, then **you are covered up to £50,000.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTEyMjMxLC0yMDE0MTY5MzU4LC0yMT
-E3NjQ4MDIxLC0xNzYwNDM3NjQ4XX0=
+eyJoaXN0b3J5IjpbMTQ4NTA0Njc1MywxNzg1MTIyMzEsLTIwMT
+QxNjkzNTgsLTIxMTc2NDgwMjEsLTE3NjA0Mzc2NDhdfQ==
 -->
