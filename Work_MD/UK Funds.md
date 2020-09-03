@@ -47,9 +47,8 @@ Whenever a company in the UK takes company money and gives it to shareholders, i
 **Different types of Class Shares (A,B,C,D,X,Y,Z etc)**
 That is a way for funds to sell the same fund to different types of shareholders – each share class will probably have different charges and different minimum investments
  
-
+## Buy a Fund
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU3NDgzODIsLTE3NjA0Mzc2NDhdfQ
-==
+eyJoaXN0b3J5IjpbLTg0ODg1NDI1NiwtMTc2MDQzNzY0OF19
 -->
