@@ -51,7 +51,18 @@ That is a way for funds to sell the same fund to different types of shareholders
 - ETF - Directly from Stock market
 - Normal ICVC 
 	- Direct from the Fund - Might need a quite large minimum investment (most funds done like hassle of dealing with lots of individual clients). If want to buy online, one cannot hold it in wrapper like ISA of SIPP
-	- Broker/Platform - Retail buys from Brokers mostly. 
+	- Broker/Platform - Retail buys from Brokers mostly. Broker is like a reseller. 
+
+## Fund Cost
+The fund ICVC is going to have costs such as:
+
+-   buying and selling the underlying assets
+-   audit
+-   paying the fund manager
+-   dealing with shareholders
+
+That’s reflected in your ongoing charge/annual management charge/total expense ratio.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDQzMjY5OSwtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTE4ODI3OTAwNzAsLTE3NjA0Mzc2NDhdfQ
+==
 -->
