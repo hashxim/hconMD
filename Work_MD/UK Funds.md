@@ -11,6 +11,8 @@ A fund is a way for a group of investors to pool their money to invest in things
 ### Closed Ended Fund
 **Setup:** When the fund is set up, they issue shares. Sometimes you can sell those shares on, sometimes you can’t – some of those companies are exchange traded: so you can buy and sell those shares amongst other investors, but you don’t generally buy or sell them from/to the fund itself.
 
+Sometimes it may want to raise more money
+
 ### Open Ended Fund
 ```mermaid
 graph TB
@@ -34,5 +36,6 @@ A --> D[Authorized Contractual Schemes]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjYyODc2MSwtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTE4NDMyOTI4NzksLTE3NjA0Mzc2NDhdfQ
+==
 -->
