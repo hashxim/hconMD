@@ -65,10 +65,11 @@ That’s reflected in your ongoing charge/annual management charge/total expense
 
 ## Types of Fund Cost
 
-|  | OCF | AMC |
-|--|--|
-|  |  |
+|  | OCF | AMC | TER |
+|--|--|--|--|
+|Full Form |**Ongoing Charges Figure**  | **Annual Management Charge**|**Total Expense Ratio** |
+|--|--|Fee charged by Fund for the pri|--|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODU0MDAxNywtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTk4MjA4MzczMywtMTc2MDQzNzY0OF19
 -->
