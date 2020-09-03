@@ -68,9 +68,9 @@ That’s reflected in your ongoing charge/annual management charge/total expense
 |  | OCF | AMC | TER |
 |--|--|--|--|
 |Full Form |**Ongoing Charges Figure**  | **Annual Management Charge**|**Total Expense Ratio** |
-|Definition|--|Fee charged by Fund for the privilege of investing you money|How much of your investment disappear each year|
-|Includes|--|--|Fund Management, Entry/Exit cost, Dilution levies etc.|
+|Definition|Include TER but also running costs|Fee charged by Fund for the privilege of investing you money|How much of your investment disappear each year|
+|Includes|TER + audit costs, regulatory communication, shareholder communication||Fund Management, Entry/Exit cost, Dilution levies etc.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI5NTA3NDEsLTE3NjA0Mzc2NDhdfQ
+eyJoaXN0b3J5IjpbLTIxMTc2NDgwMjEsLTE3NjA0Mzc2NDhdfQ
 ==
 -->
