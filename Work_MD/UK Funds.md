@@ -70,7 +70,15 @@ That’s reflected in your ongoing charge/annual management charge/total expense
 |Full Form |**Ongoing Charges Figure**  | **Annual Management Charge**|**Total Expense Ratio** |
 |Definition|Include TER but also running costs|Fee charged by Fund for the privilege of investing you money|How much of your investment disappear each year|
 |Includes|TER + audit costs, regulatory communication, shareholder communication||Fund Management, Entry/Exit cost, Dilution levies etc.|
+
+There are other costs borne by the fund and show up as reduced performance:
+- Trading costs (Commissions to brokers)
+- Hedging costs
+- Borrowing costs
+- Stamp Duty
+
+Some fund charges are
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc2NDgwMjEsLTE3NjA0Mzc2NDhdfQ
-==
+eyJoaXN0b3J5IjpbMTAxNzEwMTQ5MCwtMjExNzY0ODAyMSwtMT
+c2MDQzNzY0OF19
 -->
