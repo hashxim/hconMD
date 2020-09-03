@@ -48,7 +48,10 @@ Whenever a company in the UK takes company money and gives it to shareholders, i
 That is a way for funds to sell the same fund to different types of shareholders – each share class will probably have different charges and different minimum investments
  
 ## Buy a Fund
-
+- ETF - Directly from Stock market
+- Normal ICVC 
+	- Direct from the Fund - Might need a quite large minimum investment (most funds done like hassle of dealing with lots of individual clients)
+	- Broker/Platform
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODg1NDI1NiwtMTc2MDQzNzY0OF19
+eyJoaXN0b3J5IjpbLTQ0OTcwMTIwOSwtMTc2MDQzNzY0OF19
 -->
