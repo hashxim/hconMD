@@ -40,14 +40,16 @@ Normal ICVC lets you buy or sell when they say you can which ETF can be freely t
 Whenever a company in the UK takes company money and gives it to shareholders, it’s called a “distribution”.
 
 - Accumulating (ETF: Capitalising) - the company takes the distribution, and instead of giving it to you in cash, buys more assets with the money. (Growth in India). 
-	- Removes liability to decide whether to reinvest the income from the fund and avoids an
+	- Removes liability to decide whether to reinvest the income from the fund and avoids any cost of reinvesting.
 - Income (ETF: Distributing)- the company takes the distribution and gives it to you physically to do what you want with it. (Dividend in India)
+	- Gives an option to decide what to do with the income.
 
-
+**Hw**
 
 **Setup:** 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MjU1OTk2LC0xNzYwNDM3NjQ4XX0=
+eyJoaXN0b3J5IjpbLTExODExOTcwOTQsLTE3NjA0Mzc2NDhdfQ
+==
 -->
