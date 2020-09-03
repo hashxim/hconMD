@@ -44,12 +44,12 @@ Whenever a company in the UK takes company money and gives it to shareholders, i
 - Income (ETF: Distributing)- the company takes the distribution and gives it to you physically to do what you want with it. (Dividend in India)
 	- Gives an option to decide what to do with the income.
 
-**Hw**
-
-**Setup:** 
+**Different types of Class Shares (A,B,C,D,X,Y,Z etc)**
+That is a way for funds to sell the same fund to different types of shareholders – each share class will probably have different charges and different minimum investments
+ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODExOTcwOTQsLTE3NjA0Mzc2NDhdfQ
+eyJoaXN0b3J5IjpbLTEzMDU3NDgzODIsLTE3NjA0Mzc2NDhdfQ
 ==
 -->
