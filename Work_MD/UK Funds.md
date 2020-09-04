@@ -83,18 +83,18 @@ Thumb Rule: Ignore AMC, look at OCF and what it is made up of.
 
 ### Fund goes bust
 
-If went insolvent, say, the ICVC has been fined millions and can’t pay – then if the fund is authorised in the UK, **you will be covered by the FSCS up to £50,000**, if the fund has somehow lost the underlying assets.
+If went insolvent, say, the ICVC has been fined millions and can’t pay – then if the fund is authorised in the UK, **you will be covered by the FSCS up to £50,000**, if the fund has somehow lost the underlying assets. List of [cheap funds](http://monevator.com/low-cost-index-trackers/) online.
 
 ### Broker goes bust
 
-The same thing as above – your shares are held by a custodian or ring-fenced and will just be transferred to a new broker. If they are missing for some reason, then **you are covered up to £50,000.** 
+The same thing as above – your shares are held by a custodian or ring-fenced and will just be transferred to a new broker. If they are missing for some reason, then **you are covered up to £50,000.** . Check [cheap brokers](http://monevator.com/compare-uk-cheapest-online-brokers/) online
 
 ## References
 [Trustnet](https://www.trustnet.com/)
 [MorningStar](http://www.morningstar.co.uk/uk/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTY1MDUxNiwyOTQ1NTgwNTAsMTQ4NT
-A0Njc1MywxNzg1MTIyMzEsLTIwMTQxNjkzNTgsLTIxMTc2NDgw
-MjEsLTE3NjA0Mzc2NDhdfQ==
+eyJoaXN0b3J5IjpbLTc5ODc4NDMxLC00MDU2NTA1MTYsMjk0NT
+U4MDUwLDE0ODUwNDY3NTMsMTc4NTEyMjMxLC0yMDE0MTY5MzU4
+LC0yMTE3NjQ4MDIxLC0xNzYwNDM3NjQ4XX0=
 -->
