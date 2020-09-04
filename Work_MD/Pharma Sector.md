@@ -23,7 +23,8 @@
 
 # Rewards
 - **Global play** - Major exporter to developed countries like Auto and IT sector.
+	- Much mor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MDAwODE2LDIxMzMwODg0NDQsLTQzNj
-YzMTI1Nl19
+eyJoaXN0b3J5IjpbLTU3MTM2MDA0Miw2NjkwMDA4MTYsMjEzMz
+A4ODQ0NCwtNDM2NjMxMjU2XX0=
 -->
