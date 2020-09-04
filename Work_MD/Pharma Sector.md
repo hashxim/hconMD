@@ -31,8 +31,9 @@
 		- Regulatory approvals
 		- Quality inspections
 		- Negotiating with value chains partners
-	- Barrier to entry in order - Pharma Formulation > Pharma ingredient > speciality and bulk chemicals (those used in o
+	- Barrier to entry in order - Pharma Formulation > Pharma ingredient > speciality and bulk chemicals (such as those used in pesticides)
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTc4NjA1Nyw2NjkwMDA4MTYsMjEzMz
-A4ODQ0NCwtNDM2NjMxMjU2XX0=
+eyJoaXN0b3J5IjpbNjY1MjIzNzkwLDY2OTAwMDgxNiwyMTMzMD
+g4NDQ0LC00MzY2MzEyNTZdfQ==
 -->
