@@ -26,8 +26,10 @@
 	- Much more integrated into global industry than IT
 	- Owns marketing of its own branded generics formulation
 - **Barriers to Entry** 
-	- Most India Pharma compani 
+	- **Most India Pharma companies do not produce IP protected formulations** 
+	- Produce generic versions of drugs that come off patent, jumping through many hoops of 
+		- Regulatory
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTIzMzk3Myw2NjkwMDA4MTYsMjEzMz
-A4ODQ0NCwtNDM2NjMxMjU2XX0=
+eyJoaXN0b3J5IjpbMzA0NzUyOTc1LDY2OTAwMDgxNiwyMTMzMD
+g4NDQ0LC00MzY2MzEyNTZdfQ==
 -->
