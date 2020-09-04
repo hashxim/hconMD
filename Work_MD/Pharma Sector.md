@@ -23,8 +23,11 @@
 
 # Rewards
 - **Global play** - Major exporter to developed countries like Auto and IT sector.
-	- Much mor
+	- Much more integrated into global industry than IT
+	- Owns marketing of its own branded generics formulation
+- **Barriers to Entry** 
+	- Most India Pharma compani 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTM2MDA0Miw2NjkwMDA4MTYsMjEzMz
+eyJoaXN0b3J5IjpbLTc4OTIzMzk3Myw2NjkwMDA4MTYsMjEzMz
 A4ODQ0NCwtNDM2NjMxMjU2XX0=
 -->
