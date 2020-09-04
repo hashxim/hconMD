@@ -87,12 +87,11 @@ If went insolvent, say, the ICVC has been fined millions and can’t pay – the
 
 ### Broker goes bust
 
-The same thing as above – your shares are held by a custodian or ring-fenced and will just be transferred to a new broker. If they are missing for some reason, then **you are covered up to £50,000.**
+The same thing as above – your shares are held by a custodian or ring-fenced and will just be transferred to a new broker. If they are missing for some reason, then **you are covered up to £50,000.** HTML
 
-Markdown
-: Definition
+*[HTML]: Hypertext Markup Language
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDcxMjI1OSwxNDg1MDQ2NzUzLDE3OD
-UxMjIzMSwtMjAxNDE2OTM1OCwtMjExNzY0ODAyMSwtMTc2MDQz
-NzY0OF19
+eyJoaXN0b3J5IjpbMjk0NTU4MDUwLDE0ODUwNDY3NTMsMTc4NT
+EyMjMxLC0yMDE0MTY5MzU4LC0yMTE3NjQ4MDIxLC0xNzYwNDM3
+NjQ4XX0=
 -->
