@@ -32,8 +32,8 @@
 		- Quality inspections
 		- Negotiating with value chains partners
 	- Barrier to entry in order - Pharma Formulation > Pharma ingredient > speciality and bulk chemicals (such as those used in pesticides)
-	- 
+- Non-cyclicity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MjIzNzkwLDY2OTAwMDgxNiwyMTMzMD
-g4NDQ0LC00MzY2MzEyNTZdfQ==
+eyJoaXN0b3J5IjpbLTg3ODUzMzMxOSw2NjkwMDA4MTYsMjEzMz
+A4ODQ0NCwtNDM2NjMxMjU2XX0=
 -->
