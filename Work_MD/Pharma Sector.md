@@ -7,15 +7,18 @@
 	- Regulators can derail the investment at any stage and lead to costly write off
 	- Marketplace may also change or new competing therapies may become available
 	- This can cause financial risk in form of R&D sunk costs (~15% of topline), opportunity cost
-- **Value Chains** - Most complex formulation requires a prescription, pharma value chain has many stakeholders
-	- Group of buyers
-	- Pharmacy chains
-	- Marketing field force
-	- Doctors
-	- Chemical ingredients and intermediary manufacturers in China
+- **Value Chains** - 
+	- Most complex formulation requires a prescription, pharma value chain has many stakeholders
+		- Group of buyers
+		- Pharmacy chains
+		- Marketing field force
+		- Doctors
+		- Chemical ingredients and intermediary manufacturers in China
+	- **Any consolidation in any section of value chain can increase/decrease bargaining power and change margins of drug manufacturer**
+	- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzcwMjMwOCwyMTMzMDg4NDQ0LC00Mz
-Y2MzEyNTZdfQ==
+eyJoaXN0b3J5IjpbMzM5OTM5Mzg4LDIxMzMwODg0NDQsLTQzNj
+YzMTI1Nl19
 -->
