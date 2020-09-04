@@ -28,8 +28,11 @@
 - **Barriers to Entry** 
 	- **Most India Pharma companies do not produce IP protected formulations** 
 	- Produce generic versions of drugs that come off patent, jumping through many hoops of 
-		- Regulatory
+		- Regulatory approvals
+		- Quality inspections
+		- Negotiating with value chains partners
+	- Barrier to entry in order - Pharma Formulation > Pharma ingredient > speciality and bulk chemicals (those used in o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NzUyOTc1LDY2OTAwMDgxNiwyMTMzMD
-g4NDQ0LC00MzY2MzEyNTZdfQ==
+eyJoaXN0b3J5IjpbLTQ0OTc4NjA1Nyw2NjkwMDA4MTYsMjEzMz
+A4ODQ0NCwtNDM2NjMxMjU2XX0=
 -->
