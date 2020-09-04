@@ -15,10 +15,11 @@
 		- Doctors
 		- Chemical ingredients and intermediary manufacturers in China
 	- **Any consolidation in any section of value chain can increase/decrease bargaining power and change margins of drug manufacturer**
-	- 
+	- Developer of drug is not manufacturer (manufacturing is contract based/outsourced)
+	- Often Marketing company (could be different form pharma company) could be different from company that produces or owns the drug
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5OTM5Mzg4LDIxMzMwODg0NDQsLTQzNj
-YzMTI1Nl19
+eyJoaXN0b3J5IjpbLTk1NzQ0MjA5NiwyMTMzMDg4NDQ0LC00Mz
+Y2MzEyNTZdfQ==
 -->
