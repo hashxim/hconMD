@@ -18,7 +18,10 @@ In case of finance companies, investment in securities / investment products cou
 
 ## Source of investments made during the year
 One should observe whether the investments made are coming on the back of 
-- Sufficient cash flow from operation or retained earnings 
+- Sufficient cash flow from operation or retained earnings OR
+- Company has borrowed money / raised additional capital
+==Important is return on investment > Cost of Capital==
+ 
 
 
 # Footer
@@ -26,5 +29,5 @@ Tags: #FleetingNotes, #review,
 Links: 
 [Source](https://www.alphainvesco.com/blog/cash-flow-from-investing-activities/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTI0NDA5NF19
+eyJoaXN0b3J5IjpbODkzNDk1MzU5XX0=
 -->
