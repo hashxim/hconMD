@@ -4,6 +4,8 @@
 # Definition
 Highlights the usage of the capital of business in terms of capex done, investment insecurities etc. ==It is an indicator of  how business employ their cash==. 
 
+CFI is generally a negative cash flow component of CFS.
+
 The cash can be employed by investing in assets:
 - New Plant and machinery for increasing the operational productivity and business profits
 - Non-principal activities by investing in securities or giving loan and advances to third parties etc.
@@ -15,7 +17,8 @@ In case of finance companies, investment in securities / investment products cou
 # Check points
 
 ## Source of investments made during the year
-
+One should observe whether the investments made are coming on the back of 
+- Sufficient cash flow from operation or retained earnings 
 
 
 # Footer
@@ -23,5 +26,5 @@ Tags: #FleetingNotes, #review,
 Links: 
 [Source](https://www.alphainvesco.com/blog/cash-flow-from-investing-activities/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODczODUzNDRdfQ==
+eyJoaXN0b3J5IjpbMTczNTI0NDA5NF19
 -->
