@@ -5,6 +5,10 @@ controversial companies, SPACs are getting more popular. The activity has alread
 # Definition
 Special Purpose Acquisition Companies (SPAC) also known as Blank check companies offer private businesses a fast-track to going public that bypasses traditional IPO Process. 
 SPACs are public shell companies that exist for single purpose - finding a private company and taking it to a market quickly.
+
+## History
+In early days in 1980s, the precursor of today's SPACs were called blind pools. They had shady repor
+
 ## How SPACs work
 In order to take company public, a SPAC will merge with the private company. The company then get a spot in the exchange and a **new ticker**. After merger, investor who own shares in the blank check company now owns a piece of the new entity and the founders of the SPAC get a large part of it too. SPACs are mostly owned by veteran corporate leaders and big investors, private equity firms and usually smaller amount of shares are available for the public. 
 
@@ -38,6 +42,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTEwMTk3MSwtNDgyNTcxNzUsMTk1NT
-I0NTM3OF19
+eyJoaXN0b3J5IjpbNDU0OTM0MzM0LC00ODI1NzE3NSwxOTU1Mj
+Q1Mzc4XX0=
 -->
