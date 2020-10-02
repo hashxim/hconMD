@@ -9,7 +9,7 @@ SPACs are public shell companies that exist for single purpose - finding a priva
 ## History
 In early days in 1980s, the precursor of today's SPACs were called blind pools. They had shady reputation tied to Penny-stock frauds. But in new age, laws and regulations helped add credibility and bolster investor confidence. 
 
-Goldman Sachs never used to SPAC IPOs but in 2016 it did its first SPAC IPO
+More blue-chip institutions like Goldman Sachs never used to SPAC IPOs but in 2016 it did its first SPAC IPO. NYSE now lists a lot of SPAC.
 
 ## How SPACs work
 In order to take company public, a SPAC will merge with the private company. The company then get a spot in the exchange and a **new ticker**. After merger, investor who own shares in the blank check company now owns a piece of the new entity and the founders of the SPAC get a large part of it too. SPACs are mostly owned by veteran corporate leaders and big investors, private equity firms and usually smaller amount of shares are available for the public. 
@@ -25,8 +25,9 @@ For companies going public, SPAC offer different approach than traditional IPOs:
 	- SPAC have big advantage in terms of promoting shares. They can talk about themselves and promote themselves to investors.
 	- SPAC provide certainty of the deal at difficult times like pandemic. When markets are volatile, through traditional IPOs, private companies doesn't want to go public. 
 
+## Current Situation
 
-
+In 2020, Bill Ackman launched t
 
 ![](https://github.com/hashxim/hconMD/raw/master/Work_MD/Resources/image.png)
 
@@ -44,6 +45,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTkyNzk2OSwtNDgyNTcxNzUsMTk1NT
-I0NTM3OF19
+eyJoaXN0b3J5IjpbNDg0MDM3OTk1LC00ODI1NzE3NSwxOTU1Mj
+Q1Mzc4XX0=
 -->
