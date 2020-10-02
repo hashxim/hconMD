@@ -14,9 +14,10 @@ For companies going public, SPAC offer different approach than traditional IPOs:
 
 - **Traditional IPOs**
 	- Private company works with underwriter / investment banks to work out a deal and then takes the company public. The process can take months and under traditional IPO rules, the private company must stay quiet and refrain from promoting its shares. 
-	- IPOs get derailed at last minute all the to
+	- IPOs get derailed at last minute all the time. 
 - **SPAC**
-	- SPAC have big advantage in terms of promoting shares. They can talk about themselves and promote themselves to investors 
+	- SPAC have big advantage in terms of promoting shares. They can talk about themselves and promote themselves to investors.
+	- SPAC provide certainty of the deal at difficult times like pandemic. When markets are volatile, through traditional IPOs, private companies doesn't want to go public. 
 
 
 
@@ -37,6 +38,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDg1MjE3MiwtNDgyNTcxNzUsMTk1NT
+eyJoaXN0b3J5IjpbMTc1MTEwMTk3MSwtNDgyNTcxNzUsMTk1NT
 I0NTM3OF19
 -->
