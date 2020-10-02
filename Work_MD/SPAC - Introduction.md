@@ -1,6 +1,6 @@
 Over the last 2 years
 controversial companies, SPACs are getting more popular. The activity has already quadrupled in 2020. Some investors say its an efficient way for companies to go public but critics say it allows for backdoor deals.
-Federal regulators are raising concerns as well. SEC is now examining how SPA
+Federal regulators are raising concerns as well. SEC is now examining how SPAC disclose their ownership and compensation is tied to an acquisition 
 
 # Definition
 Special Purpose Acquisition Companies (SPAC) also known as Blank check companies offer private businesses a fast-track to going public that bypasses traditional IPO Process. 
@@ -47,6 +47,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjgwNTUzMyw4MTQwMTAwOTksLTQ4Mj
-U3MTc1LDE5NTUyNDUzNzhdfQ==
+eyJoaXN0b3J5IjpbODY0MDk3ODIzLDgxNDAxMDA5OSwtNDgyNT
+cxNzUsMTk1NTI0NTM3OF19
 -->
