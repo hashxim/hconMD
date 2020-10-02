@@ -1,6 +1,6 @@
 Over the last 2 years
 controversial companies, SPACs are getting more popular. The activity has already quadrupled in 2020. Some investors say its an efficient way for companies to go public but critics say it allows for backdoor deals.
-
+Federal regulators are raising concerns as well. SEC is now examining how SPA
 
 # Definition
 Special Purpose Acquisition Companies (SPAC) also known as Blank check companies offer private businesses a fast-track to going public that bypasses traditional IPO Process. 
@@ -34,7 +34,7 @@ In 2020, Bill Ackman launched the biggest SPAC ever. It can take very, very larg
 ## Criticism
 - Investors can get into a company and then get burned. They wont have enough time to access if a company is legitimate and there is even risk of fraud.
 - Critics says that companies going public through SPAC does not get enough scrutiny as those traditional IPOs.
-	- Example - Nikola which went public through SPAC. It had turned out to be a centre of firestorm of fraud allegations. Traditional IPO lovers would say that company would have gone through trad
+	- Example - Nikola which went public through SPAC. It had turned out to be a centre of firestorm of fraud allegations. Traditional IPO lovers would say that company would have gone through traditional IPO, investors would have enough time to scrutinize the company for fraud. 
 
 ## Advantages
 - SPAC gives you an opportunity to invest in good management team where you have confidence on them to do some sort of profitable deal which increases the value of the investment. But its a risk (similar to writing blank check) as you don't know if they will do a good deal or not. 
@@ -47,6 +47,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzUzMTE4Niw4MTQwMTAwOTksLTQ4Mj
+eyJoaXN0b3J5IjpbLTI2MjgwNTUzMyw4MTQwMTAwOTksLTQ4Mj
 U3MTc1LDE5NTUyNDUzNzhdfQ==
 -->
