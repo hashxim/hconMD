@@ -27,12 +27,14 @@ For companies going public, SPAC offer different approach than traditional IPOs:
 
 ## Current Situation
 
-In 2020, Bill Ackman launched t
+In 2020, Bill Ackman launched the biggest SPAC ever. It can take very, very large company public. 
 
 ![](https://github.com/hashxim/hconMD/raw/master/Work_MD/Resources/image.png)
 
 ## Criticism
 - Investors can get into a company and then get burned. They wont have enough time to access if a company is legitimate and there is even risk of fraud.
+- Critics says that companies going public through SPAC does not get enough scrutiny as those traditional IPOs.
+	- Examples-
 
 ## Advantages
 - SPAC gives you an opportunity to invest in good management team where you have confidence on them to do some sort of profitable deal which increases the value of the investment. But its a risk (similar to writing blank check) as you don't know if they will do a good deal or not. 
@@ -45,6 +47,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MDM3OTk1LC00ODI1NzE3NSwxOTU1Mj
-Q1Mzc4XX0=
+eyJoaXN0b3J5IjpbMTgzMjc0MzQ4NSwtNDgyNTcxNzUsMTk1NT
+I0NTM3OF19
 -->
