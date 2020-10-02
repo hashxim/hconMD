@@ -8,14 +8,16 @@ SPACs are public shell companies that exist for single purpose - finding a priva
 ## How SPACs work
 In order to take company public, a SPAC will merge with the private company. The company then get a spot in the exchange and a **new ticker**. After merger, investor who own shares in the blank check company now owns a piece of the new entity and the founders of the SPAC get a large part of it too. SPACs are mostly owned by veteran corporate leaders and big investors, private equity firms and usually smaller amount of shares are available for the public. 
 
+![SPAC Ownership](https://github.com/hashxim/hconMD/raw/master/Work_MD/Resources/SPAC%20Ownership.JPG)
+
 For companies going public, SPAC offer different approach than traditional IPOs:
 
-- Traditional IPOs
-Private company works with underwriter / investment banks to work out a deal and then takes the company public. The process can take months and under traditional IPO rules, the private company must stay quiet and refrain from promoting its shares. 
+- **Traditional IPOs**
+	- Private company works with underwriter / investment banks to work out a deal and then takes the company public. The process can take months and under traditional IPO rules, the private company must stay quiet and refrain from promoting its shares. 
+	- IPOs get derailed at last minute all the to
+- **SPAC**
+	- SPAC have big advantage in terms of promoting shares. They can talk about themselves and promote themselves to investors 
 
-### SPAC
-SPAC have big advantage in terms of promoting shares. They can talk about themselves and promote themselves to investors 
-![SPAC Ownership](https://github.com/hashxim/hconMD/raw/master/Work_MD/Resources/SPAC%20Ownership.JPG)
 
 
 
@@ -35,6 +37,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODEzMDkxMjQsLTQ4MjU3MTc1LDE5NT
-UyNDUzNzhdfQ==
+eyJoaXN0b3J5IjpbMTM0MDg1MjE3MiwtNDgyNTcxNzUsMTk1NT
+I0NTM3OF19
 -->
