@@ -1,8 +1,9 @@
 Over the last 2 years
-controversial companies
+controversial companies, SPACs are getting more popular.
+
 
 # Definition
-Special Purpose Acquisition Companies (SPAC) also known as Blank check companies offer private businesses a fast-track to going public
+Special Purpose Acquisition Companies (SPAC) also known as Blank check companies offer private businesses a fast-track to going public that bypasses traditional IPO Process. 
 
 
 
@@ -10,9 +11,9 @@ Special Purpose Acquisition Companies (SPAC) also known as Blank check companies
 ---
 
 # Footer
-Tags: #FleetingNotes , #review , #
+Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc3Mzc2NDZdfQ==
+eyJoaXN0b3J5IjpbMTk1NTI0NTM3OF19
 -->
