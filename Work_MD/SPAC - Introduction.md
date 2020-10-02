@@ -6,7 +6,7 @@ controversial companies, SPACs are getting more popular. The activity has alread
 Special Purpose Acquisition Companies (SPAC) also known as Blank check companies offer private businesses a fast-track to going public that bypasses traditional IPO Process. 
 SPACs are public shell companies that exist for single purpose - finding a private company and taking it to a market quickly.
 ## How SPACs work
-In order to take company public, a SPAC will merge with the private company. The company then get a spot in the exchange and a **new ticker**. After merger, investor who own shares in the blank check company now owns a piece of the new entity and the founders of the SPAC get a large part of it too.
+In order to take company public, a SPAC will merge with the private company. The company then get a spot in the exchange and a **new ticker**. After merger, investor who own shares in the blank check company now owns a piece of the new entity and the founders of the SPAC get a large part of it too. SPACs are mostly owned by veteran corporate leaders and big investors, private equity firms and usually smaller amount of shares are available for the public. 
 
 ![](https://github.com/hashxim/hconMD/raw/master/Work_MD/Resources/image.png)
 
@@ -23,5 +23,5 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNjAwMzkxLDE5NTUyNDUzNzhdfQ==
+eyJoaXN0b3J5IjpbLTQ4MjU3MTc1LDE5NTUyNDUzNzhdfQ==
 -->
