@@ -1,9 +1,7 @@
-Over the last 2 years
-controversial companies, SPACs are getting more popular. The activity has already quadrupled in 2020. Some investors say its an efficient way for companies to go public but critics say it allows for backdoor deals.
-Federal regulators are raising concerns as well. SEC is now examining how SPAC disclose their ownership and compensation is tied to an acquisition 
+Over the last 2 years, SPACs are getting more popular.
 
 # Definition
-Special Purpose Acquisition Companies (SPAC) also known as Blank check companies offer private businesses a fast-track to going public that bypasses traditional IPO Process. 
+**Special Purpose Acquisition Companies (SPAC) also known as Blank check companies** offer private businesses a fast-track to going public that bypasses traditional IPO Process. 
 SPACs are public shell companies that exist for single purpose - finding a private company and taking it to a market quickly.
 
 ## History
@@ -31,6 +29,8 @@ In 2020, Bill Ackman launched the biggest SPAC ever. It can take very, very larg
 
 ![](https://github.com/hashxim/hconMD/raw/master/Work_MD/Resources/image.png)
 
+The activity has already quadrupled in 2020. Some investors say its an efficient way for companies to go public but critics say it allows for backdoor deals.
+
 ## Criticism
 - Investors can get into a company and then get burned. They wont have enough time to access if a company is legitimate and there is even risk of fraud.
 - Critics says that companies going public through SPAC does not get enough scrutiny as those traditional IPOs.
@@ -38,6 +38,9 @@ In 2020, Bill Ackman launched the biggest SPAC ever. It can take very, very larg
 
 ## Advantages
 - SPAC gives you an opportunity to invest in good management team where you have confidence on them to do some sort of profitable deal which increases the value of the investment. But its a risk (similar to writing blank check) as you don't know if they will do a good deal or not. 
+
+## Regulation 
+Federal regulators are raising concerns as well. SEC is now examining how SPAC disclose their ownership and compensation is tied to an acquisition 
 
 
 ---
@@ -47,6 +50,6 @@ Tags: #FleetingNotes , #review , #video
 Links:
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=okyT7KfnFrI&ab_channel=WallStreetJournal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0MDk3ODIzLDgxNDAxMDA5OSwtNDgyNT
-cxNzUsMTk1NTI0NTM3OF19
+eyJoaXN0b3J5IjpbLTE1MzczMDM3NDUsODE0MDEwMDk5LC00OD
+I1NzE3NSwxOTU1MjQ1Mzc4XX0=
 -->
