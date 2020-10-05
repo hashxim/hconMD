@@ -10,8 +10,8 @@ How to avoid picking bad companies in small cap space?
 There are industries which are small due to which the companies are also small. But in an industry, if you find that the gap between the dominant player and competition is wide, then the dominant player is very similar to the large cap company and can be chosen as it will continue to gain market share from its competitors.
 
 Any common red flags in companies to look for?
-When looking for high growth companies, they have to be highly profitable in terms of ROE and ROCE. But it is very simple to manage PnL and PnL might not be supported by the cash flow in the company.
+When looking for high growth companies, they have to be highly profitable in terms of ROE and ROCE. But it is very simple to manage PnL and PnL might not be supported by the cash flow in the company. If one looks at the efficiency of the cash flow accumulation compared to what is booked on the PnL side, and if cCFO is 60-70% of PAT, that itself will save you fro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg1MzM3ODEsLTEyNjUwNDIxMzMsND
-M1MDI4NTIxLC0xMjUzNjAwNTQ3LDE0NTgxODAyMDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzM3ODY5MSwtMTI2NTA0MjEzMyw0Mz
+UwMjg1MjEsLTEyNTM2MDA1NDcsMTQ1ODE4MDIwNl19
 -->
