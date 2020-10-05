@@ -14,9 +14,10 @@ Any common red flags in companies to look for?
 - Expansion - When company announces expansion, you look at the profitability of the expansion. Sometimes, pressure from market or for growth, the expansion result to incrementally lower return on capital. You cannot find companies in small cap which can grow without CAPEX. There has to be CAPEX. The incremental return on reinvested capital has to be high
 -  If return is not higher than the current one but then ROE is better than the expected return (not talking about cost of capital). In a small cap space, an expected return from an investor is 17-20% so ROE has to be ahead of this or it makes sense for the company to pay dividends.  
 
-Look for companies which have low interest from FII currently but will be darling in next 5 year. Since return expectation from FII is low compared to Indian peers (~12% vs 18%)
+Look for companies which have low interest from FII currently but will be darling in next 5 year. Since return expectation from FII is low compared to Indian peers (~12% vs ~18%). Thus earning multiple rerating would generate high returns for you. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYyODM2MSwtMTY4OTYzOTQ1NiwtOD
-I1NTk0MTU2LC02OTEwMzMyMTYsLTEyNjUwNDIxMzMsNDM1MDI4
-NTIxLC0xMjUzNjAwNTQ3LDE0NTgxODAyMDZdfQ==
+eyJoaXN0b3J5IjpbNjY1NzYyMjA0LC0xMzY2MjgzNjEsLTE2OD
+k2Mzk0NTYsLTgyNTU5NDE1NiwtNjkxMDMzMjE2LC0xMjY1MDQy
+MTMzLDQzNTAyODUyMSwtMTI1MzYwMDU0NywxNDU4MTgwMjA2XX
+0=
 -->
