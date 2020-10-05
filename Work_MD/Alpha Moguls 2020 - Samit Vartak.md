@@ -15,9 +15,12 @@ There are industries which are small due to which the companies are also small. 
 ### Red flags in bad companies
 **Any common red flags in companies to look for?**
 - When looking for high growth companies, they have to be highly profitable in terms of ROE and ROCE. But it is very simple to manage PnL and PnL might not be supported by the cash flow in the company. If one looks at the efficiency of the cash flow accumulation compared to what is booked on the PnL side, and if cCFO is 60-70% of PAT, that itself will save you from lot of fraudulent companies. 
+
+## How to make sense of Expansion?
 - Expansion - When company announces expansion, you look at the profitability of the expansion. Sometimes, pressure from market or for growth, the expansion result to incrementally lower return on capital. You cannot find companies in small cap which can grow without CAPEX. There has to be CAPEX. The incremental return on reinvested capital has to be high
 -  If return is not higher than the current one but then ROE is better than the expected return (not talking about cost of capital). In a small cap space, an expected return from an investor is 17-20% so ROE has to be ahead of this or it makes sense for the company to pay dividends.  
 
+## Re-rating
 Look for companies which have low interest from FII currently but will be darling in next 5 year. Since return expectation from FII is low compared to Indian peers (~12% vs ~18%). Thus earning multiple rerating would generate high returns for you. 
 
 Market Leader vs Competitor which is snatching market share from leader?
@@ -26,7 +29,7 @@ Prefer competition which is snatching market share away. One need to understand 
 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=58s&ab_channel=BloombergQuint&v=tJy1veLrzpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAwNzQ1MTgsLTIwMDE4MjUxMzEsLT
+eyJoaXN0b3J5IjpbLTEwNjk0OTczOTEsLTIwMDE4MjUxMzEsLT
 EzNjYyODM2MSwtMTY4OTYzOTQ1NiwtODI1NTk0MTU2LC02OTEw
 MzMyMTYsLTEyNjUwNDIxMzMsNDM1MDI4NTIxLC0xMjUzNjAwNT
 Q3LDE0NTgxODAyMDZdfQ==
