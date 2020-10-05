@@ -11,8 +11,9 @@ There are industries which are small due to which the companies are also small. 
 
 Any common red flags in companies to look for?
 - When looking for high growth companies, they have to be highly profitable in terms of ROE and ROCE. But it is very simple to manage PnL and PnL might not be supported by the cash flow in the company. If one looks at the efficiency of the cash flow accumulation compared to what is booked on the PnL side, and if cCFO is 60-70% of PAT, that itself will save you from lot of fraudulent companies. 
-- Expansion - When company announces expansion, you look at the profitability of the expansion. Sometimes, pressure from market or for growth, the expansion result to incrementally lower return on capital. 
+- Expansion - When company announces expansion, you look at the profitability of the expansion. Sometimes, pressure from market or for growth, the expansion result to incrementally lower return on capital. You cannot find companies in small cap which can grow without CAPEX. There has to be CAPEX. The incremental return on reinvested capital has to be high
+-  If return is not higher than the current one but 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTkzNjEzNywtMTI2NTA0MjEzMyw0Mz
+eyJoaXN0b3J5IjpbLTY5MTAzMzIxNiwtMTI2NTA0MjEzMyw0Mz
 UwMjg1MjEsLTEyNTM2MDA1NDcsMTQ1ODE4MDIwNl19
 -->
