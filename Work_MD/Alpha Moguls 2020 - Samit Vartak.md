@@ -7,8 +7,11 @@ Easier to find earning doubler in non-large cap space. For top 100 companies, th
 It is extremely difficult for companies to remain dominant over a decade. When one looks at top 100 companies, they are looking at companies who were dominant in last decade. Investors have to look for companies who will become dominate in next decade.  
 
 How to avoid picking bad companies in small cap space?
-There are industries which are small due to which the companies are also small. But in an industry, if you find that the gap between the dominant player and competition is wide and 
+There are industries which are small due to which the companies are also small. But in an industry, if you find that the gap between the dominant player and competition is wide, then the dominant player is very similar to the large cap company and can be chosen as it will continue to gain market share from its competitors.
+
+Any common red flags in companies to look for?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg3MDk4NTksLTEyNjUwNDIxMzMsND
+eyJoaXN0b3J5IjpbLTE0NzQzMDcwMzcsLTEyNjUwNDIxMzMsND
 M1MDI4NTIxLC0xMjUzNjAwNTQ3LDE0NTgxODAyMDZdfQ==
 -->
