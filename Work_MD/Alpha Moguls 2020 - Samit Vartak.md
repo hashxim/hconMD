@@ -13,8 +13,10 @@ Any common red flags in companies to look for?
 - When looking for high growth companies, they have to be highly profitable in terms of ROE and ROCE. But it is very simple to manage PnL and PnL might not be supported by the cash flow in the company. If one looks at the efficiency of the cash flow accumulation compared to what is booked on the PnL side, and if cCFO is 60-70% of PAT, that itself will save you from lot of fraudulent companies. 
 - Expansion - When company announces expansion, you look at the profitability of the expansion. Sometimes, pressure from market or for growth, the expansion result to incrementally lower return on capital. You cannot find companies in small cap which can grow without CAPEX. There has to be CAPEX. The incremental return on reinvested capital has to be high
 -  If return is not higher than the current one but then ROE is better than the expected return (not talking about cost of capital). In a small cap space, an expected return from an investor is 17-20% so ROE has to be ahead of this or it makes sense for the company to pay dividends.  
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk2Mzk0NTYsLTgyNTU5NDE1NiwtNj
-kxMDMzMjE2LC0xMjY1MDQyMTMzLDQzNTAyODUyMSwtMTI1MzYw
-MDU0NywxNDU4MTgwMjA2XX0=
+eyJoaXN0b3J5IjpbMjAzMjUwMDQxMiwtMTY4OTYzOTQ1NiwtOD
+I1NTk0MTU2LC02OTEwMzMyMTYsLTEyNjUwNDIxMzMsNDM1MDI4
+NTIxLC0xMjUzNjAwNTQ3LDE0NTgxODAyMDZdfQ==
 -->
