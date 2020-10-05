@@ -15,9 +15,12 @@ Any common red flags in companies to look for?
 -  If return is not higher than the current one but then ROE is better than the expected return (not talking about cost of capital). In a small cap space, an expected return from an investor is 17-20% so ROE has to be ahead of this or it makes sense for the company to pay dividends.  
 
 Look for companies which have low interest from FII currently but will be darling in next 5 year. Since return expectation from FII is low compared to Indian peers (~12% vs ~18%). Thus earning multiple rerating would generate high returns for you. 
+
+Market Leader vs Competitor which is snatching market share from leader?
+Prefer competition which is snatching market share away. Reason is
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1NzYyMjA0LC0xMzY2MjgzNjEsLTE2OD
-k2Mzk0NTYsLTgyNTU5NDE1NiwtNjkxMDMzMjE2LC0xMjY1MDQy
-MTMzLDQzNTAyODUyMSwtMTI1MzYwMDU0NywxNDU4MTgwMjA2XX
-0=
+eyJoaXN0b3J5IjpbLTc2ODkzMjgxOSwtMTM2NjI4MzYxLC0xNj
+g5NjM5NDU2LC04MjU1OTQxNTYsLTY5MTAzMzIxNiwtMTI2NTA0
+MjEzMyw0MzUwMjg1MjEsLTEyNTM2MDA1NDcsMTQ1ODE4MDIwNl
+19
 -->
