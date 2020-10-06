@@ -23,14 +23,14 @@ There are industries which are small due to which the companies are also small. 
 ## Re-rating
 Look for companies which have low interest from FII currently but will be darling in next 5 year. Since return expectation from FII is low compared to Indian peers (~12% vs ~18%). Thus earning multiple rerating would generate high returns for you. 
 
-Market Leader vs Competitor which is snatching market share from leader?
+**Market Leader vs Competitor which is snatching market share from leader?**
 Prefer competition which is snatching market share away. One need to understand why a company is acquiring market share from the leader. 
 
 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=58s&ab_channel=BloombergQuint&v=tJy1veLrzpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk0OTczOTEsLTIwMDE4MjUxMzEsLT
-EzNjYyODM2MSwtMTY4OTYzOTQ1NiwtODI1NTk0MTU2LC02OTEw
-MzMyMTYsLTEyNjUwNDIxMzMsNDM1MDI4NTIxLC0xMjUzNjAwNT
-Q3LDE0NTgxODAyMDZdfQ==
+eyJoaXN0b3J5IjpbMTg3OTc2MTQyNSwtMjAwMTgyNTEzMSwtMT
+M2NjI4MzYxLC0xNjg5NjM5NDU2LC04MjU1OTQxNTYsLTY5MTAz
+MzIxNiwtMTI2NTA0MjEzMyw0MzUwMjg1MjEsLTEyNTM2MDA1ND
+csMTQ1ODE4MDIwNl19
 -->
