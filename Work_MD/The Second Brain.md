@@ -9,7 +9,9 @@ We all think creativity as creating original stuff.
 
 Creativity is all about remixing stuff.
 
-## Principle 2
+## Principle 2: Capture Habit
+ Our brains are for having ideas and not for storing them. So whenever we get an idea or anything that resonates with us,  we want to capture that idea as soon as pos
+
 
 
 [Note#Footer|Footer]
@@ -20,6 +22,6 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAwNjM5ODEsMTA4NTUyMjE3OCwtMT
-YxMDQ4NDY2OV19
+eyJoaXN0b3J5IjpbLTIxNTM3NDI4NywxMDg1NTIyMTc4LC0xNj
+EwNDg0NjY5XX0=
 -->
