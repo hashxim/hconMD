@@ -6,7 +6,7 @@
 
 ## Devices 
 - Mobile
-	- Apps - Google drive, MoonReader+, FolderSync, X-plore, Markor, Acrobat Reader, Trello
+	- Apps - Google drive, Moon+ Reader, FolderSync, X-plore, Markor, Acrobat Reader, Trello
 - iPad
 	- Apps - Google drive, Acrobat Reader, Drafts, Trello, 
 - Personal Laptop
@@ -20,5 +20,6 @@
 # Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg2MjYzOTEsMTY2MDA2OTc0M119
+eyJoaXN0b3J5IjpbLTU5Mjk4NzU5MywtMjAyODYyNjM5MSwxNj
+YwMDY5NzQzXX0=
 -->
