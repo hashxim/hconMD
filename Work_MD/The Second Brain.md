@@ -13,7 +13,10 @@ Creativity is all about remixing stuff.
  Our brains are for having ideas and not for storing them. So whenever we get an idea or anything that resonates with us,  we want to capture that idea as soon as possible as our brains will not going to hold on to it for very long bit. 
 
 ## Principle 3: Idea Recycling
-Ideas are not for single use but we can recycle ideas over time and based on whatever note taking system we are using, we want to keep track of all the stuff we are creating
+Ideas are not for single use but we can recycle ideas over time and based on whatever note taking system we are using, we want to keep track of all the stuff we are creating and reuse them when you are working on something.
+
+## Principle 4: Projects over Categories
+
 
 [Note#Footer|Footer]
 
@@ -23,6 +26,6 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTczMjc5NiwxMDg1NTIyMTc4LC0xNj
-EwNDg0NjY5XX0=
+eyJoaXN0b3J5IjpbNDQ0NjAyNTcyLDEwODU1MjIxNzgsLTE2MT
+A0ODQ2NjldfQ==
 -->
