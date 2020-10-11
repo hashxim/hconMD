@@ -6,8 +6,9 @@
 
 ## Devices 
 - Mobile
-	- Apps - Google drive, MoonReader+, FolderSync, X
+	- Apps - Google drive, MoonReader+, FolderSync, X-plore, Markor, Acrobat Reader
 - iPad
+	- Apps - Google drive, Acrobat Reader, 
 - Personal Laptop
 - Work Laptop
 - External System
@@ -19,5 +20,5 @@
 # Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDg1OTU5OV19
+eyJoaXN0b3J5IjpbMTY2MDA2OTc0M119
 -->
