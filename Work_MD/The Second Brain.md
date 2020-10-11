@@ -32,7 +32,7 @@ Opposite of heavy lifts is slow burns. Main idea is we have list of projects and
 Everything you create is a collection of intermediate Packets which can be re-used again in other projects. 
 
 ## Principle 8: You only know what you make
-When we engage with the material itself (writing summary of the book, ) rather than relying on pre-existing material. 
+When we engage with the material itself (writing summary of the book, writing tweet storm from podcast etc.) rather than relying on pre-existing material, we end up becoming much more familiar with it.  
 
 [Note#Footer|Footer]
 
@@ -42,6 +42,6 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDQ2MjQ5OCwxMDg1NTIyMTc4LC0xNj
-EwNDg0NjY5XX0=
+eyJoaXN0b3J5IjpbMTc0MDQwNzA2NCwtMjgwNDYyNDk4LDEwOD
+U1MjIxNzgsLTE2MTA0ODQ2NjldfQ==
 -->
