@@ -23,7 +23,10 @@ So initially when note is created, it will go into a common inbox but then I try
 ## Principle 5:  Slow Burns
 Most of the things I do are slow burns rather than heavy lifts. For example, you want to write a  book or an online course, and you think I will go to my cabin in the woods and sit down and do all the work in a small amount of time. So this is like a heavy lift which you have to do in one go. 
 
-Opposite of heavy lifts is slow burns. Main idea is we have list of projects and all are on slow burner. So instead of doing a big project one at a time, I am doing all the 10 projects in very 
+Opposite of heavy lifts is slow burns. Main idea is we have list of projects and all are on slow burner. So instead of doing a big project one at a time, I am doing all the 10 projects in very small amounts and so integrating it together would be easy. 
+
+## Principle 6: Start with Abundance
+ When you have to cre 
 
 [Note#Footer|Footer]
 
@@ -33,6 +36,6 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjA0ODQ0LDEwODU1MjIxNzgsLTE2MT
-A0ODQ2NjldfQ==
+eyJoaXN0b3J5IjpbMTU2NjYxMDcxNywxMDg1NTIyMTc4LC0xNj
+EwNDg0NjY5XX0=
 -->
