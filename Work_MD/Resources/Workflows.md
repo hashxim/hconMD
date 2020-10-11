@@ -10,9 +10,11 @@
 - iPad
 	- Apps - Google drive, Acrobat Reader, Drafts, Trello, KyBook
 - Personal Laptop
-	- Apps - Backup & Sync, 
+	- Apps - Backup & Sync, Trello, Acrobat Reader,
 - Work Laptop
 - External System
+
+## Online 
 
 # Articles
 
@@ -21,6 +23,6 @@
 # Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg4NTc2OTMsLTU5Mjk4NzU5MywtMj
-AyODYyNjM5MSwxNjYwMDY5NzQzXX0=
+eyJoaXN0b3J5IjpbOTAyMzEwMzA3LC01OTI5ODc1OTMsLTIwMj
+g2MjYzOTEsMTY2MDA2OTc0M119
 -->
