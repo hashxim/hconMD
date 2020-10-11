@@ -12,6 +12,7 @@
 - Personal Laptop
 	- Apps - Backup & Sync, Trello, Acrobat Reader,
 - Work Laptop
+	- Trello 
 - External System
 
 ## Online 
@@ -23,6 +24,6 @@
 # Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMzEwMzA3LC01OTI5ODc1OTMsLTIwMj
-g2MjYzOTEsMTY2MDA2OTc0M119
+eyJoaXN0b3J5IjpbNDI1OTM1NTgyLDkwMjMxMDMwNywtNTkyOT
+g3NTkzLC0yMDI4NjI2MzkxLDE2NjAwNjk3NDNdfQ==
 -->
