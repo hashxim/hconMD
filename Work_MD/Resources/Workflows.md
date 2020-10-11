@@ -8,8 +8,9 @@
 - Mobile
 	- Apps - Google drive, Moon+ Reader, FolderSync, X-plore, Markor, Acrobat Reader, Trello
 - iPad
-	- Apps - Google drive, Acrobat Reader, Drafts, Trello, 
+	- Apps - Google drive, Acrobat Reader, Drafts, Trello, KyBook
 - Personal Laptop
+	- Apps - Backup & Sync, 
 - Work Laptop
 - External System
 
@@ -20,6 +21,6 @@
 # Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mjk4NzU5MywtMjAyODYyNjM5MSwxNj
-YwMDY5NzQzXX0=
+eyJoaXN0b3J5IjpbLTIwMTg4NTc2OTMsLTU5Mjk4NzU5MywtMj
+AyODYyNjM5MSwxNjYwMDY5NzQzXX0=
 -->
