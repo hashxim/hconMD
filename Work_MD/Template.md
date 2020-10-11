@@ -1,7 +1,9 @@
 `Summary`
 
 
-[Footer|Footer]
+
+
+[Note#Footer|Footer]
 
 ---
 # Footer
@@ -9,5 +11,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzgxMzMzOF19
+eyJoaXN0b3J5IjpbLTcxMjY0MDc5MV19
 -->
