@@ -25,9 +25,9 @@ One should observe whether the investments made are coming on the back of
 
 
 # Footer
-Tags: #FleetingNotes, #review, 
+Tags: #FleetingNotes, #review, #incompleteNotes
 Links: 
 [Source](https://www.alphainvesco.com/blog/cash-flow-from-investing-activities/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNDk1MzU5XX0=
+eyJoaXN0b3J5IjpbMTI2NzY4NDc5OSw4OTM0OTUzNTldfQ==
 -->
