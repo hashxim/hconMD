@@ -26,11 +26,12 @@ Look for companies which have low interest from FII currently but will be darlin
 **Market Leader vs Competitor which is snatching market share from leader?**
 Prefer competition which is snatching market share away. One need to understand why a company is acquiring market share from the leader. 
 
-
+Tags: #video , #FleetingNotes, #review
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=58s&ab_channel=BloombergQuint&v=tJy1veLrzpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTc2MTQyNSwtMjAwMTgyNTEzMSwtMT
-M2NjI4MzYxLC0xNjg5NjM5NDU2LC04MjU1OTQxNTYsLTY5MTAz
-MzIxNiwtMTI2NTA0MjEzMyw0MzUwMjg1MjEsLTEyNTM2MDA1ND
-csMTQ1ODE4MDIwNl19
+eyJoaXN0b3J5IjpbLTU0ODg3OTMyOSwxODc5NzYxNDI1LC0yMD
+AxODI1MTMxLC0xMzY2MjgzNjEsLTE2ODk2Mzk0NTYsLTgyNTU5
+NDE1NiwtNjkxMDMzMjE2LC0xMjY1MDQyMTMzLDQzNTAyODUyMS
+wtMTI1MzYwMDU0NywxNDU4MTgwMjA2XX0=
 -->
