@@ -4,7 +4,7 @@ Concept is you build a Second Brain which is a digital note taking system which 
 
 This will cover 10 fundamental principals of building a second brain:
 
-## Principal 1:  
+## Principal 1:  Borrowed
 
 
 [Note#Footer|Footer]
@@ -15,5 +15,6 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA0ODQ2NjldfQ==
+eyJoaXN0b3J5IjpbLTE4NjAxODkxMDUsLTE2MTA0ODQ2NjldfQ
+==
 -->
