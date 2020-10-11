@@ -26,7 +26,7 @@ Most of the things I do are slow burns rather than heavy lifts. For example, you
 Opposite of heavy lifts is slow burns. Main idea is we have list of projects and all are on slow burner. So instead of doing a big project one at a time, I am doing all the 10 projects in very small amounts and so integrating it together would be easy. 
 
 ## Principle 6: Start with Abundance
- When you have to cre 
+ When you have to create anything or write anything or presentation, you dont start with blank page. You must have collected notes or sources over time and this is called abundance.  You just need to search for the keyword and  
 
 [Note#Footer|Footer]
 
@@ -36,6 +36,6 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjYxMDcxNywxMDg1NTIyMTc4LC0xNj
+eyJoaXN0b3J5IjpbMTAzMzUzNzYxMCwxMDg1NTIyMTc4LC0xNj
 EwNDg0NjY5XX0=
 -->
