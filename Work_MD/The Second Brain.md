@@ -29,7 +29,9 @@ Opposite of heavy lifts is slow burns. Main idea is we have list of projects and
  When you have to create anything or write anything or presentation, you dont start with blank page. You must have collected notes or sources over time and this is called abundance.  You just need to search for the keyword and it will give you results from notes you have taken or annotated or read or saved.
 
 ## Principle 7: Intermediate Packets
- 
+Everything you create is a collection of intermediate Packets which can be re-used again in other projects. 
+
+## Principle 8:  
 
 [Note#Footer|Footer]
 
@@ -39,6 +41,6 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA4OTg1OTUsMTA4NTUyMjE3OCwtMT
-YxMDQ4NDY2OV19
+eyJoaXN0b3J5IjpbLTEyMjg4MTU3OSwxMDg1NTIyMTc4LC0xNj
+EwNDg0NjY5XX0=
 -->
