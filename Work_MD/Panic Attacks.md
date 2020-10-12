@@ -1,6 +1,8 @@
 `Summary`
 
-A sensation so overwhelming, many people mistake it for heart attack, stroke or other life threatn
+A sensation so overwhelming, many people mistake it for heart attack, stroke or other life threatening crisis. 
+
+Though panic attacks don't cause long-term physical harm afterwards, the fear of another attack can limit someone's daily life and cause more panic attack.
 
 ## Reason
 
@@ -10,9 +12,9 @@ A sensation so overwhelming, many people mistake it for heart attack, stroke or 
 
 ---
 # Footer
-Tags: #FleetingNotes, #review
+Tags: #FleetingNotes, #review , #video
 Links: 
-[Source]()
+[Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzk4NTM5NF19
+eyJoaXN0b3J5IjpbMTM4MjA0OTUxOF19
 -->
