@@ -1,4 +1,4 @@
-`Summary`
+`10 key principles to follow while creating Personal Knowledge Management (PKM) system`
 
 Concept is you build a Second Brain which is a digital note taking system which is whatever you read, watch, listen which resonates with you and then you can use your second brain to organize your ideas and ultimately will convert them into creative output. 
 
@@ -49,7 +49,7 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjk5OTAxMywxOTQ1MTkwMDksMTgwND
+eyJoaXN0b3J5IjpbLTkwMDA4OTkxMywxOTQ1MTkwMDksMTgwND
 U3NzE1MCwtMjgwNDYyNDk4LDEwODU1MjIxNzgsLTE2MTA0ODQ2
 NjldfQ==
 -->
