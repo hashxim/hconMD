@@ -37,6 +37,7 @@ When we engage with the material itself (writing summary of the book, writing tw
 ## Principle 9: Make it easier for your future self
  Notes created  currently would be consumed by future self. Try to make it easy to get idea about what you were thinking about when you created this note, reason behind writing this note and easy to understand (in your own words)
 
+## 
  
 
 [Note#Footer|Footer]
@@ -47,6 +48,7 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTE5MDA5LDE4MDQ1NzcxNTAsLTI4MD
-Q2MjQ5OCwxMDg1NTIyMTc4LC0xNjEwNDg0NjY5XX0=
+eyJoaXN0b3J5IjpbNzMwODI0ODU1LDE5NDUxOTAwOSwxODA0NT
+c3MTUwLC0yODA0NjI0OTgsMTA4NTUyMjE3OCwtMTYxMDQ4NDY2
+OV19
 -->
