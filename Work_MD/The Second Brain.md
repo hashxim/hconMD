@@ -37,7 +37,8 @@ When we engage with the material itself (writing summary of the book, writing tw
 ## Principle 9: Make it easier for your future self
  Notes created  currently would be consumed by future self. Try to make it easy to get idea about what you were thinking about when you created this note, reason behind writing this note and easy to understand (in your own words)
 
-## 
+## Principle 10: Keep your ideas moving
+Instead of focussing too much on your knowledge management system, focus on content created and how to get insights out of it. It is not about a perfect note taking system, but the system that keeps the ideas moving.
  
 
 [Note#Footer|Footer]
@@ -48,7 +49,7 @@ Tags: #FleetingNotes , #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&v=OP3dA2GcAh8&t=76s&ab_channel=AliAbdaal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwODI0ODU1LDE5NDUxOTAwOSwxODA0NT
-c3MTUwLC0yODA0NjI0OTgsMTA4NTUyMjE3OCwtMTYxMDQ4NDY2
-OV19
+eyJoaXN0b3J5IjpbLTkyNjk5OTAxMywxOTQ1MTkwMDksMTgwND
+U3NzE1MCwtMjgwNDYyNDk4LDEwODU1MjIxNzgsLTE2MTA0ODQ2
+NjldfQ==
 -->
