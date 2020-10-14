@@ -7,7 +7,7 @@ Though panic attacks don't cause long-term physical harm afterwards, the fear of
 Atleast 1/3 of us will experience atleast one panic attack in out lives. 
 
 ## What is Panic Attack?
-At its core, it is an overreaction to the body's  normal physiological response to the perception of danger. This response starts at the **Amygdala**
+At its core, it is an overreaction to the body's  normal physiological response to the perception of danger. This response starts at the **Amygdala** (region of brain involved in processing fear). When Amygdala perceives danger, it stimulates the sympathetic nervous system which triggers release of **adrenaline**. Adrenaline causes increase  in heart and br
 
 ## Reason
 
@@ -21,5 +21,5 @@ Tags: #FleetingNotes, #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTMxNjU4MCwtMTYxNTUxMjI3XX0=
+eyJoaXN0b3J5IjpbMTg3OTk0NDUxMSwtMTYxNTUxMjI3XX0=
 -->
