@@ -12,7 +12,9 @@ At its core, it is an overreaction to the body's  normal physiological response 
 A panic attack usually peaks within 10 minutes. Then, the prefrontal cortex takes over the amygdala and stimulates **parasympathetic nervous system**. This releases hormone called **acetylcholine** that decreases the heart rate and winds down panic attack. 
 
 ## Reason
-We don't know for sure why this happens. But 
+We don't know for sure why this happens. But sometimes cues in the environment that reminds us of traumatic past experience can trigger panic attack. 
+
+Panic attack can be part of anxiety disorder like PTSD, social anxiety disorder, OCD and generalized anxiety disorder. 
 
 
 [Note#Footer|Footer]
@@ -23,5 +25,5 @@ Tags: #FleetingNotes, #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3ODcxNjAyLC0xNjE1NTEyMjddfQ==
+eyJoaXN0b3J5IjpbLTI5ODEwNzA0NCwtMTYxNTUxMjI3XX0=
 -->
