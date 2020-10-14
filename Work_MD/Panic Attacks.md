@@ -16,6 +16,8 @@ We don't know for sure why this happens. But sometimes cues in the environment t
 
 Panic attack can be part of anxiety disorder like PTSD, social anxiety disorder, OCD and generalized anxiety disorder. 
 
+## Treatment
+
 
 [Note#Footer|Footer]
 
@@ -25,5 +27,5 @@ Tags: #FleetingNotes, #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODEwNzA0NCwtMTYxNTUxMjI3XX0=
+eyJoaXN0b3J5IjpbLTc0MDM5NTg3MiwtMTYxNTUxMjI3XX0=
 -->
