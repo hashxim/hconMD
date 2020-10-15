@@ -7,7 +7,7 @@ Though panic attacks don't cause long-term physical harm afterwards, the fear of
 
 Atleast 1/3 of us will experience atleast one panic attack in out lives. 
 
-Even if you never had panic attack, but recognizing it will be first step to prevent them.
+Even if you never had panic attack, but  understanding them will help you identify one  and recognizing it will be first step to prevent them.
 
 ## What is Panic Attack?
 At its core, it is an overreaction to the body's  normal physiological response to the perception of danger. This response starts at the **Amygdala** (region of brain involved in processing fear). When Amygdala perceives danger, it stimulates the **sympathetic nervous system** which triggers release of **adrenaline**. Adrenaline causes increase  in heart (hyperventilation) and breathing rate to get blood and oxygen to muscles of arms and legs. This also sends more oxygen to the brain which makes it more alert and responsive. The changes to blood flow causes lightheadedness and numbness in hands and feet. 
@@ -54,6 +54,6 @@ Links:
 #Questions
 - What is relapse?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTI2MTMwNywtNzQwMzk1ODcyLC0xNj
+eyJoaXN0b3J5IjpbMTM4NjY3MDExOCwtNzQwMzk1ODcyLC0xNj
 E1NTEyMjddfQ==
 -->
