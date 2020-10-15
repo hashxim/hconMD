@@ -1,4 +1,4 @@
-`Summary`
+`Panic attacks are overreaction to the body'd norEven if you never had panic attack, but recognizing it will be first step to prevent them.`
 
 A sensation so overwhelming, many people mistake it for heart attack, stroke or other life threatening crisis. 
 
@@ -38,7 +38,9 @@ The next stage of treatment is exposure to the bodily sensations and situations 
 
 Even after CBT, taking these steps isn't easy in the grip of an attack. But with practice, these tools can both prevent and de-escalate attacks, and ultimately reduce the hold of panic on a person's life. 
 
-> Outside formal  therapy, many panickers find relief from the same beliefs CBT aims to instill: ==that 
+> Outside formal  therapy, many panickers find relief from the same beliefs CBT aims to instill: ==fear can't hurt you, but holding on to it will escalate panic==
+
+ 
 
 
 
@@ -52,6 +54,6 @@ Links:
 #Questions
 - What is relapse?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Njc0ODYwNSwtNzQwMzk1ODcyLC0xNj
-E1NTEyMjddfQ==
+eyJoaXN0b3J5IjpbLTEyNDk2ODc3MzUsLTc0MDM5NTg3MiwtMT
+YxNTUxMjI3XX0=
 -->
