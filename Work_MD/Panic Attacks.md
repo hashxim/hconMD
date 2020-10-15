@@ -31,8 +31,12 @@ CBT is more lasting with only 20% relapse rate. The goal of CBT for panic disord
 
 #### CBT Treatment Procedure
 CBT begins with an explanation of the physiological causes of a panic attack, followed by breadth and muscle exercises designed to help people consciously control breathing patterns. 
+
 Next comes cognitive restructuring which involves identifying and changing the thoughts that are common during the attack such as believing you'll stop breathing, have a heart attach, or die - and replacing them with more accurate thoughts.
-The next stage of treatment is exposure to the bodily sensations and situations that typically trigger a panic attack. The goal is to change the belied
+
+The next stage of treatment is exposure to the bodily sensations and situations that typically trigger a panic attack. The goal is to change the belief, through experience, that these sensations and situations are dangerous. 
+
+Even after CBT, taking these steps isn't easy in the grip of an attack. But with practice, these tools can both prevent and de-escalate attacks, 
 
 
 
@@ -46,6 +50,6 @@ Links:
 #Questions
 - What is relapse?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDc2NTUwMSwtNzQwMzk1ODcyLC0xNj
+eyJoaXN0b3J5IjpbMjA0ODc3NzMxOCwtNzQwMzk1ODcyLC0xNj
 E1NTEyMjddfQ==
 -->
