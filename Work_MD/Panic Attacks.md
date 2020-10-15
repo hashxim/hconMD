@@ -22,11 +22,17 @@ Panic attack can be part of anxiety disorder like PTSD, social anxiety disorder,
 - Cognitive behavioral therapy (CBT)
 
 Both have about 40% response rate (someone who may respond to one may not respond to the other). 
-**antidepressant medication has some side effects and 50% of people relapse when they stop taking them** 
 
+### Antidepressant
+**Antidepressant medication has some side effects and 50% of people relapse when they stop taking them** 
+
+### CBT
 CBT is more lasting with only 20% relapse rate. The goal of CBT for panic disorder is to help people learn and practice concrete tools to exert physical and in turn mental control over the sensations and thoughts associated with a panic attack. 
 
-CBT begins with an explanation of the physiological causes of a panic attack, followed by breadth and muscle exercises designed to help people consciously control breathing patterns. Next comes cognitive restructuring which involves identifying and changing the thoughts that are common during the attack such as believing you'll stop breathing, have a heart attach, or die - and replacing them with more accurate thoughts
+#### CBT Treatment Procedure
+CBT begins with an explanation of the physiological causes of a panic attack, followed by breadth and muscle exercises designed to help people consciously control breathing patterns. 
+Next comes cognitive restructuring which involves identifying and changing the thoughts that are common during the attack such as believing you'll stop breathing, have a heart attach, or die - and replacing them with more accurate thoughts.
+The next stage of treatment is exposure to the bodily sensations and situations that typically trigger a panic attack. The goal is to change the belied
 
 
 
@@ -40,6 +46,6 @@ Links:
 #Questions
 - What is relapse?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODIyMTc2LC03NDAzOTU4NzIsLTE2MT
-U1MTIyN119
+eyJoaXN0b3J5IjpbMTIwMDc2NTUwMSwtNzQwMzk1ODcyLC0xNj
+E1NTEyMjddfQ==
 -->
