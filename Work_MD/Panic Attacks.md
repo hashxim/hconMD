@@ -19,6 +19,8 @@ Panic attack can be part of anxiety disorder like PTSD, social anxiety disorder,
 ## Treatment
 
 
+
+
 [Note#Footer|Footer]
 
 ---
@@ -27,5 +29,6 @@ Tags: #FleetingNotes, #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDM5NTg3MiwtMTYxNTUxMjI3XX0=
+eyJoaXN0b3J5IjpbODYzMzg4NjY4LC03NDAzOTU4NzIsLTE2MT
+U1MTIyN119
 -->
