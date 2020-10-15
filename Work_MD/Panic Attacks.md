@@ -17,7 +17,11 @@ We don't know for sure why this happens. But sometimes cues in the environment t
 Panic attack can be part of anxiety disorder like PTSD, social anxiety disorder, OCD and generalized anxiety disorder. 
 
 ## Treatment
+2 main treatment for panic disorder
+- Antidepressant medication
+- Cognitive behavioral therapy (CBT)
 
+Both have about 40% response rate (someone who may re 
 
 
 
@@ -29,6 +33,6 @@ Tags: #FleetingNotes, #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMzg4NjY4LC03NDAzOTU4NzIsLTE2MT
+eyJoaXN0b3J5IjpbNTgyNTcwODI3LC03NDAzOTU4NzIsLTE2MT
 U1MTIyN119
 -->
