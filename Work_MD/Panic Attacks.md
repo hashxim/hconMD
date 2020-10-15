@@ -21,7 +21,9 @@ Panic attack can be part of anxiety disorder like PTSD, social anxiety disorder,
 - Antidepressant medication
 - Cognitive behavioral therapy (CBT)
 
-Both have about 40% response rate (someone who may re 
+Both have about 40% response rate (someone who may respond to one may not respond to the other). However, **antidepressant medication has some side effects and 50% of people relapse when they stop taking them** 
+
+CBT is more lasting with only 20% relapse rate
 
 
 
@@ -32,7 +34,8 @@ Both have about 40% response rate (someone who may re
 Tags: #FleetingNotes, #review , #video
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
+Questions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNTcwODI3LC03NDAzOTU4NzIsLTE2MT
-U1MTIyN119
+eyJoaXN0b3J5IjpbLTE4MjA5NDY3MDQsLTc0MDM5NTg3MiwtMT
+YxNTUxMjI3XX0=
 -->
