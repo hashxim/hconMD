@@ -1,10 +1,13 @@
-`Panic attacks are overreaction to the body'd norEven if you never had panic attack, but recognizing it will be first step to prevent them.`
+`Panic attacks are overreaction to the body'd normal physiological response to the perception of danger. Treatments: Antidepressant and CBT Therapy. `
 
+## Introduction
 A sensation so overwhelming, many people mistake it for heart attack, stroke or other life threatening crisis. 
 
 Though panic attacks don't cause long-term physical harm afterwards, the fear of another attack can limit someone's daily life and cause more panic attack.
 
 Atleast 1/3 of us will experience atleast one panic attack in out lives. 
+
+Even if you never had panic attack, but recognizing it will be first step to prevent them.
 
 ## What is Panic Attack?
 At its core, it is an overreaction to the body's  normal physiological response to the perception of danger. This response starts at the **Amygdala** (region of brain involved in processing fear). When Amygdala perceives danger, it stimulates the **sympathetic nervous system** which triggers release of **adrenaline**. Adrenaline causes increase  in heart (hyperventilation) and breathing rate to get blood and oxygen to muscles of arms and legs. This also sends more oxygen to the brain which makes it more alert and responsive. The changes to blood flow causes lightheadedness and numbness in hands and feet. 
@@ -40,9 +43,6 @@ Even after CBT, taking these steps isn't easy in the grip of an attack. But with
 
 > Outside formal  therapy, many panickers find relief from the same beliefs CBT aims to instill: ==fear can't hurt you, but holding on to it will escalate panic==
 
- 
-
-
 
 [Note#Footer|Footer]
 
@@ -54,6 +54,6 @@ Links:
 #Questions
 - What is relapse?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk2ODc3MzUsLTc0MDM5NTg3MiwtMT
-YxNTUxMjI3XX0=
+eyJoaXN0b3J5IjpbMTQ4OTI2MTMwNywtNzQwMzk1ODcyLC0xNj
+E1NTEyMjddfQ==
 -->
