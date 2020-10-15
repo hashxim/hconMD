@@ -48,12 +48,12 @@ Even after CBT, taking these steps isn't easy in the grip of an attack. But with
 
 ---
 # Footer
-Tags: #FleetingNotes, #review , #video
+Tags: #FleetingNotes, #review , #video, #
 Links: 
 [Source](https://www.youtube.com/watch?edufilter=NULL&t=78s&v=IzFObkVRSV0&ab_channel=TED-Ed)
 #Questions
 - What is relapse?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjY3MDExOCwtNzQwMzk1ODcyLC0xNj
-E1NTEyMjddfQ==
+eyJoaXN0b3J5IjpbOTkxODg3NTksLTc0MDM5NTg3MiwtMTYxNT
+UxMjI3XX0=
 -->
