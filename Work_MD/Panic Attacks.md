@@ -36,7 +36,9 @@ Next comes cognitive restructuring which involves identifying and changing the t
 
 The next stage of treatment is exposure to the bodily sensations and situations that typically trigger a panic attack. The goal is to change the belief, through experience, that these sensations and situations are dangerous. 
 
-Even after CBT, taking these steps isn't easy in the grip of an attack. But with practice, these tools can both prevent and de-escalate attacks, 
+Even after CBT, taking these steps isn't easy in the grip of an attack. But with practice, these tools can both prevent and de-escalate attacks, and ultimately reduce the hold of panic on a person's life. 
+
+> Outside formal  therapy, many panickers find relief from the same beliefs CBT aims to instill: ==that 
 
 
 
@@ -50,6 +52,6 @@ Links:
 #Questions
 - What is relapse?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODc3NzMxOCwtNzQwMzk1ODcyLC0xNj
+eyJoaXN0b3J5IjpbMTU1Njc0ODYwNSwtNzQwMzk1ODcyLC0xNj
 E1NTEyMjddfQ==
 -->
