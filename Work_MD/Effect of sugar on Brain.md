@@ -37,16 +37,16 @@ After sugar moves from our mouth and reaches stomach, there are also sugar recep
 ## Dopamine
 The major currency of our reward system is dopamine (chemical or neurotransmitter). There are many unevenly distributed dopamine receptors in the brain. Some areas contain dense clusters of receptors and these hotspots are part of reward system. **Drugs like alcohol, nicotine, heroin send dopamine into overdrive leading some people to constantly seek that high (to be addicted)**.
 
-Sugar also causes release of dopamine but not as violently as drugs and is rare among dopamine-inducing foods. Broccoli has no effect which probably explains why its so hard to get kids to eat their veggies.  
+==Sugar also causes release of dopamine but not as violently as drugs and is rare among dopamine-inducing foods==. Broccoli has no effect which probably explains why its so hard to get kids to eat their veggies.  
 
 ## Balanced food vs High sugar food
 If you eat balanced meal, dopamine level spike in the reward system hotspots. But dopamine spike would slowly subside as you take same food again and again and eventually levelling out. That's because when it comes to food, brain evolved to pay special attention to new or different tastes. This is because:
 - To detect food that has gone bad
-- The more variety we have in our diet, the more nutrients we get that we need. To keep the variety, we need to recognize new food and more importantly need to keep eating new foods. 
-And that's why dopamine level off when food becomes boring. 
+- **The more variety we have in our diet, the more nutrients we get that we need. To keep the variety, we need to recognize new food and more importantly need to keep eating new foods**. 
+And that's why **dopamine level off when food becomes boring**. 
 
 What happens when you eat sugar instead of balanced meal? 
-If don't eat sugar much, the effect would be same as balanced meal. But if you eat too much sugar, the dopamine level does not level out. Eating lots of sugar will continue to feel rewarding. Here sugar behaves little bit like a drug because of which people are hooked on sugary foods. Overconsumption of sugar can have addictive effects on the brain.  
+If don't eat sugar much, the effect would be same as balanced meal. But if you eat too much sugar, the dopamine level does not level out. Eating lots of sugar will continue to feel rewarding. Here ==sugar behaves little bit like a drug because of which people are hooked on sugary foods==. **Overconsumption of sugar can have addictive effects on the brain**.  
 
 
 
@@ -65,7 +65,7 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTU2NTM4NywxNjkwMTgxMzk1LDIyNj
-A2Mzk1NywyMTQ2NDI1Nzg2LC0xNTk2NDc3MjUwLC0yODY5ODky
-N119
+eyJoaXN0b3J5IjpbMjM2OTM0Nzk1LDE2OTAxODEzOTUsMjI2MD
+YzOTU3LDIxNDY0MjU3ODYsLTE1OTY0NzcyNTAsLTI4Njk4OTI3
+XX0=
 -->
