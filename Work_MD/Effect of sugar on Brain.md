@@ -32,7 +32,9 @@ Over-activating this reward systems kickstarts a series of unfortunate events:
 - craving
 - increased tolerance of sugar
 
-After sugar moves from our mouth and reaches stomach, there are also sugar receptors. These are not taste buds but they do send signals telling brain that you are full and t
+After sugar moves from our mouth and reaches stomach, there are also sugar receptors. These are not taste buds but they do send signals telling brain that you are full and to produce more insulin to deal with extra sugar.
+
+The major currency of our reward system is dopamine (chemical or neurotransmitter). There are many unevenly distributed dopamine receptors in the brain. Some areas contain large 
 
 What happens in brain which makes sugary food hard to resist?
   
@@ -50,6 +52,6 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MzIzMzE0LDIyNjA2Mzk1NywyMTQ2ND
-I1Nzg2LC0xNTk2NDc3MjUwLC0yODY5ODkyN119
+eyJoaXN0b3J5IjpbLTE5OTk3MTc0NDUsMjI2MDYzOTU3LDIxND
+Y0MjU3ODYsLTE1OTY0NzcyNTAsLTI4Njk4OTI3XX0=
 -->
