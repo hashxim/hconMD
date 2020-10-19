@@ -39,7 +39,8 @@ The major currency of our reward system is dopamine (chemical or neurotransmitte
 Sugar also causes release of dopamine but not as violently as drugs and is rare among dopamine-inducing foods. Broccoli has no effect which probably explains why its so hard to get kids to eat their veggies.  
 
 Balanced food
-If you eat balanced meal, dopamine level spike in the reward system hotspots. But dopamine spike would 
+If you eat balanced meal, dopamine level spike in the reward system hotspots. But dopamine spike would slowly subside as you take same food again and again and eventually levelling out. That's because when it comes to food, brain evolved to pay special attention to new or different tastes. This is because:
+- To detect food that a
 
 What happens in brain which makes sugary food hard to resist?
   
@@ -57,7 +58,7 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTU1ODEyLDE2OTAxODEzOTUsMjI2MD
-YzOTU3LDIxNDY0MjU3ODYsLTE1OTY0NzcyNTAsLTI4Njk4OTI3
-XX0=
+eyJoaXN0b3J5IjpbLTg3NjQzMjc1OSwxNjkwMTgxMzk1LDIyNj
+A2Mzk1NywyMTQ2NDI1Nzg2LC0xNTk2NDc3MjUwLC0yODY5ODky
+N119
 -->
