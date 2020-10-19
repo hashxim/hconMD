@@ -36,7 +36,7 @@ After sugar moves from our mouth and reaches stomach, there are also sugar recep
 
 The major currency of our reward system is dopamine (chemical or neurotransmitter). There are many unevenly distributed dopamine receptors in the brain. Some areas contain dense clusters of receptors and these hotspots are part of reward system. **Drugs like alcohol, nicotine, heroin send dopamine into overdrive leading some people to constantly seek that high (to be addicted)**.
 
-Sugar also causes release of dopamine but not as violently as drugs and is rare among dopamine-inducing foods. Broccoli has no effect which probably explains why its so hard to g 
+Sugar also causes release of dopamine but not as violently as drugs and is rare among dopamine-inducing foods. Broccoli has no effect which probably explains why its so hard to get kids to eat their veggies.  
 
 What happens in brain which makes sugary food hard to resist?
   
@@ -54,6 +54,6 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODk5NzE5NCwyMjYwNjM5NTcsMjE0Nj
+eyJoaXN0b3J5IjpbMTY5MDE4MTM5NSwyMjYwNjM5NTcsMjE0Nj
 QyNTc4NiwtMTU5NjQ3NzI1MCwtMjg2OTg5MjddfQ==
 -->
