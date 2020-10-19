@@ -27,8 +27,12 @@ Reward system is also activated by other things also like:
 - Sexual Behavior
 - Drugs
 
-Overactivating this reward systems kickstarts a series of unfortunate events:
+Over-activating this reward systems kickstarts a series of unfortunate events:
+- Loss of control
+- craving
+- increased tolerance of sugar
 
+After sugar moves from our mouth and reaches stomach, there are also sugar receptors. These are not taste buds but they do send signals telling brain that you are full and t
 
 What happens in brain which makes sugary food hard to resist?
   
@@ -46,6 +50,6 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MjM1NCwyMjYwNjM5NTcsMjE0NjQyNT
-c4NiwtMTU5NjQ3NzI1MCwtMjg2OTg5MjddfQ==
+eyJoaXN0b3J5IjpbOTg1MzIzMzE0LDIyNjA2Mzk1NywyMTQ2ND
+I1Nzg2LC0xNTk2NDc3MjUwLC0yODY5ODkyN119
 -->
