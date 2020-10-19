@@ -1,6 +1,6 @@
-`Summary`  
+`What happens in brain which makes sugary food hard to resist? How sugar affects different parts of the brain and what makes person crave for sugar?`  
 
-What is Sugar?  
+## What is Sugar?  
 Sugar is a general term used to describe a class of molecules called carbohydrates. Found in varieties of food and drink. 
 Forms of sugar:
 - Glucose
@@ -11,7 +11,7 @@ Forms of sugar:
 - Dextrose
 - Starch
  
-What happens when you take sugar?
+## What happens when you take sugar?
 Consumed sugar activates sweet-taste receptors (past of taste buds on the tongue). These receptors send a signal up to the brain stem and from there it forks off into many area of forebrain, one of it is  cerebral cortex.
 
 Different sections of cerebral cortex process different tastes:
@@ -20,7 +20,7 @@ Different sections of cerebral cortex process different tastes:
 - Umami
 - Sweet
 
-From here, ==the signal activates the brain's reward system==. The reward system is a series of electrical and chemical pathways across several different regions of the brain. Its a complicated network but it helps answer a subconscious question: **"Should I do it again"?**. That feeling one gets after eating some dessert is the reward system saying "Yes".
+From here, ==the signal activates the brain's reward system==. **The reward system is a series of electrical and chemical pathways across several different regions of the brain.** Its a complicated network but it helps answer a subconscious question: **"Should I do it again"?**. That feeling one gets after eating some dessert is the reward system saying "Yes".
 
 Reward system is also activated by other things also like:
 - Socializing
@@ -45,10 +45,10 @@ If you eat balanced meal, dopamine level spike in the reward system hotspots. Bu
 And that's why dopamine level off when food becomes boring. 
 
 What happens when you eat sugar instead of balanced meal? 
-If don't eat sugar much, the effect would be same as balanced meal. But if you eat too much sugar, the dopamine level does not level out. Eating lots of sugar will continue to feel rewarding. Here sugar behaves little bit like a drug because of which people are hooked on sugary foods. Overconsumption of sugar can have addictive effects on the brain 
+If don't eat sugar much, the effect would be same as balanced meal. But if you eat too much sugar, the dopamine level does not level out. Eating lots of sugar will continue to feel rewarding. Here sugar behaves little bit like a drug because of which people are hooked on sugary foods. Overconsumption of sugar can have addictive effects on the brain.  
 
 
-What happens in brain which makes sugary food hard to resist?
+
   
   
 
@@ -64,7 +64,7 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODE1NTM4NCwxNjkwMTgxMzk1LDIyNj
+eyJoaXN0b3J5IjpbLTExNTUyNjE1NSwxNjkwMTgxMzk1LDIyNj
 A2Mzk1NywyMTQ2NDI1Nzg2LC0xNTk2NDc3MjUwLC0yODY5ODky
 N119
 -->
