@@ -14,6 +14,8 @@ Forms of sugar:
 What happens when you take sugar?
 Consumed sugar activates sweet-taste receptors (past of taste buds on the tongue). These receptors send a signal up to the brain stem and from there it forks off into many area of forebrain, one of it is  cerebral cortex.
 
+Different s
+
 What happens in brain which makes sugary food hard to resist?
   
   
@@ -30,6 +32,6 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjQyNTc4NiwtMTU5NjQ3NzI1MCwtMj
-g2OTg5MjddfQ==
+eyJoaXN0b3J5IjpbMTE4MjQ5ODY0NCwyMTQ2NDI1Nzg2LC0xNT
+k2NDc3MjUwLC0yODY5ODkyN119
 -->
