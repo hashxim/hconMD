@@ -20,7 +20,7 @@ Different sections of cerebral cortex process different tastes:
 - Umami
 - Sweet
 
-From here, ==the signal activates the brain's reward system==. The reward system is a series of electrical and chemical pathways
+From here, ==the signal activates the brain's reward system==. The reward system is a series of electrical and chemical pathways across 
 
 What happens in brain which makes sugary food hard to resist?
   
@@ -38,6 +38,6 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MDYzOTU3LDIxNDY0MjU3ODYsLTE1OT
-Y0NzcyNTAsLTI4Njk4OTI3XX0=
+eyJoaXN0b3J5IjpbLTE3MDcxNzEwNTIsMjI2MDYzOTU3LDIxND
+Y0MjU3ODYsLTE1OTY0NzcyNTAsLTI4Njk4OTI3XX0=
 -->
