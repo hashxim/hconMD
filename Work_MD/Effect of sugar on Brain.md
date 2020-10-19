@@ -11,7 +11,8 @@ Forms of sugar:
 - Dextrose
 - Starch
  
-What happens when you t
+What happens when you take sugar?
+Consumed sugar activates sweet-taste receptors (past of taste buds on the tongue). These 
 
 What happens in brain which makes sugary food hard to resist?
   
@@ -29,5 +30,5 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI0NTAzODMsLTI4Njk4OTI3XX0=
+eyJoaXN0b3J5IjpbLTE1OTY0NzcyNTAsLTI4Njk4OTI3XX0=
 -->
