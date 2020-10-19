@@ -42,7 +42,10 @@ Balanced food
 If you eat balanced meal, dopamine level spike in the reward system hotspots. But dopamine spike would slowly subside as you take same food again and again and eventually levelling out. That's because when it comes to food, brain evolved to pay special attention to new or different tastes. This is because:
 - To detect food that has gone bad
 - The more variety we have in our diet, the more nutrients we get that we need. To keep the variety, we need to recognize new food and more importantly need to keep eating new foods. 
-And that's why dopamine level off 
+And that's why dopamine level off when food becomes boring. 
+
+What happens when you eat sugar instead of balanced meal? 
+If don't eat sugar much, the effect would be same as balanced meal. But if you eat too much sugar, the dopamine level does not level out.  
 
 
 What happens in brain which makes sugary food hard to resist?
@@ -61,7 +64,7 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY5NzU5NSwxNjkwMTgxMzk1LDIyNj
+eyJoaXN0b3J5IjpbLTcxOTgxNjg5NiwxNjkwMTgxMzk1LDIyNj
 A2Mzk1NywyMTQ2NDI1Nzg2LC0xNTk2NDc3MjUwLC0yODY5ODky
 N119
 -->
