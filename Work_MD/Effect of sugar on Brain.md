@@ -2,7 +2,16 @@
 
 What is Sugar?  
 Sugar is a general term used to describe a class of molecules called carbohydrates. Found in varieties of food and drink. 
-Forms of
+Forms of sugar:
+- Glucose
+- Sucrose
+- Fructose
+- Maltose
+- Lactose
+- Dextrose
+- Starch
+ 
+What happens when you t
 
 What happens in brain which makes sugary food hard to resist?
   
@@ -20,5 +29,5 @@ Links:
 [Source]()  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4OTI1MTQ0LC0yODY5ODkyN119
+eyJoaXN0b3J5IjpbLTE3MjI0NTAzODMsLTI4Njk4OTI3XX0=
 -->
