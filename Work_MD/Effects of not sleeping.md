@@ -1,5 +1,15 @@
-`Summary`
+`Sleep is important for our daily functioning. During sleep, `
 
+
+
+
+# Sleep 
+
+## Requirement
+Adults:  7-8 hours of sleep a night 
+Adolescents: 10 hours
+
+## Effect of Sleep deprivation
 Some of the effects of sleep deprivation:
 - Eyes stopped focusing 
 - Losing the ability to identify objects by touch
@@ -17,19 +27,10 @@ Some of the effects of sleep deprivation:
 
  Studies show that chronically sleeping fewer than six hours a night increases stroke risk by four and half times compared to those getting a consistent seven to eight hours of shuteye. 
 
-# Sleep 
-
-## Requirement
-Adults:  7-8 hours of sleep a night 
-Adolescents: 10 hours
-
-## When we sleep
+## When we sleep?
 We grow sleepy due to signals from our body telling our brain we are tired, and signals from the environment telling us it's dark outside. 
 
 **The rise in sleep-inducing chemicals, like adenosine and melatonin, send us into a light doze  that grows deeper, making our breathing and heart rate slow down and our muscles relax.** This non-REM sleep is when DNA is repaired and our bodies replenish themselves for the day ahead. 
-
-## Sleep data in US
-It's estimated that 30% of adults and 66% of adolescents are regularly sleep-deprived. 
 
 ## Sleeplessness
 For a handful of people on the planet who carry a rare inherited genetic mutation, sleeplessness is a daily reality. 
@@ -44,7 +45,10 @@ Scientists think it has to do with the accumulation of waste products in the bra
 ## What happens in brain when we sleep?
 Scientists found something called the glymphatic system, a clean-up mechanism that removes this buildup and is much more active when we're asleep. It works by using **cerebrospinal fluid to flush away toxic by-products that accumulate between cells**. **Lymphatic vessels, which serve as pathways for immune cells, have recently been discovered in the brain, and they may also play a role in clearing out the brain's daily waste products**. W
 
-hile scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into slumber is a necessity if we want to maintain our health and our sanity.
+While scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into slumber is a necessity if we want to maintain our health and our sanity.
+
+## Sleep data in US
+It's estimated that 30% of adults and 66% of adolescents are regularly sleep-deprived. 
 
 
 [Note#Footer|Footer]
@@ -55,6 +59,6 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTkzNDkwNSwtMTQyOTcwNDEwMSw2Mj
-EwNjYwMiwtNzEyNjQwNzkxXX0=
+eyJoaXN0b3J5IjpbLTE3ODc2NzY1NTYsLTE0Mjk3MDQxMDEsNj
+IxMDY2MDIsLTcxMjY0MDc5MV19
 -->
