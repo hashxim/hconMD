@@ -1,4 +1,4 @@
-`If you tear your muscles up, eat right, rest and repeat, you'll create the conditions to make your muscles as big and strong as possible.`
+`If you tear your muscles up, eat right, rest and repeat, you'll create the conditions to make your muscles as big and strong as possible. It is with muscles as it is with life: Meaningful growth requires challenge and stress. Protein, testosterone and age factor also affects muscle building and repair.`
 
 ## Muscles - Introduction
 We have over 600 of them. They make up between 1/3 and 1/2 of our body weight, and along with connective tissue, they bind us together, hold us up, and help us move. 
@@ -32,16 +32,16 @@ However, muscles rely on more than just activity to grow. Without proper nutriti
 
 Gender and age affect this repair mechanism, which is why **young men with more testosterone have a leg up in the muscle building game**. Genetic factors also play a role in one's ability to grow muscle. **Some people have more robust immune reactions to muscle damage, and are better able to repair and replace damaged muscle fibers**, increasing their muscle-building potential. The body responds to the demands you place on it. 
 
- It is with muscles as it is with life: Meaningful growth requires challenge and stress.
+ 
 
 
 [Note#Footer|Footer]
 
 ---
 # Footer
-Tags: #FleetingNotes, #review
+Tags: #FleetingNotes, #review, #video
 Links: 
-[Source]()
+[Source](https://youtu.be/2tM1LFFxeKg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTAwMTAyMywtMTk0NjMyNjc3OF19
+eyJoaXN0b3J5IjpbNjIzNTY3MDEyLC0xOTQ2MzI2Nzc4XX0=
 -->
