@@ -20,8 +20,15 @@ The greater the damage to the muscle tissue, the more your body will need to rep
 ## Hypertrophy - Build new muscle
 Since our bodies have already adapted to most everyday activities, those generally don't produce enough stress to stimulate new muscle growth. So, to build new muscle, a process called hypertrophy, our cells need to be exposed to higher workloads than they are used to. 
 
-## Musc
-In fact, if you don't continuously expose your muscles to some resistance, they will shrink, a process known as muscular atrophy. In contrast, exposing the muscle to a high-degree of tension, especially while the muscle is lengthening, also called an eccentric contraction, generates effective conditions for new growth. However, muscles rely on more than just activity to grow. Without proper nutrition, hormones, and rest, your body would never be able to repair damaged muscle fibers. Protein in our diet preserves muscle mass by providing the building blocks for new tissue in the form of amino acids. Adequate protein intake, along with naturally occurring hormones, like insulin-like growth factor and testosterone, help shift the body into a state where tissue is repaired and grown. This vital repair process mainly occurs when we're resting, especially at night while sleeping. Gender and age affect this repair mechanism, which is why young men with more testosterone have a leg up in the muscle building game. Genetic factors also play a role in one's ability to grow muscle. Some people have more robust immune reactions to muscle damage, and are better able to repair and replace damaged muscle fibers, increasing their muscle-building potential. The body responds to the demands you place on it. If you tear your muscles up, eat right, rest and repeat, you'll create the conditions to make your muscles as big and strong as possible. It is with muscles as it is with life: Meaningful growth requires challenge and stress.
+## Muscular Atrophy
+In fact, if you don't continuously expose your muscles to some resistance, they will shrink, a process known as muscular atrophy. 
+
+In contrast, **exposing the muscle to a high-degree of tension, especially while the muscle is lengthening, also called an eccentric contraction, generates effective conditions for new growth.** 
+
+## Requirement for Muscle growth
+However, muscles rely on more than just activity to grow. Without proper nutrition, hormones, and rest, your body would never be able to repair damaged muscle fibers. 
+
+**Protein in our diet preserves muscle mass by providing the building blocks for new tissue in the form of amino acids**. Adequate protein intake, along with naturally occurring hormones, like insulin-like growth factor and testosterone, help shift the body into a state where tissue is repaired and grown. This vital repair process mainly occurs when we're resting, especially at night while sleeping. Gender and age affect this repair mechanism, which is why young men with more testosterone have a leg up in the muscle building game. Genetic factors also play a role in one's ability to grow muscle. Some people have more robust immune reactions to muscle damage, and are better able to repair and replace damaged muscle fibers, increasing their muscle-building potential. The body responds to the demands you place on it. If you tear your muscles up, eat right, rest and repeat, you'll create the conditions to make your muscles as big and strong as possible. It is with muscles as it is with life: Meaningful growth requires challenge and stress.
 
 
 [Note#Footer|Footer]
@@ -32,6 +39,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ3Mjg1MzAsLTE5NDYzMjY3NzhdfQ
-==
+eyJoaXN0b3J5IjpbLTQ3Mjg0MDMxNSwtMTk0NjMyNjc3OF19
 -->
