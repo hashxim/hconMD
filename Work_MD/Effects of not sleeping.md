@@ -15,6 +15,8 @@ Some of the effects of sleep deprivation:
 - Illness
 - Extreme cases: Death
 
+ Studies show that chronically sleeping fewer than six hours a night increases stroke risk by four and half times compared to those getting a consistent seven to eight hours of shuteye. 
+
 # Sleep 
 ## Requirement
 Adults:  7-8 hours of sleep a night 
@@ -27,7 +29,13 @@ The rise in sleep-inducing chemicals, like adenosine and melatonin, send us into
 
 ## Sleep data in US
 It's estimated that 30% of adults and 66% of adolescents are regularly sleep-deprived. 
-. Sleeplessness may also cause inflammation, halluciations, high blood pressure, and it's even been linked to diabetes and obesity. In 2014, a devoted soccer fan died after staying awake for 48 hours to watch the World Cup. While his untimely death was due to a stroke, studies show that chronically sleeping fewer than six hours a night increases stroke risk by four and half times compared to those getting a consistent seven to eight hours of shuteye. For a handful of people on the planet who carry a rare inherited genetic mutation, sleeplessness is a daily reality. This condition, known as Fatal Familial Insomnia, places the body in a nightmarish state of wakefulness, forbidding it from entering the sanctuary of sleep. Within months or years, this progressively worsening condition leads to dementia and death. How can sleep deprivation cause such immense suffering? Scientists think the answer lies with the accumulation of waste prducts in the brain. During our waking hours, our cells are busy using up our day's energy sources, which get broken down into various byproducts, including adenosine. As adenosine builds up, it increases the urge to sleep, also known as sleep pressure. In fact, caffeine works by blocking adenosine's receptor pathways. Other waste products also build up in the brain, and if they're not cleared away, they collectively overload the brain and are thought to lead to the many negative symptoms of sleep deprivation. So, what's happening in our brain when we sleep to prevent this? Scientists found something called the glymphatic system, a clean-up mechanism that removes this buildup and is much more active when we're asleep. It works by using cerebrospinal fluid to flush away toxic byproducts that accumulate between cells. Lymphatic vessels, which serve as pathways for immune cells, have recently been discovered in the brain, and they may also play a role in clearing out the brain's daily waste products. While scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into slumber is a necessity if we want to maintain our health and our sanity.
+
+## Sleeplessness
+For a handful of people on the planet who carry a rare inherited genetic mutation, sleeplessness is a daily reality. 
+
+This condition, known as **Fatal Familial Insomnia,** places the body in a nightmarish state of wakefulness, forbidding it from entering the sanctuary of sleep. Within months or years, this progressively worsening condition leads to dementia and death. 
+
+How can sleep deprivation cause such immense suffering? Scientists think the answer lies with the accumulation of waste products in the brain. During our waking hours, our cells are busy using up our day's energy sources, which get broken down into various byproducts, including adenosine. As adenosine builds up, it increases the urge to sleep, also known as sleep pressure. In fact, caffeine works by blocking adenosine's receptor pathways. Other waste products also build up in the brain, and if they're not cleared away, they collectively overload the brain and are thought to lead to the many negative symptoms of sleep deprivation. So, what's happening in our brain when we sleep to prevent this? Scientists found something called the glymphatic system, a clean-up mechanism that removes this buildup and is much more active when we're asleep. It works by using cerebrospinal fluid to flush away toxic byproducts that accumulate between cells. Lymphatic vessels, which serve as pathways for immune cells, have recently been discovered in the brain, and they may also play a role in clearing out the brain's daily waste products. While scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into slumber is a necessity if we want to maintain our health and our sanity.
 
 
 [Note#Footer|Footer]
@@ -38,6 +46,6 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzUzNjc2NCwtMTQyOTcwNDEwMSw2Mj
-EwNjYwMiwtNzEyNjQwNzkxXX0=
+eyJoaXN0b3J5IjpbLTE3NzI4NDEyNDEsLTE0Mjk3MDQxMDEsNj
+IxMDY2MDIsLTcxMjY0MDc5MV19
 -->
