@@ -1,11 +1,6 @@
-`Sleep is important for our daily functioning. During sleep, `
+`Sleep is important for our daily functioning. During sleep, accumulated waste in brain and in cells gets cleared up. Constant sleep deprivation can lead to very serious issues. `
 
-
-
-
-# Sleep 
-
-## Requirement
+## Sleep Requirement
 Adults:  7-8 hours of sleep a night 
 Adolescents: 10 hours
 
@@ -59,6 +54,6 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc2NzY1NTYsLTE0Mjk3MDQxMDEsNj
-IxMDY2MDIsLTcxMjY0MDc5MV19
+eyJoaXN0b3J5IjpbMTUyMzcxMjQ1NiwtMTQyOTcwNDEwMSw2Mj
+EwNjYwMiwtNzEyNjQwNzkxXX0=
 -->
