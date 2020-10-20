@@ -1,4 +1,4 @@
-`Summary`
+`If you tear your muscles up, eat right, rest and repeat, you'll create the conditions to make your muscles as big and strong as possible.`
 
 ## Muscles - Introduction
 We have over 600 of them. They make up between 1/3 and 1/2 of our body weight, and along with connective tissue, they bind us together, hold us up, and help us move. 
@@ -28,7 +28,11 @@ In contrast, **exposing the muscle to a high-degree of tension, especially while
 ## Requirement for Muscle growth
 However, muscles rely on more than just activity to grow. Without proper nutrition, hormones, and rest, your body would never be able to repair damaged muscle fibers. 
 
-**Protein in our diet preserves muscle mass by providing the building blocks for new tissue in the form of amino acids**. Adequate protein intake, along with naturally occurring hormones, like insulin-like growth factor and testosterone, help shift the body into a state where tissue is repaired and grown. This vital repair process mainly occurs when we're resting, especially at night while sleeping. Gender and age affect this repair mechanism, which is why young men with more testosterone have a leg up in the muscle building game. Genetic factors also play a role in one's ability to grow muscle. Some people have more robust immune reactions to muscle damage, and are better able to repair and replace damaged muscle fibers, increasing their muscle-building potential. The body responds to the demands you place on it. If you tear your muscles up, eat right, rest and repeat, you'll create the conditions to make your muscles as big and strong as possible. It is with muscles as it is with life: Meaningful growth requires challenge and stress.
+**Protein in our diet preserves muscle mass by providing the building blocks for new tissue in the form of amino acids**. **Adequate protein intake, along with naturally occurring hormones, like insulin-like growth factor and testosterone, help shift the body into a state where tissue is repaired and grown**. This vital repair process mainly occurs when we're resting, especially at night while sleeping. 
+
+Gender and age affect this repair mechanism, which is why **young men with more testosterone have a leg up in the muscle building game**. Genetic factors also play a role in one's ability to grow muscle. **Some people have more robust immune reactions to muscle damage, and are better able to repair and replace damaged muscle fibers**, increasing their muscle-building potential. The body responds to the demands you place on it. 
+
+ It is with muscles as it is with life: Meaningful growth requires challenge and stress.
 
 
 [Note#Footer|Footer]
@@ -39,5 +43,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mjg0MDMxNSwtMTk0NjMyNjc3OF19
+eyJoaXN0b3J5IjpbLTU2NTAwMTAyMywtMTk0NjMyNjc3OF19
 -->
