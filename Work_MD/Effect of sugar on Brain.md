@@ -56,12 +56,12 @@ If don't eat sugar much, the effect would be same as balanced meal. But if you e
 
 # Footer  
 
-Tags: #FleetingNotes, #review  
+Tags: #FleetingNotes, #review 
 Links:   
 [Source](https://www.youtube.com/watch?index=4&edufilter=NULL&list=RDCMUCsooa4yRKGN_zEE8iknghZA&ab_channel=TED-Ed&v=lEXBxijQREo)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI3OTE2MzEsMjM2OTM0Nzk1LDE2OT
+eyJoaXN0b3J5IjpbLTE3MTI2NTMyNjcsMjM2OTM0Nzk1LDE2OT
 AxODEzOTUsMjI2MDYzOTU3LDIxNDY0MjU3ODYsLTE1OTY0Nzcy
 NTAsLTI4Njk4OTI3XX0=
 -->
