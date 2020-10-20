@@ -35,7 +35,13 @@ For a handful of people on the planet who carry a rare inherited genetic mutatio
 
 This condition, known as **Fatal Familial Insomnia,** places the body in a nightmarish state of wakefulness, forbidding it from entering the sanctuary of sleep. Within months or years, this progressively worsening condition leads to dementia and death. 
 
-How can sleep deprivation cause such immense suffering? Scientists think the answer lies with the accumulation of waste products in the brain. During our waking hours, our cells are busy using up our day's energy sources, which get broken down into various byproducts, including adenosine. As adenosine builds up, it increases the urge to sleep, also known as sleep pressure. In fact, caffeine works by blocking adenosine's receptor pathways. Other waste products also build up in the brain, and if they're not cleared away, they collectively overload the brain and are thought to lead to the many negative symptoms of sleep deprivation. So, what's happening in our brain when we sleep to prevent this? Scientists found something called the glymphatic system, a clean-up mechanism that removes this buildup and is much more active when we're asleep. It works by using cerebrospinal fluid to flush away toxic byproducts that accumulate between cells. Lymphatic vessels, which serve as pathways for immune cells, have recently been discovered in the brain, and they may also play a role in clearing out the brain's daily waste products. While scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into slumber is a necessity if we want to maintain our health and our sanity.
+### Causes of immense suffering from sleep deprivation
+Scientists think it has to do with the accumulation of waste products in the brain. During our waking hours, our cells are busy using up our day's energy sources, which get broken down into various by-products, including adenosine. 
+
+**As adenosine builds up, it increases the urge to sleep, also known as sleep pressure**. In fact, caffeine works by blocking adenosine's receptor pathways. Other waste products also build up in the brain, and if they're not cleared away, they collectively overload the brain and are thought to lead to the many negative symptoms of sleep deprivation. 
+
+## What happens in brain when we sleep?
+Scientists found something called the glymphatic system, a clean-up mechanism that removes this buildup and is much more active when we're asleep. It works by using cerebrospinal fluid to flush away toxic byproducts that accumulate between cells. Lymphatic vessels, which serve as pathways for immune cells, have recently been discovered in the brain, and they may also play a role in clearing out the brain's daily waste products. While scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into slumber is a necessity if we want to maintain our health and our sanity.
 
 
 [Note#Footer|Footer]
@@ -46,6 +52,6 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI4NDEyNDEsLTE0Mjk3MDQxMDEsNj
-IxMDY2MDIsLTcxMjY0MDc5MV19
+eyJoaXN0b3J5IjpbMTIwMTkwMzIwNiwtMTQyOTcwNDEwMSw2Mj
+EwNjYwMiwtNzEyNjQwNzkxXX0=
 -->
