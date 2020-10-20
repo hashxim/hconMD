@@ -38,7 +38,7 @@ Scientists think it has to do with the accumulation of waste products in the bra
 **As adenosine builds up, it increases the urge to sleep, also known as sleep pressure**. In fact, caffeine works by blocking adenosine's receptor pathways. Other waste products also build up in the brain, and if they're not cleared away, they collectively overload the brain and are thought to lead to the many negative symptoms of sleep deprivation. 
 
 ## What happens in brain when we sleep?
-Scientists found something called the glymphatic system, a clean-up mechanism that removes this buildup and is much more active when we're asleep. It works by using **cerebrospinal fluid to flush away toxic by-products that accumulate between cells**. **Lymphatic vessels, which serve as pathways for immune cells, have recently been discovered in the brain, and they may also play a role in clearing out the brain's daily waste products**. W
+Scientists found something called the glymphatic system, a clean-up mechanism that removes this buildup and is much more active when we're asleep. It works by using **cerebrospinal fluid to flush away toxic by-products that accumulate between cells**. **Lymphatic vessels, which serve as pathways for immune cells, have recently been discovered in the brain, and they may also play a role in clearing out the brain's daily waste products**. 
 
 While scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into slumber is a necessity if we want to maintain our health and our sanity.
 
@@ -54,6 +54,6 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzcxMjQ1NiwtMTQyOTcwNDEwMSw2Mj
-EwNjYwMiwtNzEyNjQwNzkxXX0=
+eyJoaXN0b3J5IjpbODIyNTUzNDE1LC0xNDI5NzA0MTAxLDYyMT
+A2NjAyLC03MTI2NDA3OTFdfQ==
 -->
