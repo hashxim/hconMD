@@ -49,10 +49,6 @@ What happens when you eat sugar instead of balanced meal?
 If don't eat sugar much, the effect would be same as balanced meal. But if you eat too much sugar, the dopamine level does not level out. Eating lots of sugar will continue to feel rewarding. Here ==sugar behaves little bit like a drug because of which people are hooked on sugary foods==. **Overconsumption of sugar can have addictive effects on the brain**.  
 
 
-
-  
-  
-
 [Note#Footer|Footer]  
   
 
@@ -62,10 +58,10 @@ If don't eat sugar much, the effect would be same as balanced meal. But if you e
 
 Tags: #FleetingNotes, #review  
 Links:   
-[Source]()  
+[Source](https://www.youtube.com/watch?index=4&edufilter=NULL&list=RDCMUCsooa4yRKGN_zEE8iknghZA&ab_channel=TED-Ed&v=lEXBxijQREo)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2OTM0Nzk1LDE2OTAxODEzOTUsMjI2MD
-YzOTU3LDIxNDY0MjU3ODYsLTE1OTY0NzcyNTAsLTI4Njk4OTI3
-XX0=
+eyJoaXN0b3J5IjpbLTExODI3OTE2MzEsMjM2OTM0Nzk1LDE2OT
+AxODEzOTUsMjI2MDYzOTU3LDIxNDY0MjU3ODYsLTE1OTY0Nzcy
+NTAsLTI4Njk4OTI3XX0=
 -->
