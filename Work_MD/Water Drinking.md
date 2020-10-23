@@ -41,7 +41,10 @@ For a long time, conventional wisdom said that we should drink eight glasses a d
 
 Now, the consensus is that the amount of water we need to imbibe depends largely on our weight and environment. **The recommended daily intake varies from between 2.5-3.7 liters of water for men, and about 2-2.7 liters for women, a range that is pushed up or down if we are healthy, active, old, or overheating**. 
 
-While water is the healthiest hydrator, other beverages, even those with caffeine like coffee or tea, replenish fluids as well. And water within food makes up about a fifth of our daily H20 intake. Fruits and vegetables like strawberries, cucumbers, and even broccoli are over 90% water, and can supplement liquid intake while providing valuable nutrients and fiber. Drinking well might also have various long-term benefits. Studies have shown that optimal hydration can lower the chance of stroke, help manage diabetes, and potentially reduce the risk of certain types of cancer. No matter what, getting the right amount of liquid makes a world of difference in how you'll feel, think, and function day to day.
+## Indirect Water Sources
+While water is the healthiest hydrator, other beverages, even those with caffeine like coffee or tea, replenish fluids as well. And **water within food makes up about a fifth of our daily H20 intake**. Fruits and vegetables like strawberries, cucumbers, and even broccoli are over 90% water, and can supplement liquid intake while providing valuable nutrients and fiber. 
+
+Drinking well might also have various long-term benefits. Studies have shown that optimal hydration can lower the chance of stroke, help manage diabetes, and potentially reduce the risk of certain types of cancer. No matter what, getting the right amount of liquid makes a world of difference in how you'll feel, think, and function day to day.
 
 
 [Note#Footer|Footer]
@@ -55,6 +58,6 @@ Links:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTcxNDExMSwtMTI0NDg5Njg3NCwtMT
+eyJoaXN0b3J5IjpbMjExMzE0NDM5OCwtMTI0NDg5Njg3NCwtMT
 I1OTYyNzAzMl19
 -->
