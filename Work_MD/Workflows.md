@@ -6,9 +6,9 @@
 
 ## Devices 
 - Mobile
-	- Apps - Google drive, Moon+ Reader, FolderSync, X-plore, Markor, Acrobat Reader, Trello
+	- Apps - Google drive, Moon+ Reader, FolderSync, X-plore, Markor, Acrobat Reader, Trello, Pocket
 - iPad
-	- Apps - Google drive, Acrobat Reader, Drafts, Trello, KyBook
+	- Apps - Google drive, Acrobat Reader, Drafts, Trello, KyBook, Pocket
 - Personal Laptop
 	- Apps - Backup & Sync, Trello (Web), Acrobat Reader, Epub Reader, Obsidian, GitHub (Web), 
 - Work Laptop
