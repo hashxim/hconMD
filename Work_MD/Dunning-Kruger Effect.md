@@ -37,6 +37,9 @@ Incompetent people tend to:
 
 ==Dunning has pointed out that the very knowledge and skills necessary to be good at a task are the exact same qualities that a person needs to recognize that they are not good at that task. So if a person lacks those abilities, they remain not only bad at that task but ignorant to their own inability.==
 
+## Inability to Recognize lack of Skill and Mistakes
+Deficits in skill and expertise create a two-pronged problem. First, these deficits cause people to perform poorly in the domain in which they are incompetent. Secondly, their erroneous and deficient knowledge makes them unable to recognize their mistakes.
+
 [Note#Footer|Footer]
 
 ---
@@ -45,5 +48,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODUyNDA2N119
+eyJoaXN0b3J5IjpbMjIyNjA3MzM3XX0=
 -->
