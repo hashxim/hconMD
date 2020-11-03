@@ -24,7 +24,7 @@ This effect can have a profound impact on what people believe, the decisions the
 In [one study](https://doi.org/10.1037/e633872013-215), Dunning and Ehrlinger found that women performed equally to men on a science quiz, and yet women underestimated their performance because they believed they had less scientific reasoning ability than men. As a result to this belief, these women were more likely to refuse to enter science competition.
 
 ## Experiment 3
-Dunning and his colleagues asked respondents i
+Dunning and his colleagues asked respondents if they are familiar with variety of terms related to subjects - politics, biology, physics and geography. The terms also included made-up terms too. Approximately, 90 percent of respondents claimed that they had at least some knowledge of made-up terms.
 
 [Note#Footer|Footer]
 
@@ -34,5 +34,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU0NTM1ODFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzcyMDAxNDZdfQ==
 -->
