@@ -48,6 +48,10 @@ Other factors that can contribute to the effect include our use of [heuristics](
 # Who is affected?
 We all are. No matter how informed or experienced we are, everyone has areas in which they are uninformed and incompetent. People who are genuine experts in one area may mistakenly believe that their intelligence and knowledge carry over into other areas in which they are less familiar.
 
+So if the incompetent tend to think they are experts, what do genuine experts think of their own abilities? These experts actually tended to underestimate their own abilities relative to how others did.
+
+Essentially, these top-scoring individuals know that they are better than the average, but they are not convinced of just how superior their performance is compared to others.
+
 [Note#Footer|Footer]
 
 ---
@@ -56,5 +60,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0ODEyMzIyLDE5MDYxODE2MThdfQ==
+eyJoaXN0b3J5IjpbLTI5NjE4Nzg2NSwxOTA2MTgxNjE4XX0=
 -->
