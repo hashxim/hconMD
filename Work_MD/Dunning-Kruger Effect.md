@@ -68,9 +68,9 @@ The Dunning-Kruger effect is one of many cognitive biases that can affect your b
 
 ---
 # Footer
-Tags: #FleetingNotes, #review
+Tags: #FleetingNotes, #review , #psychology
 Links: 
-[Source](), [[Note_Template|File]]
+[Source](https://www.verywellmind.com/an-overview-of-the-dunning-kruger-effect-4160740), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTUwMzY1OSwxOTA2MTgxNjE4XX0=
+eyJoaXN0b3J5IjpbLTEyODE3NjEwNTQsMTkwNjE4MTYxOF19
 -->
