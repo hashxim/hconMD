@@ -1,7 +1,7 @@
 `Summary`
 
 # Introduction
-The Dunning-Kruger effect is a type of [cognitive bias](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963) in which people believe that they are smarter and more capable than they really are. Essentially, low ability people do not possess the skills needed to recognize their own incompetence. The combination of poor [self-awareness](https://www.verywellmind.com/what-is-self-awareness-2795023) and low cognitive ability leads them to overestimate their own capabilities.
+The Dunning-Kruger effect is a type of [cognitive bias](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963) in which ==people believe that they are smarter and more capable than they really are. Essentially, low ability people do not possess the skills needed to recognize their own incompetence.== The combination of poor [self-awareness](https://www.verywellmind.com/what-is-self-awareness-2795023) and low cognitive ability leads them to overestimate their own capabilities.
 
 >Fools are blind to their own foolishness.
 >"Ignorance more frequently begets confidence than does knowledge." - Charles Darwin
@@ -56,7 +56,13 @@ Essentially, these top-scoring individuals know that they are better than the av
 As experience with a subject increases, confidence typically declines to more realistic levels. As people learn more about the topic of interest, they begin to recognize their own lack of knowledge and ability. Then as people gain more information and actually become experts on a topic, their confidence levels begin to improve once again.
 
 # How to overcome this effect?
-- Keep learning and practi
+- Keep learning and practicing
+- Ask other people how you're doing
+- Question what you know
+
+# Conclusion
+The Dunning-Kruger effect is one of many cognitive biases that can affect your behaviors and decisions, from the mundane to the life-changing. While it may be easier to recognize the phenomenon in others, it is important to remember that it is something that impacts everyone.
+
 
 [Note#Footer|Footer]
 
@@ -66,5 +72,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4OTA5NzE2LDE5MDYxODE2MThdfQ==
+eyJoaXN0b3J5IjpbMTk0MTUwMzY1OSwxOTA2MTgxNjE4XX0=
 -->
