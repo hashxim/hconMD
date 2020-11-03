@@ -9,7 +9,7 @@
 # Footer
 Tags: #FleetingNotes, #review
 Links: 
-[Source]()
+[Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjY0MDc5MV19
+eyJoaXN0b3J5IjpbLTIwMTU0Nzk5MzJdfQ==
 -->
