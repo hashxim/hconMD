@@ -13,7 +13,12 @@ David Dunning and Justin Kruger, two social psychologists first described it. Th
 
 Incompetent people, the researchers found, are not only poor performers, they are also unable to accurately assess and recognize the quality of their own work. This is the reason why students who earn failing scores on exams sometimes feel that they deserved a much higher score. They overestimate their own knowledge and ability and are incapable of seeing the poorness of their performance.
 
+## Experiment 1
+In one experiment, for example, Dunning and Kruger asked their 65 participants to rate how funny different jokes were. Some of the participants were exceptionally poor at determining what other people would find funny—yet these same subjects described themselves as excellent judges of humor.
+
 >==Low performers are unable to recognize the skill and competence levels of other people, which is part of the reason why they consistently view themselves as better, more capable, and more knowledgeable than others.==
+
+## Experiment 2
 
 [Note#Footer|Footer]
 
@@ -23,5 +28,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMzY3MDYxXX0=
+eyJoaXN0b3J5IjpbLTMyODk2NzMwOF19
 -->
