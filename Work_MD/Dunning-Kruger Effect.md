@@ -52,6 +52,12 @@ So if the incompetent tend to think they are experts, what do genuine experts th
 
 Essentially, these top-scoring individuals know that they are better than the average, but they are not convinced of just how superior their performance is compared to others.
 
+# Experience - Confidence relation
+As experience with a subject increases, confidence typically declines to more realistic levels. As people learn more about the topic of interest, they begin to recognize their own lack of knowledge and ability. Then as people gain more information and actually become experts on a topic, their confidence levels begin to improve once again.
+
+# How to overcome this effect?
+- Keep learning and practi
+
 [Note#Footer|Footer]
 
 ---
@@ -60,5 +66,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjE4Nzg2NSwxOTA2MTgxNjE4XX0=
+eyJoaXN0b3J5IjpbMjY4OTA5NzE2LDE5MDYxODE2MThdfQ==
 -->
