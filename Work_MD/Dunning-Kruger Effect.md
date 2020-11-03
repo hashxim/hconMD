@@ -35,6 +35,8 @@ Incompetent people tend to:
 -   Fail to recognize the genuine skill and expertise of other people
 -   Fail to recognize their own mistakes and lack of skill
 
+==Dunning has pointed out that the very knowledge and skills necessary to be good at a task are the exact same qualities that a person needs to recognize that they are not good at that task. So if a person lacks those abilities, they remain not only bad at that task but ignorant to their own inability.==
+
 [Note#Footer|Footer]
 
 ---
@@ -43,5 +45,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg0MjM1MjNdfQ==
+eyJoaXN0b3J5IjpbLTUwODUyNDA2N119
 -->
