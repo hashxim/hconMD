@@ -45,6 +45,9 @@ A tiny bit of knowledge on a subject can lead people to mistakenly believe that 
 
 Other factors that can contribute to the effect include our use of [heuristics](https://www.verywellmind.com/what-is-a-heuristic-2795235), or mental shortcuts that allow us to make decisions quickly, and our tendency to seek out patterns even where none exist. Our minds are primed to try to make sense of the disparate array of information we deal with on a daily basis. As we try to cut through the confusion and interpret our own abilities and performance within our individual worlds, it is perhaps not surprising that we sometimes fail so completely to accurately judge how well we do.
 
+# Who is affected?
+We all are. No matter how informed or experienced we are, everyone has areas in which they are uninformed and incompetent. People who are genuine experts in one area may mistakenly believe that their intelligence and knowledge carry over into other areas in which they are less familiar.
+
 [Note#Footer|Footer]
 
 ---
@@ -53,5 +56,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjE4MTYxOF19
+eyJoaXN0b3J5IjpbOTY0ODEyMzIyLDE5MDYxODE2MThdfQ==
 -->
