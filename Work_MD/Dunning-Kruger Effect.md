@@ -6,7 +6,8 @@ The Dunning-Kruger effect is a type of [cognitive bias](https://www.verywellmind
 >Fools are blind to their own foolishness.
 >"Ignorance more frequently begets confidence than does knowledge." - Charles Darwin
 
-
+David Dunning and Justin Kruger, two social psychologists first described it. They performed series of four investigations:
+>People who scored in the lowest percentiles on tests of grammar, humor, and logic also tended to dramatically overestimate how well they had performed (their actual test scores placed them in the 12th percentile, but they estimated that their performance placed them in the 62nd percentile).
 
 [Note#Footer|Footer]
 
@@ -16,5 +17,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMjExNTM1XX0=
+eyJoaXN0b3J5IjpbLTUyMzMzODg5MV19
 -->
