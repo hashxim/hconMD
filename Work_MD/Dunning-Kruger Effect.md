@@ -40,6 +40,11 @@ Incompetent people tend to:
 ## Inability to Recognize lack of Skill and Mistakes
 Deficits in skill and expertise create a two-pronged problem. First, these deficits cause people to perform poorly in the domain in which they are incompetent. Secondly, their erroneous and deficient knowledge makes them unable to recognize their mistakes.
 
+## A Little Knowledge can lead to Overconfidence
+A tiny bit of knowledge on a subject can lead people to mistakenly believe that they know all there is to know about it.
+
+Other factors that can contribute to the effect include our use of [heuristics](https://www.verywellmind.com/what-is-a-heuristic-2795235), or mental shortcuts that allow us to make decisions quickly, and our tendency to seek out patterns even where none exist. Our minds are primed to try to make sense of the disparate array of information we deal with on a daily basis. As we try to cut through the confusion and interpret our own abilities and performance within our individual worlds, it is perhaps not surprising that we sometimes fail so completely to accurately judge how well we do.
+
 [Note#Footer|Footer]
 
 ---
@@ -48,5 +53,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNjA3MzM3XX0=
+eyJoaXN0b3J5IjpbMTkwNjE4MTYxOF19
 -->
