@@ -26,6 +26,15 @@ In [one study](https://doi.org/10.1037/e633872013-215), Dunning and Ehrlinger fo
 ## Experiment 3
 Dunning and his colleagues asked respondents if they are familiar with variety of terms related to subjects - politics, biology, physics and geography. The terms also included made-up terms too. Approximately, 90 percent of respondents claimed that they had at least some knowledge of made-up terms.
 
+# Causes of the effect
+Dunning and Kruger suggest that this phenomenon stems from what they refer to as a "dual burden." People are not only incompetent; their incompetence robs them of the mental ability to realize just how inept they are.
+
+Incompetent people tend to:
+
+-   Overestimate their own skill levels
+-   Fail to recognize the genuine skill and expertise of other people
+-   Fail to recognize their own mistakes and lack of skill
+
 [Note#Footer|Footer]
 
 ---
@@ -34,5 +43,5 @@ Tags: #FleetingNotes, #review
 Links: 
 [Source](), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyMDAxNDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDg0MjM1MjNdfQ==
 -->
