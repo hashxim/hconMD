@@ -78,9 +78,12 @@ Other factors:
 - They also allow us to reach decisions quickly (useful during dangerous / threatening situation)
 
 # Overcoming Cognitive Bias
-- Being aware of bias
+- Being aware of bias - Could affectively reduce the effects by 29%
 - Considering the factors that affect your decisions
-- Challenging your bias
+- Challenging your biases - Helps in more critical thinking if one challenges
+	- What are some factors you have missed? 
+	- Are you giving too much weight to certain factors? 
+	- Are you ignoring relevant information because it doesn't support your view?
 
 ---
 # Footer
@@ -88,6 +91,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1ODIxNzU4LC0yMDUzNTM0NTM0LC0yMD
-E1NDc5OTMyXX0=
+eyJoaXN0b3J5IjpbMTg1NjE4MjAwNSwtMjA1MzUzNDUzNCwtMj
+AxNTQ3OTkzMl19
 -->
