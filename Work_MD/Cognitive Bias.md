@@ -60,6 +60,10 @@ Believing that you are less likely to suffer from misfortune and more likely to 
 Blame external forces when bad things happen and give yourself credit when good things happen. 
 
 ## Dunning-Kruger effect
+Believe that they are smarter and more capable than they really are.
+
+# Causes
+
 
 ---
 # Footer
@@ -67,6 +71,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDI4Njg3NywtMjA1MzUzNDUzNCwtMj
+eyJoaXN0b3J5IjpbLTM4MjM2MzQxMSwtMjA1MzUzNDUzNCwtMj
 AxNTQ3OTkzMl19
 -->
