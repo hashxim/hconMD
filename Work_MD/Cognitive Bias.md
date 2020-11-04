@@ -21,7 +21,10 @@ Everyone has it. It is easier to spot in others but also important to know that 
 Some signs that you might be influenced:
 - Paying attention to stories that confirm your opinion
 - Blaming outside factors on failure
-- Attributing other's success to luck and own credit 
+- Attributing other's success to luck and own credit for accomplishment
+- Assuming that everyone shares your opinion or belief
+- Dunning-Kruger effect - Learning little but assuming you know all 
+
 
 ---
 # Footer
@@ -29,5 +32,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njc2NDYxLC0yMDE1NDc5OTMyXX0=
+eyJoaXN0b3J5IjpbLTIwNTM1MzQ1MzQsLTIwMTU0Nzk5MzJdfQ
+==
 -->
