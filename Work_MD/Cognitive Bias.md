@@ -75,7 +75,12 @@ Other factors:
 
 # Impact of Cognitive Bias
 - Can lead to distorted thinking
-- 
+- They also allow us to reach decisions quickly (useful during dangerous / threatening situation)
+
+# Overcoming Cognitive Bias
+- Being aware of bias
+- Considering the factors that affect your decisions
+- Challenging your bias
 
 ---
 # Footer
@@ -83,6 +88,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQwNTM1MjYsLTIwNTM1MzQ1MzQsLT
-IwMTU0Nzk5MzJdfQ==
+eyJoaXN0b3J5IjpbNTI1ODIxNzU4LC0yMDUzNTM0NTM0LC0yMD
+E1NDc5OTMyXX0=
 -->
