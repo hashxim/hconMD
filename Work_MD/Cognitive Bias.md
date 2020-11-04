@@ -63,7 +63,7 @@ Blame external forces when bad things happen and give yourself credit when good 
 Believe that they are smarter and more capable than they really are.
 
 # Causes
-
+It would take a lot of time
 
 ---
 # Footer
@@ -71,6 +71,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjM2MzQxMSwtMjA1MzUzNDUzNCwtMj
-AxNTQ3OTkzMl19
+eyJoaXN0b3J5IjpbOTQyNDQyNzU2LC0yMDUzNTM0NTM0LC0yMD
+E1NDc5OTMyXX0=
 -->
