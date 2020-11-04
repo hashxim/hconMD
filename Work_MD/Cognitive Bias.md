@@ -25,6 +25,7 @@ Some signs that you might be influenced:
 - Assuming that everyone shares your opinion or belief
 - Dunning-Kruger effect - Learning little but assuming you know all 
 
+# Ty
 
 ---
 # Footer
@@ -32,6 +33,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM1MzQ1MzQsLTIwMTU0Nzk5MzJdfQ
-==
+eyJoaXN0b3J5IjpbMTMxNjU5MDE1OCwtMjA1MzUzNDUzNCwtMj
+AxNTQ3OTkzMl19
 -->
