@@ -16,7 +16,12 @@ Logical Fallacy stems from an error in a logical argument.
 Cognitive bias is rooted in thought processing. Errors often arise from problems with **memory, attention, attribution and other mental mistakes**.
 
 # Signs
-Everyone has it. It is easier to spot in others but also important to know that it is somethingk
+Everyone has it. It is easier to spot in others but also important to know that it is something that affects our thinking.
+
+Some signs that you might be influenced:
+- Paying attention to stories that confirm your opinion
+- Blaming outside factors on failure
+- Attributing other's success to luck and own credit 
 
 ---
 # Footer
@@ -24,5 +29,5 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTE5NDIzNSwtMjAxNTQ3OTkzMl19
+eyJoaXN0b3J5IjpbLTM2Njc2NDYxLC0yMDE1NDc5OTMyXX0=
 -->
