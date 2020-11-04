@@ -39,15 +39,19 @@ Tendency to pay attention to some things while simultaneously ignoring others. L
 Placing greater value on information that comes to your mind quickly. You give greater credence to this information and tend to overestimate the probability and likelihood of similar things happening in the future.
 
 ## Confirmation bias
-Favouring information that conforms to your existing beliefs
+Favouring information that conforms to your existing beliefs and discounting evidence that does not conform.
 
 ## False consensus effect
+Tendency to overestimate how much other people agree with you.
 
 ## Functional fixedness
+Tendency to see objects as only working in a particular way. For example, if you don't have a hammer, you never consider that a big wrench can also be used to drive a nail into the wall. This could extend to people's functions, such as not realizing a personal assistant has skills to be in a leadership role.
 
 ## Halo effect
+Your overall impression of a person influences how you feel and think about their character. This especially applies to physical attractiveness influencing how you rate their other qualities.
 
 ## Misinformation effect
+
 
 ## Optimism bias
 
@@ -61,6 +65,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTY4MzA5MiwtMjA1MzUzNDUzNCwtMj
+eyJoaXN0b3J5IjpbMTA4ODQ0NTM0MCwtMjA1MzUzNDUzNCwtMj
 AxNTQ3OTkzMl19
 -->
