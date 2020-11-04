@@ -63,7 +63,7 @@ Blame external forces when bad things happen and give yourself credit when good 
 Believe that they are smarter and more capable than they really are.
 
 # Causes
-It would take a lot of time
+It would take a lot of time to make even simplest choice due to sheer complexity of the world and amount of information in the environment. It would be necessary sometimes to rely on some mental shortcuts that allow us t
 
 ---
 # Footer
@@ -71,6 +71,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNDQyNzU2LC0yMDUzNTM0NTM0LC0yMD
-E1NDc5OTMyXX0=
+eyJoaXN0b3J5IjpbMTUzMzI1OTk0MiwtMjA1MzUzNDUzNCwtMj
+AxNTQ3OTkzMl19
 -->
