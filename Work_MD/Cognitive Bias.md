@@ -51,11 +51,13 @@ Tendency to see objects as only working in a particular way. For example, if you
 Your overall impression of a person influences how you feel and think about their character. This especially applies to physical attractiveness influencing how you rate their other qualities.
 
 ## Misinformation effect
-
+Tendency for post-event information to interfere with the memory of the original event. It is easy to have your memory influenced by what you hear about the event from others. Knowledge of this effect has led to a mistrust of eyewitness information.
 
 ## Optimism bias
+Believing that you are less likely to suffer from misfortune and more likely to attain success than your peers.
 
 ## Self-serving bias
+Blame external forces when bad things happen and give yourself credit when good things happen. 
 
 ## Dunning-Kruger effect
 
@@ -65,6 +67,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODQ0NTM0MCwtMjA1MzUzNDUzNCwtMj
+eyJoaXN0b3J5IjpbMTA2MDI4Njg3NywtMjA1MzUzNDUzNCwtMj
 AxNTQ3OTkzMl19
 -->
