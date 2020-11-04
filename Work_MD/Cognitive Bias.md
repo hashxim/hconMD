@@ -13,6 +13,10 @@ The concept of cognitive bias was first introduced by researchers Amos Tversky a
 # Cognitive Bias vs Logical Fallacy
 Logical Fallacy stems from an error in a logical argument.
 
+Cognitive bias is rooted in thought processing. Errors often arise from problems with **memory, attention, attribution and other mental mistakes**.
+
+# Signs
+Everyone has it. It is easier to spot in others but also important to know that it is somethingk
 
 ---
 # Footer
@@ -20,5 +24,5 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjYyMjI2NSwtMjAxNTQ3OTkzMl19
+eyJoaXN0b3J5IjpbMjEyMTE5NDIzNSwtMjAxNTQ3OTkzMl19
 -->
