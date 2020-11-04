@@ -33,11 +33,13 @@ Tendency to attribute your own actions to external causes while attributing othe
 Tendency to rely too heavily on the very first piece of information you learn. You can use this bias to set the expectations of others by putting the first information on the table for consideration.
 
 ## Attentional bias
-Tendency to pay attention to some things while simultaneously ignoring others. Like pay attention to colour of the car but igno
+Tendency to pay attention to some things while simultaneously ignoring others. Like pay attention to colour of the car but ignore safety record.
 
 ## Availability Heuristic
+Placing greater value on information that comes to your mind quickly. You give greater credence to this information and tend to overestimate the probability and likelihood of similar things happening in the future.
 
 ## Confirmation bias
+Favouring information that conforms to your existing beliefs
 
 ## False consensus effect
 
@@ -59,6 +61,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTI0NTQ2LC0yMDUzNTM0NTM0LC0yMD
-E1NDc5OTMyXX0=
+eyJoaXN0b3J5IjpbMTAzOTY4MzA5MiwtMjA1MzUzNDUzNCwtMj
+AxNTQ3OTkzMl19
 -->
