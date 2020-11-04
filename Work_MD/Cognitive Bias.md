@@ -27,10 +27,13 @@ Some signs that you might be influenced:
 
 # Types
 ## Actor-observer bias
+Tendency to attribute your own actions to external causes while attributing other people's behaviors to internal causes.
 
 ## Anchoring bias
+Tendency to rely too heavily on the very first piece of information you learn. You can use this bias to set the expectations of others by putting the first information on the table for consideration.
 
 ## Attentional bias
+Tendency to pay attention to some things while simultaneously ignoring others. Like pay attention to colour of the car but igno
 
 ## Availability Heuristic
 
@@ -48,7 +51,7 @@ Some signs that you might be influenced:
 
 ## Self-serving bias
 
-#
+## Dunning-Kruger effect
 
 ---
 # Footer
@@ -56,6 +59,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI5NDc1OTQsLTIwNTM1MzQ1MzQsLT
-IwMTU0Nzk5MzJdfQ==
+eyJoaXN0b3J5IjpbMTE2OTI0NTQ2LC0yMDUzNTM0NTM0LC0yMD
+E1NDc5OTMyXX0=
 -->
