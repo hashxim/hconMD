@@ -1,4 +1,4 @@
-`Summary`
+`What causes cognitive biases, how heuristics help us and `
 
 # Definition
 A cognitive bias is a systematic error in thinking that occurs when people are processing and interpreting information in the world around them and affects the decisions and judgments that they make.
@@ -85,12 +85,15 @@ Other factors:
 	- Are you giving too much weight to certain factors? 
 	- Are you ignoring relevant information because it doesn't support your view?
 
+# Treatment
+Cognitive bias modification therapy (CBMT) is a treatment approach based on processes that are designed to reduce cognitive bias. This form of therapy has been used to help treat addictions, depression, and anxiety.
+
 ---
 # Footer
 Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjE4MjAwNSwtMjA1MzUzNDUzNCwtMj
-AxNTQ3OTkzMl19
+eyJoaXN0b3J5IjpbLTIwMTQzOTU4NzEsLTIwNTM1MzQ1MzQsLT
+IwMTU0Nzk5MzJdfQ==
 -->
