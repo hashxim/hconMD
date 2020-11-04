@@ -69,6 +69,12 @@ Cognitive biases are caused by number of things but heuristics (mental shortcuts
 
 Other factors:
 - Emotions
+- Individual motivations
+- Limited mind's ability to process information
+- Social pressure
+
+# Impact of Cognitive Bias
+- Can lead to distorted thinking
 - 
 
 ---
@@ -77,6 +83,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NTczMjA0LC0yMDUzNTM0NTM0LC0yMD
-E1NDc5OTMyXX0=
+eyJoaXN0b3J5IjpbLTE0MDQwNTM1MjYsLTIwNTM1MzQ1MzQsLT
+IwMTU0Nzk5MzJdfQ==
 -->
