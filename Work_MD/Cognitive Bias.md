@@ -25,7 +25,30 @@ Some signs that you might be influenced:
 - Assuming that everyone shares your opinion or belief
 - Dunning-Kruger effect - Learning little but assuming you know all 
 
-# Ty
+# Types
+## Actor-observer bias
+
+## Anchoring bias
+
+## Attentional bias
+
+## Availability Heuristic
+
+## Confirmation bias
+
+## False consensus effect
+
+## Functional fixedness
+
+## Halo effect
+
+## Misinformation effect
+
+## Optimism bias
+
+## Self-serving bias
+
+#
 
 ---
 # Footer
@@ -33,6 +56,6 @@ Tags: #FleetingNotes, #review , #psychology
 Links: 
 [Source](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963#causes), [[Note_Template|File]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjU5MDE1OCwtMjA1MzUzNDUzNCwtMj
-AxNTQ3OTkzMl19
+eyJoaXN0b3J5IjpbLTEzMjI5NDc1OTQsLTIwNTM1MzQ1MzQsLT
+IwMTU0Nzk5MzJdfQ==
 -->
