@@ -11,7 +11,7 @@
 # Footer
 Tags: #FleetingNotes, #review, #podcast
 Links: 
-[Source](http://www.buzzsprout.com/1236713/6054055), [[Note_Template|File]]
+[Source](http://www.buzzsprout.com/1236713/6054055), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg0ODU4NDA1Nl19

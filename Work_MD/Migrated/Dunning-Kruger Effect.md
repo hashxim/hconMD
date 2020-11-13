@@ -1,4 +1,4 @@
-`Summary`
+`Bias which causes human to think he is smarter and more capable than they really are.`
 
 # Introduction
 The Dunning-Kruger effect is a type of [cognitive bias](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963) in which ==people believe that they are smarter and more capable than they really are. Essentially, low ability people do not possess the skills needed to recognize their own incompetence.== The combination of poor [self-awareness](https://www.verywellmind.com/what-is-self-awareness-2795023) and low cognitive ability leads them to overestimate their own capabilities.
@@ -64,13 +64,13 @@ As experience with a subject increases, confidence typically declines to more re
 The Dunning-Kruger effect is one of many cognitive biases that can affect your behaviors and decisions, from the mundane to the life-changing. While it may be easier to recognize the phenomenon in others, it is important to remember that it is something that impacts everyone.
 
 
-[Note#Footer|Footer]
+
 
 ---
 # Footer
 Tags: #FleetingNotes, #review , #psychology
 Links: 
-[Source](https://www.verywellmind.com/an-overview-of-the-dunning-kruger-effect-4160740), [[Note_Template|File]]
+[Source](https://www.verywellmind.com/an-overview-of-the-dunning-kruger-effect-4160740), [[Incomplete_Notes|File]]
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyODE3NjEwNTQsMTkwNjE4MTYxOF19
 -->
