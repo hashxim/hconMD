@@ -8,7 +8,11 @@
 # How to find your Authentic Career
 It is equal part mindset and strategy.
 
-## Learn about yourself 
+## Learn about yourself
+- What makes you happy in current role, past role or project and what doesn't make you happy in current and past role.
+- What task drain you vs what tasks give you energy?
+- 
+ 
 
 ---
 
@@ -23,5 +27,5 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDMwMjRdfQ==
+eyJoaXN0b3J5IjpbLTE0MTM5MjIyXX0=
 -->
