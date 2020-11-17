@@ -24,7 +24,9 @@ Do you prefer structure or do you prefer lots of blank space without much guidan
 Do you prefer to work closely with others or prefer autonomy?
 Do you need lot of variety or prefer working on one thing only?
 
-## WHat 
+## Identify good at
+Find what you're good at, what you enjoy, what pays well, what's needed in the world.
+Make list. 
 
 ---
 
@@ -39,7 +41,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MDQyOTA0LC0yMjYxNjkzNjgsLTE2MT
-M3MjkzNjksLTE4NTcwODA2OTMsLTE5Njk4NTY2ODAsLTE4OTk2
-OTc4OTRdfQ==
+eyJoaXN0b3J5IjpbLTE0MzQxMjk2MCwtMjI2MTY5MzY4LC0xNj
+EzNzI5MzY5LC0xODU3MDgwNjkzLC0xOTY5ODU2NjgwLC0xODk5
+Njk3ODk0XX0=
 -->
