@@ -1,9 +1,8 @@
 `Summary`
 
 # Common approaches that DOESN'T work
-## Choosing career based on financial gain
-Choosing not because of interest in actual work but because of the financial opportunity available. One doesn't look at the culture of these companies, career path, work-life balance,
-
+- **Choosing career based on financial gain** - Choosing not because of interest in actual work but because of the financial opportunity available. One doesn't look at the culture of these companies, career path, work-life balance, day-to-day tasks, personality type needed. 
+- **Enterpreneurship 
 
 
 ---
@@ -19,5 +18,5 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU4OTI5MDVdfQ==
+eyJoaXN0b3J5IjpbNTA4NzkwODI1XX0=
 -->
