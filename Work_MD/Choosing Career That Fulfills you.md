@@ -27,7 +27,13 @@ Do you need lot of variety or prefer working on one thing only?
 ## Identify good at
 Find what you're good at, what you enjoy, what pays well, what's needed in the world. Make list. 
 
-Do some research into careers and industries that include the things you enjoy doing. Learn what the industry pay
+Do some research into careers and industries that include the things you enjoy doing. Learn what the industry pay rates and lifestyle it offers.
+
+See if the cause or company is working toward something meaningful and that aligns with what’s needed in the world.
+
+This exercise can also be explained by Japanese concept known as [Ikigai](https://medium.com/better-humans/the-japanese-concept-ikigai-is-a-formula-for-happiness-and-meaning-8e497e5afa99)
+
+## 
 
 ---
 
@@ -42,7 +48,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDc3NjA1OSwtMjI2MTY5MzY4LC0xNj
-EzNzI5MzY5LC0xODU3MDgwNjkzLC0xOTY5ODU2NjgwLC0xODk5
-Njk3ODk0XX0=
+eyJoaXN0b3J5IjpbLTE5MDA2NTc2ODQsLTIyNjE2OTM2OCwtMT
+YxMzcyOTM2OSwtMTg1NzA4MDY5MywtMTk2OTg1NjY4MCwtMTg5
+OTY5Nzg5NF19
 -->
