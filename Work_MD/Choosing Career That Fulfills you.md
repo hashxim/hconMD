@@ -21,7 +21,9 @@ Personality tests offer ways to think about what makes you unique—whether or n
  
 ## Preferred Work Style
 Do you prefer structure or do you prefer lots of blank space without much guidance?
-Do you prefer to work closely with others
+Do you prefer to work closely with others or prefer autonomy?
+Do you need lot of variety or prefer working on one thing only?
+
 
 ---
 
@@ -36,6 +38,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjE2OTM2OCwtMTYxMzcyOTM2OSwtMT
-g1NzA4MDY5MywtMTk2OTg1NjY4MCwtMTg5OTY5Nzg5NF19
+eyJoaXN0b3J5IjpbNDgwODkwNjk0LC0yMjYxNjkzNjgsLTE2MT
+M3MjkzNjksLTE4NTcwODA2OTMsLTE5Njk4NTY2ODAsLTE4OTk2
+OTc4OTRdfQ==
 -->
