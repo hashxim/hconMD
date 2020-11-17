@@ -25,8 +25,9 @@ Do you prefer to work closely with others or prefer autonomy?
 Do you need lot of variety or prefer working on one thing only?
 
 ## Identify good at
-Find what you're good at, what you enjoy, what pays well, what's needed in the world.
-Make list. 
+Find what you're good at, what you enjoy, what pays well, what's needed in the world. Make list. 
+
+Do some research into careers and industries that include the things you enjoy doing. Learn what the industry pay
 
 ---
 
@@ -41,7 +42,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQxMjk2MCwtMjI2MTY5MzY4LC0xNj
+eyJoaXN0b3J5IjpbMTg3NDc3NjA1OSwtMjI2MTY5MzY4LC0xNj
 EzNzI5MzY5LC0xODU3MDgwNjkzLC0xOTY5ODU2NjgwLC0xODk5
 Njk3ODk0XX0=
 -->
