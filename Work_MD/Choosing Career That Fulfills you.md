@@ -20,7 +20,8 @@ It is equal part mindset and strategy.
 Personality tests offer ways to think about what makes you unique—whether or not you believe their underlying premise or even the results.
  
 ## Preferred Work Style
-
+Do you prefer structure or do you prefer lots of blank space without much guidance?
+Do you prefer to work closely with others
 
 ---
 
@@ -35,6 +36,6 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM3MjkzNjksLTE4NTcwODA2OTMsLT
-E5Njk4NTY2ODAsLTE4OTk2OTc4OTRdfQ==
+eyJoaXN0b3J5IjpbLTIyNjE2OTM2OCwtMTYxMzcyOTM2OSwtMT
+g1NzA4MDY5MywtMTk2OTg1NjY4MCwtMTg5OTY5Nzg5NF19
 -->
