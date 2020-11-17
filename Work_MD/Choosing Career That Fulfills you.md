@@ -14,7 +14,8 @@ It is equal part mindset and strategy.
 - Learn more about your personality - Take [16 Personalities Test](https://www.16personalities.com/free-personality-test). It gives you an idea of way you think, work with others. You may also find that your type change based on what mood you're in when you take the test.
 - Human Design - [Astrology typing](https://www.mybodygraph.com/)
 - Genius Test - This [tool](https://www.geniusu.com/my-genius-test) classifies personalities as four genius types. It pulls imagery from 4 season and 4 frequencies in ancient Chinese and Indian.
-- Knowing your Strength and Weakness
+- Knowing your Strength and Weakness helps you to work better with others too
+- Life Path Number
  
 
 ---
@@ -30,6 +31,6 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDUzNDM2LC0xOTY5ODU2NjgwLC0xOD
-k5Njk3ODk0XX0=
+eyJoaXN0b3J5IjpbLTE4NTcwODA2OTMsLTE5Njk4NTY2ODAsLT
+E4OTk2OTc4OTRdfQ==
 -->
