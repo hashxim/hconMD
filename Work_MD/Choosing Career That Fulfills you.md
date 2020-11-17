@@ -2,7 +2,7 @@
 
 # Common approaches that DOESN'T work
 - **Choosing career based on financial gain** - Choosing not because of interest in actual work but because of the financial opportunity available. One doesn't look at the culture of these companies, career path, work-life balance, day-to-day tasks, personality type needed. 
-- **Enterpreneurship 
+- **Thinking Entrepreneurship as the only perfect career** - Full time isn't for everyone. ==We have been sold this narrative that 9-5 can only be soul-sucking which is not true==. One may realize tha
 
 
 ---
@@ -18,5 +18,5 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NzkwODI1XX0=
+eyJoaXN0b3J5IjpbNzMzMjM4MTAyXX0=
 -->
