@@ -11,7 +11,8 @@ It is equal part mindset and strategy.
 ## Learn about yourself
 - What makes you happy in current role, past role or project and what doesn't make you happy in current and past role.
 - What task drain you vs what tasks give you energy?
-- Learn more about your personality - Take [16 Personalities Test](https://www.16personalities.com/free-personality-test). This would help you shape your personality. You may also find that your type change based on what mood you're in when you take the test.
+- Learn more about your personality - Take [16 Personalities Test](https://www.16personalities.com/free-personality-test). It gives you an idea of way you think, work with others. You may also find that your type change based on what mood you're in when you take the test.
+- Human Design - 
  
 
 ---
@@ -27,5 +28,6 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU2MjgzNSwtMTg5OTY5Nzg5NF19
+eyJoaXN0b3J5IjpbLTE5Njk4NTY2ODAsLTE4OTk2OTc4OTRdfQ
+==
 -->
