@@ -15,8 +15,12 @@ It is equal part mindset and strategy.
 - Human Design - [Astrology typing](https://www.mybodygraph.com/)
 - Genius Test - This [tool](https://www.geniusu.com/my-genius-test) classifies personalities as four genius types. It pulls imagery from 4 season and 4 frequencies in ancient Chinese and Indian.
 - Knowing your Strength and Weakness helps you to work better with others too
-- Life Path Number - Th
+- Life Path Number - This [tool](https://www.thecut.com/article/life-path-number.html) gives you insight into your life purpose. 
+
+Personality tests offer ways to think about what makes you unique—whether or not you believe their underlying premise or even the results.
  
+## Preferred Work Style
+
 
 ---
 
@@ -31,6 +35,6 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjM2NTgyOCwtMTg1NzA4MDY5MywtMT
-k2OTg1NjY4MCwtMTg5OTY5Nzg5NF19
+eyJoaXN0b3J5IjpbLTE2MTM3MjkzNjksLTE4NTcwODA2OTMsLT
+E5Njk4NTY2ODAsLTE4OTk2OTc4OTRdfQ==
 -->
