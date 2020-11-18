@@ -41,7 +41,9 @@ Research any training for your new career. Connect with few people in the indust
 Don't worry about how it looks on outside and what other people think.
 
 ## Talk to as many people as Possible
-Start connecting with
+Start connecting with people that are in your desired job. LinkedIn is a great place for that.
+
+By setting up 20-minute calls with questions prepared, you start to get a good feel of learning the good and bad parts of the career you’re researching: What you’re willing to live with as well as what you're not. You can really learn a lot from talking with people about what they like and don’t like in their careers to see if that applies to you.
 
 ---
 
@@ -56,7 +58,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTc1MTg2NiwtMTU3MDQzMjQ5MywtNj
-E4NTgwOTYzLC0yMjYxNjkzNjgsLTE2MTM3MjkzNjksLTE4NTcw
-ODA2OTMsLTE5Njk4NTY2ODAsLTE4OTk2OTc4OTRdfQ==
+eyJoaXN0b3J5IjpbNDkyNDQ5MTIsLTE1NzA0MzI0OTMsLTYxOD
+U4MDk2MywtMjI2MTY5MzY4LC0xNjEzNzI5MzY5LC0xODU3MDgw
+NjkzLC0xOTY5ODU2NjgwLC0xODk5Njk3ODk0XX0=
 -->
