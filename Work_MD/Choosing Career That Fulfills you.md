@@ -36,6 +36,8 @@ This exercise can also be explained by Japanese concept known as [Ikigai](https:
 ## Research and try as many career ideas as possible
 Once you have few ideas of careers that you would feel purposeful and aligned with, begin to try them. Begin to feel what it would be like to have this career. Make it part of your identity, add to LinkedIn title.
 
+Research any training for your new career. Connect with few people in the industry and get to know day to day operations and responsibilities. 
+
 ## Talk to as many people as Possible
 
 
@@ -52,7 +54,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTMzNzIyMCwtNjE4NTgwOTYzLC0yMj
-YxNjkzNjgsLTE2MTM3MjkzNjksLTE4NTcwODA2OTMsLTE5Njk4
-NTY2ODAsLTE4OTk2OTc4OTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NzA0MzI0OTMsLTYxODU4MDk2MywtMj
+I2MTY5MzY4LC0xNjEzNzI5MzY5LC0xODU3MDgwNjkzLC0xOTY5
+ODU2NjgwLC0xODk5Njk3ODk0XX0=
 -->
