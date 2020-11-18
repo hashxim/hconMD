@@ -38,8 +38,10 @@ Once you have few ideas of careers that you would feel purposeful and aligned wi
 
 Research any training for your new career. Connect with few people in the industry and get to know day to day operations and responsibilities. 
 
-## Talk to as many people as Possible
+Don't worry about how it looks on outside and what other people think.
 
+## Talk to as many people as Possible
+Start connecting with
 
 ---
 
@@ -54,7 +56,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA0MzI0OTMsLTYxODU4MDk2MywtMj
-I2MTY5MzY4LC0xNjEzNzI5MzY5LC0xODU3MDgwNjkzLC0xOTY5
-ODU2NjgwLC0xODk5Njk3ODk0XX0=
+eyJoaXN0b3J5IjpbLTUxNTc1MTg2NiwtMTU3MDQzMjQ5MywtNj
+E4NTgwOTYzLC0yMjYxNjkzNjgsLTE2MTM3MjkzNjksLTE4NTcw
+ODA2OTMsLTE5Njk4NTY2ODAsLTE4OTk2OTc4OTRdfQ==
 -->
