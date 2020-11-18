@@ -1,4 +1,3 @@
-`Summary`
 
 # Common approaches that DOESN'T work
 - **Choosing career based on financial gain** - Choosing not because of interest in actual work but because of the financial opportunity available. One doesn't look at the culture of these companies, career path, work-life balance, day-to-day tasks, personality type needed. 
@@ -49,7 +48,7 @@ By setting up 20-minute calls with questions prepared, you start to get a good f
 ---
 
 # Footer
-Tags: #FleetingNotes, #review
+Tags: #FleetingNotes, #review, #Professional
 Links: 
 [Source](https://medium.com/better-humans/how-to-choose-a-career-that-fulfills-you-while-keeping-your-9-5-47462bbf6569), [[Incomplete_Notes|File]]
 
@@ -59,7 +58,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzQ2MDMyMiwtMTU3MDQzMjQ5MywtNj
+eyJoaXN0b3J5IjpbLTI5MjI1NjkxNCwtMTU3MDQzMjQ5MywtNj
 E4NTgwOTYzLC0yMjYxNjkzNjgsLTE2MTM3MjkzNjksLTE4NTcw
 ODA2OTMsLTE5Njk4NTY2ODAsLTE4OTk2OTc4OTRdfQ==
 -->
