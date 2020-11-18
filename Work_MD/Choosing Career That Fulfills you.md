@@ -45,6 +45,8 @@ Start connecting with people that are in your desired job. LinkedIn is a great p
 
 By setting up 20-minute calls with questions prepared, you start to get a good feel of learning the good and bad parts of the career you’re researching: What you’re willing to live with as well as what you're not. You can really learn a lot from talking with people about what they like and don’t like in their careers to see if that applies to you.
 
+
+
 ---
 
 # Footer
@@ -58,7 +60,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNDQ5MTIsLTE1NzA0MzI0OTMsLTYxOD
-U4MDk2MywtMjI2MTY5MzY4LC0xNjEzNzI5MzY5LC0xODU3MDgw
-NjkzLC0xOTY5ODU2NjgwLC0xODk5Njk3ODk0XX0=
+eyJoaXN0b3J5IjpbLTg5MTQyMzI0LC0xNTcwNDMyNDkzLC02MT
+g1ODA5NjMsLTIyNjE2OTM2OCwtMTYxMzcyOTM2OSwtMTg1NzA4
+MDY5MywtMTk2OTg1NjY4MCwtMTg5OTY5Nzg5NF19
 -->
