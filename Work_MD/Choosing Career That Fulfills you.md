@@ -33,7 +33,11 @@ See if the cause or company is working toward something meaningful and that alig
 
 This exercise can also be explained by Japanese concept known as [Ikigai](https://medium.com/better-humans/the-japanese-concept-ikigai-is-a-formula-for-happiness-and-meaning-8e497e5afa99)
 
-## 
+## Research and try as many career ideas as possible
+
+
+## Talk to as many people as Possible
+
 
 ---
 
@@ -48,7 +52,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA2NTc2ODQsLTIyNjE2OTM2OCwtMT
-YxMzcyOTM2OSwtMTg1NzA4MDY5MywtMTk2OTg1NjY4MCwtMTg5
-OTY5Nzg5NF19
+eyJoaXN0b3J5IjpbLTYxODU4MDk2MywtMjI2MTY5MzY4LC0xNj
+EzNzI5MzY5LC0xODU3MDgwNjkzLC0xOTY5ODU2NjgwLC0xODk5
+Njk3ODk0XX0=
 -->
