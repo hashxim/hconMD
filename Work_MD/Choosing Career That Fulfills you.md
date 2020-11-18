@@ -34,7 +34,7 @@ See if the cause or company is working toward something meaningful and that alig
 This exercise can also be explained by Japanese concept known as [Ikigai](https://medium.com/better-humans/the-japanese-concept-ikigai-is-a-formula-for-happiness-and-meaning-8e497e5afa99)
 
 ## Research and try as many career ideas as possible
-Once you have few ideas of careers that you would feel purposeful
+Once you have few ideas of careers that you would feel purposeful and aligned with, begin to try them. Begin to feel what it would be like to have this career. Make it part of your identity, add to LinkedIn title.
 
 ## Talk to as many people as Possible
 
@@ -52,7 +52,7 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA0NjQxODEsLTYxODU4MDk2MywtMj
-I2MTY5MzY4LC0xNjEzNzI5MzY5LC0xODU3MDgwNjkzLC0xOTY5
-ODU2NjgwLC0xODk5Njk3ODk0XX0=
+eyJoaXN0b3J5IjpbLTc2OTMzNzIyMCwtNjE4NTgwOTYzLC0yMj
+YxNjkzNjgsLTE2MTM3MjkzNjksLTE4NTcwODA2OTMsLTE5Njk4
+NTY2ODAsLTE4OTk2OTc4OTRdfQ==
 -->
