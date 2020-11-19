@@ -10,11 +10,11 @@ It is equal part mindset and strategy.
 ## Learn about yourself
 - What makes you happy in current role, past role or project and what doesn't make you happy in current and past role.
 - What task drain you vs what tasks give you energy?
-- Learn more about your personality - Take [16 Personalities Test](https://www.16personalities.com/free-personality-test). It gives you an idea of way you think, work with others. You may also find that your type change based on what mood you're in when you take the test.
-- Human Design - [Astrology typing](https://www.mybodygraph.com/)
-- Genius Test - This [tool](https://www.geniusu.com/my-genius-test) classifies personalities as four genius types. It pulls imagery from 4 season and 4 frequencies in ancient Chinese and Indian.
-- Knowing your Strength and Weakness helps you to work better with others too
-- Life Path Number - This [tool](https://www.thecut.com/article/life-path-number.html) gives you insight into your life purpose. 
+- **Learn more about your personality** - Take [16 Personalities Test](https://www.16personalities.com/free-personality-test). It gives you an idea of way you think, work with others. You may also find that your type change based on what mood you're in when you take the test.
+- **Human Design** - [Astrology typing](https://www.mybodygraph.com/)
+- **Genius Test** - This [tool](https://www.geniusu.com/my-genius-test) classifies personalities as four genius types. It pulls imagery from 4 season and 4 frequencies in ancient Chinese and Indian.
+- **Knowing your Strength and Weakness** helps you to work better with others too
+- **Life Path Number** - This [tool](https://www.thecut.com/article/life-path-number.html) gives you insight into your life purpose. 
 
 Personality tests offer ways to think about what makes you unique—whether or not you believe their underlying premise or even the results.
  
@@ -58,7 +58,8 @@ Links:
 [//]: # (Write a comment here)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjI1NjkxNCwtMTU3MDQzMjQ5MywtNj
-E4NTgwOTYzLC0yMjYxNjkzNjgsLTE2MTM3MjkzNjksLTE4NTcw
-ODA2OTMsLTE5Njk4NTY2ODAsLTE4OTk2OTc4OTRdfQ==
+eyJoaXN0b3J5IjpbMTY4MjgyOTU1MCwtMjkyMjU2OTE0LC0xNT
+cwNDMyNDkzLC02MTg1ODA5NjMsLTIyNjE2OTM2OCwtMTYxMzcy
+OTM2OSwtMTg1NzA4MDY5MywtMTk2OTg1NjY4MCwtMTg5OTY5Nz
+g5NF19
 -->
