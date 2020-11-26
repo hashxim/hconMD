@@ -18,7 +18,9 @@
 
 ## Note Taking
 - [Obsidian](http://obsidian.md/) - Laptop
-- 
+- [Markor](https://github.com/gsantner/markor) - Mobile
+- [Drafts](https://getdrafts.com/) - iPad
+- [Stackedit](Stackedit.io)
 
 ### Devices
 
@@ -41,5 +43,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwOTAzNjcxXX0=
+eyJoaXN0b3J5IjpbLTE0Mzk3NzQ3MjJdfQ==
 -->
