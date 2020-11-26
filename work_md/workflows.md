@@ -5,10 +5,13 @@
 | :--- | :--- | :--- |
 | Storage | Drive | Drive |
 | Management | Calibre | Calibre |
-| Laptop | Acrobat Reader | **Annual Management Charge** | 
+| Laptop | Acrobat Reader | Calibre |
+| Mobile | Acrobat Reader | Moon+ Reader |
+| iPad | Acrobat Reader | KyBook |
+| External | Acrobat Reader |  | 
 
-* Step 1: Import book in Google Drive shared folder \(EPUB, MOBI\) and Acrobat Reader cloud \(PDF\)
-* Sync with devices \(iPad and Mobile\)
+## Bookmark
+- Papal
 
 ### Devices
 
@@ -31,5 +34,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzg4Nzk1NV19
+eyJoaXN0b3J5IjpbLTE1NzA5ODYzNDhdfQ==
 -->
