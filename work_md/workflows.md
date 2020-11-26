@@ -23,7 +23,9 @@
 - [Stackedit](https://stackedit.io/app#) - External
 
 ## Tasks
-- [Trello]
+- [Trello](https://trello.com/b/SUy71s83/to-do-workflow) - Across all devices
+- [Tasks](https://play.google.com/store/apps/details?id=com.tasks.android&hl=en_GB&gl=US)
+- [Microsoft To-Do](https://to-do.office.com/tasks/myday)
 
 ### Devices
 
@@ -46,5 +48,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjExMzkxN119
+eyJoaXN0b3J5IjpbLTE1OTU2MTcwMzNdfQ==
 -->
