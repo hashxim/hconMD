@@ -11,7 +11,10 @@
 | External | Acrobat Reader |  | 
 
 ## Bookmark
-- Papal
+- [Papaly](https://papaly.com/)
+
+## Articles
+- [Pocket](https://app.getpocket.com/)
 
 ### Devices
 
@@ -34,5 +37,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA5ODYzNDhdfQ==
+eyJoaXN0b3J5IjpbMTQyOTcyNTY2MV19
 -->
