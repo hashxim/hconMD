@@ -20,7 +20,10 @@
 - [Obsidian](http://obsidian.md/) - Laptop
 - [Markor](https://github.com/gsantner/markor) - Mobile
 - [Drafts](https://getdrafts.com/) - iPad
-- [Stackedit](Stackedit.io)
+- [Stackedit](https://stackedit.io/app#) - External
+
+## Tasks
+- [Trello]
 
 ### Devices
 
@@ -43,5 +46,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk3NzQ3MjJdfQ==
+eyJoaXN0b3J5IjpbMTA0NjExMzkxN119
 -->
