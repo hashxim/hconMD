@@ -24,8 +24,12 @@
 
 ## Tasks
 - [Trello](https://trello.com/b/SUy71s83/to-do-workflow) - Across all devices
-- [Tasks](https://play.google.com/store/apps/details?id=com.tasks.android&hl=en_GB&gl=US)
-- [Microsoft To-Do](https://to-do.office.com/tasks/myday)
+- [Tasks](https://play.google.com/store/apps/details?id=com.tasks.android&hl=en_GB&gl=US) - Mobile 
+- [Microsoft To-Do](https://to-do.office.com/tasks/myday) - Work
+
+## Cloud Storage
+- Google Drive
+- [Github](https://github.com/hashxim/hconMD)
 
 ### Devices
 
@@ -48,5 +52,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU2MTcwMzNdfQ==
+eyJoaXN0b3J5IjpbMTAxMjk4MzgwNV19
 -->
