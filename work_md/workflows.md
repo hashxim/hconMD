@@ -3,9 +3,9 @@
 ## Books
 |  | PDF| EPUB |
 | :--- | :--- | :--- |
-| Storage | Drive | Drive |
-| Management | Calibre | Calibre |
-| Laptop | Acrobat Reader | Calibre |
+| **Storage** | Drive | Drive |
+| **Management** | Calibre | Calibre |
+| **Laptop** | Acrobat Reader | Calibre |
 | Mobile | Acrobat Reader | Moon+ Reader |
 | iPad | Acrobat Reader | KyBook |
 | External | Acrobat Reader |  | 
@@ -37,5 +37,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTcyNTY2MV19
+eyJoaXN0b3J5IjpbMTY4OTIxNjg2MV19
 -->
