@@ -14,7 +14,7 @@
 - [Papaly](https://papaly.com/)
 
 ## Articles
-- [Pocket](https://app.getpocket.com/)
+- [Pocket](https://app.getpocket.com/) - Laptop, Mobile, iPad, External
 
 ## Note Taking
 - [Obsidian](http://obsidian.md/) - Laptop
@@ -29,21 +29,12 @@
 
 ## Cloud Storage
 - Google Drive
-- [Github](https://github.com/hashxim/hconMD)
+- [GitHub](https://github.com/hashxim/hconMD)
 
-### Devices
+## Data Sync
+- Backup & Sync
+- GitHub
 
-* Mobile
-  * Apps - Google drive, Moon+ Reader, FolderSync, X-plore, Markor, Acrobat Reader, Trello, Pocket
-* iPad
-  * Apps - Google drive, Acrobat Reader, Drafts, Trello, KyBook, Pocket
-* Personal Laptop
-  * Apps - Backup & Sync, Trello \(Web\), Acrobat Reader, Epub Reader, Obsidian, GitHub \(Web\), 
-* Work Laptop
-  * Trello \(Web\), GitHub \(Web\), StackEdit \(Web\), 
-* External System
-
-### Online
 
 ## Articles
 
@@ -52,5 +43,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjk4MzgwNV19
+eyJoaXN0b3J5IjpbLTUyNTE2MjM1N119
 -->
