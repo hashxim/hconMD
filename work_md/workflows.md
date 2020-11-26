@@ -1,9 +1,11 @@
 # Workflows
 
 ## Books
-|  | PDF| EPUB | TER |
-| :--- | :--- | :--- | :--- |
-| Full Form | **Ongoing Charges Figure** | **Annual Management Charge** | **Total Expense Ratio** |
+|  | PDF| EPUB |
+| :--- | :--- | :--- |
+| Storage | Drive | Drive |
+| Management | Calibre | Calibre |
+| Laptop | Acrobat Reader | **Annual Management Charge** | 
 
 * Step 1: Import book in Google Drive shared folder \(EPUB, MOBI\) and Acrobat Reader cloud \(PDF\)
 * Sync with devices \(iPad and Mobile\)
@@ -29,5 +31,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjYyNDI5MF19
+eyJoaXN0b3J5IjpbMjA0Nzg4Nzk1NV19
 -->
