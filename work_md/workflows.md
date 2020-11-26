@@ -6,15 +6,19 @@
 | **Storage** | Drive | Drive |
 | **Management** | Calibre | Calibre |
 | **Laptop** | Acrobat Reader | Calibre |
-| Mobile | Acrobat Reader | Moon+ Reader |
-| iPad | Acrobat Reader | KyBook |
-| External | Acrobat Reader |  | 
+| **Mobile** | Acrobat Reader | Moon+ Reader |
+| **iPad** | Acrobat Reader | KyBook |
+| **External** | Acrobat Reader |  | 
 
 ## Bookmark
 - [Papaly](https://papaly.com/)
 
 ## Articles
 - [Pocket](https://app.getpocket.com/)
+
+## Note Taking
+- [Obsidian](http://obsidian.md/) - Laptop
+- 
 
 ### Devices
 
@@ -37,5 +41,5 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTIxNjg2MV19
+eyJoaXN0b3J5IjpbNjAwOTAzNjcxXX0=
 -->
