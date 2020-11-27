@@ -23,7 +23,3 @@
   * [Choosing Career That Fulfills you](work_md/choosing-career-that-fulfills-you.md)
   * [Workflows](work_md/workflows.md)
 
-## Mrng\_Mind\_Dump
-
-* [Untitled](mrng_mind_dump/untitled.md)
-
