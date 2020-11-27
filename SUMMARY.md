@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Morning Mind Dump](morning-mind-dump/README.md)
+  * [Rules](morning-mind-dump/rules.md)
 * [Work\_MD](work_md/README.md)
   * [Migrated](work_md/migrated/README.md)
     * [The Second Brain](work_md/migrated/the-second-brain.md)
