@@ -5,6 +5,7 @@
   * [Rules](morning-mind-dump/rules.md)
   * [2020-11-27](morning-mind-dump/2020-11-27.md)
   * [2020-11-29](morning-mind-dump/2020-11-29.md)
+  * [2020-11-30](morning-mind-dump/2020-11-30.md)
 * [Work\_MD](work_md/README.md)
   * [Migrated](work_md/migrated/README.md)
     * [The Second Brain](work_md/migrated/the-second-brain.md)
