@@ -71,9 +71,15 @@ Characterized by a pronounced fear a wide range of public places. People with th
 
 Those with disorder often avoid situations that must trigger an anxiety attack. In some cases, avoidance behaviour makes person unable to leave their home. 
 
+### Social Anxiety Disorder
+Fairly common psychological disorder that involves an irrational fear of being watched or judged. Can have major impact on an individual's life and make it difficult to function in social setting.
+
+### Specf
+
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ4NDI1MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2NzEwNjQ4MjcsLTE1NDQ4NDI1MTJdfQ
+==
 -->
