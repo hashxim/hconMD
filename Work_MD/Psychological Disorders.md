@@ -66,20 +66,26 @@ Characterized by excessive and persistent fear, worry, anxiety and related behav
 ### Generalized Anxiety Disorder (GAD)
 Excessive worry about everyday events. Some stress and worry is normal and part of life, GAD is so excessive that it interferes with a person's well-being and functioning.
 
+[More detail](https://www.verywellmind.com/agoraphobia-101-2584235)https://www.verywellmind.com/dsm-5-criteria-for-generalized-anxiety-disorder-1393147
+
 ### Agoraphobia
 Characterized by a pronounced fear a wide range of public places. People with this disorder often fear that they will suffer panic attack in a setting where escape might be difficult.
 
 Those with disorder often avoid situations that must trigger an anxiety attack. In some cases, avoidance behaviour makes person unable to leave their home. 
 
+[More detail](https://www.verywellmind.com/agoraphobia-101-2584235)
+
 ### Social Anxiety Disorder
 Fairly common psychological disorder that involves an irrational fear of being watched or judged. Can have major impact on an individual's life and make it difficult to function in social setting.
 
-### Specf
+[More detail](https://www.verywellmind.com/social-anxiety-disorder-4157220)
+
+### Specific Phobias
+
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEwNjQ4MjcsLTE1NDQ4NDI1MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjEyMTA0OTQzMCwtMTU0NDg0MjUxMl19
 -->
