@@ -112,7 +112,7 @@ Characterized by the emergence of severe anxiety for up to a one month period af
 [More details](https://www.verywellmind.com/acute-stress-disorder-and-ptsd-2797202)
 
 ### Adjustment Disorders
-
+Can occur as a response to a sudden change such as divorce, job loss, end of a close relationship, a move, or some other loss or disappointment.
 
 
 [More details](https://www.verywellmind.com/adjustment-disorder-2797266)
@@ -121,6 +121,6 @@ Characterized by the emergence of severe anxiety for up to a one month period af
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY4NzE5NzcsLTE1NDQ4NDI1MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTMzMTkwMjQ3OCwtMTMwNjg3MTk3NywtMT
+U0NDg0MjUxMl19
 -->
