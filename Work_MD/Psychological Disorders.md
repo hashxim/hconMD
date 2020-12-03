@@ -87,12 +87,20 @@ Fairly common psychological disorder that involves an irrational fear of being w
 [More detail](https://www.verywellmind.com/social-anxiety-disorder-4157220)
 
 ### Specific Phobias
-[Phobias](https://www.verywellmind.com/what-is-a-phobia-2795454) involve fear 
+[Phobias](https://www.verywellmind.com/what-is-a-phobia-2795454) involve fear of a specific object or situation.
+
+Four main types of specific phobias:
+- Natural Events (Thunder, lightening, tornadoes) 
+- Medical (medical procedures, dental procedures, medical equipment)
+- Animals (dogs, snakes, bugs)
+- Situational (small spaces, leaving home, driving)
+
+### Panic Disorder
+Characterized by panic attacks that often seem to strike out of the blue and for no reason at all.
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU4MzEzNDIsLTE1NDQ4NDI1MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTM2Mjc1MDk2NiwtMTU0NDg0MjUxMl19
 -->
