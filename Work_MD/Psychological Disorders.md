@@ -96,11 +96,16 @@ Four main types of specific phobias:
 - Situational (small spaces, leaving home, driving)
 
 ### Panic Disorder
-Characterized by panic attacks that often seem to strike out of the blue and for no reason at all.
+Characterized by panic attacks that often seem to strike out of the blue and for no reason at all. People may begin to avoid situations and settings where attacks have occurred in the past or where they might occur in the future.
+
+### Separation Anxiety Disorder
+This condition is a type of anxiety disorder involving an excessive amount of fear or anxiety related to being separated from attachment figures.
+
+[More details](https://www.verywellmind.com/separation-anxiety-2671784)
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjc1MDk2NiwtMTU0NDg0MjUxMl19
+eyJoaXN0b3J5IjpbLTIzOTQ2ODc0LC0xNTQ0ODQyNTEyXX0=
 -->
