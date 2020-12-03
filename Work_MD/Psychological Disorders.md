@@ -1,4 +1,4 @@
-`Summary`
+`Major list `
 
 # Definition
 Behaviors that are considered maladaptive and cause significant personal distress and interrupt daily functioning are more likely to be labeled as disorders.
@@ -12,9 +12,11 @@ The official term defined in the latest edition of American Psychiatric Associat
 ## Exception
 The DSM-5 also notes that expected responses to a common stressor such as the death of a loved one are not considered mental disorders. The diagnostic manual also suggests that behaviors that are often considered at odds with social norms are not considered disorders unless these actions are the result of some dysfunction.
 
+
+
 ## Footer
 
-Tags: \#FleetingNotes, \#review Links: [Source](template.md), \[\[Incomplete\_Notes\|File\]\]
+Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDQ5OTY0OF19
+eyJoaXN0b3J5IjpbMTIzNTQ1NjU1NF19
 -->
