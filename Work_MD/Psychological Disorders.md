@@ -107,11 +107,18 @@ This condition is a type of anxiety disorder involving an excessive amount of fe
 Trauma and stressor-related disorders involve exposure to a stressful or traumatic event.
 
 ### Acute Stress Disorder
+Characterized by the emergence of severe anxiety for up to a one month period after exposure to a traumatic event. The individual may experience dissociative symptoms such as a sense of altered reality, an inability to remember important aspects of the event, and vivid flashbacks as if the event were reoccurring.
 
+[More details](https://www.verywellmind.com/acute-stress-disorder-and-ptsd-2797202)
+
+### Adjustment Disorders
+
+[More det
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTI0MzU4MSwtMTU0NDg0MjUxMl19
+eyJoaXN0b3J5IjpbLTEyMzYzMDI3ODAsLTE1NDQ4NDI1MTJdfQ
+==
 -->
