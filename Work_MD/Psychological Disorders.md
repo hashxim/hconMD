@@ -103,9 +103,15 @@ This condition is a type of anxiety disorder involving an excessive amount of fe
 
 [More details](https://www.verywellmind.com/separation-anxiety-2671784)
 
+## Stress related Disorder
+Trauma and stressor-related disorders involve exposure to a stressful or traumatic event.
+
+### Acute Stress Disorder
+
+
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTQ2ODc0LC0xNTQ0ODQyNTEyXX0=
+eyJoaXN0b3J5IjpbMTA0NTI0MzU4MSwtMTU0NDg0MjUxMl19
 -->
