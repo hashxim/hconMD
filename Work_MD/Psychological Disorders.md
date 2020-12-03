@@ -67,11 +67,13 @@ Characterized by excessive and persistent fear, worry, anxiety and related behav
 Excessive worry about everyday events. Some stress and worry is normal and part of life, GAD is so excessive that it interferes with a person's well-being and functioning.
 
 ### Agoraphobia
+Characterized by a pronounced fear a wide range of public places. People with this disorder often fear that they will suffer panic attack in a setting where escape might be difficult.
 
+Those with disorder often avoid situations that must trigger an anxiety attack 
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY2MDY2NzRdfQ==
+eyJoaXN0b3J5IjpbMTQyODY1NTM2N119
 -->
