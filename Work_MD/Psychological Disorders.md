@@ -69,11 +69,11 @@ Excessive worry about everyday events. Some stress and worry is normal and part 
 ### Agoraphobia
 Characterized by a pronounced fear a wide range of public places. People with this disorder often fear that they will suffer panic attack in a setting where escape might be difficult.
 
-Those with disorder often avoid situations that must trigger an anxiety attack 
+Those with disorder often avoid situations that must trigger an anxiety attack. In some cases, avoidance behaviour makes person unable to leave their home. 
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODY1NTM2N119
+eyJoaXN0b3J5IjpbLTE1NDQ4NDI1MTJdfQ==
 -->
