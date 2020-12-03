@@ -19,12 +19,19 @@ Neurodevelopmental disorders are those that are typically diagnosed during infan
 
 ### Intellectual Disability
 Also called Intellectual Developmental Disorder formerly known as mental retardation. 
-Originates prior to age of 18 and characterized by limitation in both intellectual functioning and 
+Originates prior to age of 18 and characterized by limitation in both intellectual functioning and adaptive behaviours.
+
+Identified through use of IQ Test with IQ score under 70 indicating presence of a limitation. 
+
+Adaptive Behaviour - Those that involve practical, everyday skills such as self-care, social interaction, and living skills.
+
+### Global Developmental Delay
+
 
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNDMxMjQzXX0=
+eyJoaXN0b3J5IjpbLTIwNzUyNjc3NjldfQ==
 -->
