@@ -64,7 +64,7 @@ Feeling of distraction, irritability, and excessive confidence. People experienc
 ### Depressive Episodes
 Characterized by feelings of a depressed or sad mood along with a lack of interest in activities. It may also involve feelings of guilt, fatigue, and irritability. People with bipolar disorder may lose interest in activities they enjoyed before, sleeping difficulties and thoughts of suicide.
 
-Effective treatments
+Effective treatments often include both medication and [psychotherapy](https://www.verywellmind.com/psychotherapy-4157172) which help manage their symptoms.
 
 ## Anxiety Disorders
 Characterized by excessive and persistent fear, worry, anxiety and related behavioural disturbances. Fear is emotional response to a threat (real or perceived). Anxiety involves anticipation that a future threat may arise. Types of disorder include:
@@ -87,11 +87,12 @@ Fairly common psychological disorder that involves an irrational fear of being w
 [More detail](https://www.verywellmind.com/social-anxiety-disorder-4157220)
 
 ### Specific Phobias
-
+[Phobias](https://www.verywellmind.com/what-is-a-phobia-2795454) involve fear 
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5OTgxNDk5LC0xNTQ0ODQyNTEyXX0=
+eyJoaXN0b3J5IjpbLTE0ODU4MzEzNDIsLTE1NDQ4NDI1MTJdfQ
+==
 -->
