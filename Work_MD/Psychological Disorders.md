@@ -42,11 +42,14 @@ Subtypes of Communication disorder:
 ### Autism Spectrum Disorder
 Characterized by persistent deficits in social interaction and communication in multiple life areas as well as restricted and repetitive patterns of behaviours.
 
-Symptoms of autism spectrum must be present during early developmental period and must cause significant impairment in important areas including sociala dn
+Symptoms of autism spectrum must be present during early developmental period and must cause significant impairment in important areas including social and occupational functioning.
+
+### Attention-Deficit Hyperactivity Disorder (ADHD)
+Characterized by a persistent pattern of hyperactivity-impulsivity and/or inattention that interferes with functioning and presents itself in two or more settings such 
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc3Nzc1MjFdfQ==
+eyJoaXN0b3J5IjpbMzExODIyNDg1XX0=
 -->
