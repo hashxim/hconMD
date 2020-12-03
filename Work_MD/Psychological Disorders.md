@@ -61,11 +61,11 @@ Feeling of distraction, irritability, and excessive confidence. People experienc
 Characterized by feelings of a depressed or sad mood along with a lack of interest in activities. It may also involve feelings of guilt, fatigue, and irritability. People with bipolar disorder may lose interest in activities they enjoyed before, sleeping difficulties and thoughts of suicide.
 
 ## Anxiety Disorders
-Characterized by excessive and persistent fear, worry, anxiety and related behavioural disturbances. Fear 
+Characterized by excessive and persistent fear, worry, anxiety and related behavioural disturbances. Fear is emotional response to a threat (real or perceived). Anxiety involves anticipation that a future threat may arise. Types of disord
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjg0Njk5M119
+eyJoaXN0b3J5IjpbMTE4NTk1MjE4N119
 -->
