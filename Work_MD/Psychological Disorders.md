@@ -50,11 +50,18 @@ Characterized by a persistent pattern of hyperactivity-impulsivity and/or inatte
 Several symptoms must present prior to the age of 12 and must have negative impact on social, occupational or academic functioning.
 
 ## Bipolar and Related Disorders
-characterized by shifts in mood as well as changes in activity and energy levels. The disorder often involves experiencing shifts between elevated moods  and periods of depression.
+Characterized by shifts in mood as well as changes in activity and energy levels. The disorder often involves experiencing shifts between elevated moods (mania or hypomania) and periods of depression.
+
+### Mania
+This mood is characterized by a distinct period of elevated, expansive, or irritable mood accompanied by increased activity and energy.
+
+Feeling of distraction, irritability, and excessive confidence. People experiencing mania are prone to activities like gambling and shopping spree.
+
+
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjYxODczMF19
+eyJoaXN0b3J5IjpbLTYzNjQwMDg5OF19
 -->
