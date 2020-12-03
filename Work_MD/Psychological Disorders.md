@@ -28,12 +28,15 @@ Adaptive Behaviour - Those that involve practical, everyday skills such as self-
 ### Global Developmental Delay
 For children under age of 5. Diagnoses delays related to cognition, social functioning, speech, language, and motor skills.
 
-Generally applying to kids who are still to young to take standardised IQ Tests. At IQ Test ages,
+Generally applying to kids who are still to young to take standardised IQ Tests. At IQ Test age, they may diagnosed with Intellectual Disability.
+
+### Communication Disorders
+Impact the ability to use, understand, or detect language and speech.
 
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDA1MzY1NF19
+eyJoaXN0b3J5IjpbLTE3NzkxNzI2NTJdfQ==
 -->
