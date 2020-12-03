@@ -47,18 +47,24 @@ Symptoms of autism spectrum must be present during early developmental period an
 ### Attention-Deficit Hyperactivity Disorder (ADHD)
 Characterized by a persistent pattern of hyperactivity-impulsivity and/or inattention that interferes with functioning and presents itself in two or more settings such as school, home, work.
 
-Several symptoms must present prior to the age of 12 and must have negative impact on social, occupational or academic functioning.
+Several symptoms must present prior to the age of 12 and must have negative impact on social, occupational or academic functioning. 
+
+[More Detail](https://www.verywellmind.com/adhd-overview-4157275)
 
 ## Bipolar and Related Disorders
-Characterized by shifts in mood as well as changes in activity and energy levels. The disorder often involves experiencing shifts between elevated moods (mania or hypomania) and periods of depression.
+Characterized by shifts in mood as well as changes in activity and energy levels. The disorder often involves experiencing shifts between elevated moods (mania or hypomania) and periods of depression. [More details](https://www.verywellmind.com/bipolar-disorder-symptoms-and-diagnosis-379962)
 
 ### Mania
 This mood is characterized by a distinct period of elevated, expansive, or irritable mood accompanied by increased activity and energy.
 
 Feeling of distraction, irritability, and excessive confidence. People experiencing mania are prone to activities like gambling and shopping spree.
 
+[More detail](https://www.verywellmind.com/symptoms-of-mania-380311)
+
 ### Depressive Episodes
 Characterized by feelings of a depressed or sad mood along with a lack of interest in activities. It may also involve feelings of guilt, fatigue, and irritability. People with bipolar disorder may lose interest in activities they enjoyed before, sleeping difficulties and thoughts of suicide.
+
+Effective treatments
 
 ## Anxiety Disorders
 Characterized by excessive and persistent fear, worry, anxiety and related behavioural disturbances. Fear is emotional response to a threat (real or perceived). Anxiety involves anticipation that a future threat may arise. Types of disorder include:
@@ -87,5 +93,5 @@ Fairly common psychological disorder that involves an irrational fear of being w
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODMwMjQwNiwtMTU0NDg0MjUxMl19
+eyJoaXN0b3J5IjpbNjI5OTgxNDk5LC0xNTQ0ODQyNTEyXX0=
 -->
