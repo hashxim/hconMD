@@ -45,11 +45,16 @@ Characterized by persistent deficits in social interaction and communication in 
 Symptoms of autism spectrum must be present during early developmental period and must cause significant impairment in important areas including social and occupational functioning.
 
 ### Attention-Deficit Hyperactivity Disorder (ADHD)
-Characterized by a persistent pattern of hyperactivity-impulsivity and/or inattention that interferes with functioning and presents itself in two or more settings such 
+Characterized by a persistent pattern of hyperactivity-impulsivity and/or inattention that interferes with functioning and presents itself in two or more settings such as school, home, work.
+
+Several symptoms must present prior to the age of 12 and must have negative impact on social, occupational or academic functioning.
+
+## Bipolar and Related Disorders
+characterized by shifts in mood as well as changes in activity and energy levels. The disorder often involves experiencing shifts between elevated moods  and periods of depression.
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExODIyNDg1XX0=
+eyJoaXN0b3J5IjpbMTQ0NjYxODczMF19
 -->
