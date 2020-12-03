@@ -26,12 +26,14 @@ Identified through use of IQ Test with IQ score under 70 indicating presence of 
 Adaptive Behaviour - Those that involve practical, everyday skills such as self-care, social interaction, and living skills.
 
 ### Global Developmental Delay
+For children under age of 5. Diagnoses delays related to cognition, social functioning, speech, language, and motor skills.
 
+Generally applying to kids who are still to young to take standardised IQ Tests. At IQ Test ages,
 
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUyNjc3NjldfQ==
+eyJoaXN0b3J5IjpbMTg2NDA1MzY1NF19
 -->
