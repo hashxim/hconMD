@@ -113,12 +113,14 @@ Characterized by the emergence of severe anxiety for up to a one month period af
 
 ### Adjustment Disorders
 
-[More det
+
+
+[More details](https://www.verywellmind.com/adjustment-disorder-2797266)
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYzMDI3ODAsLTE1NDQ4NDI1MTJdfQ
+eyJoaXN0b3J5IjpbLTEzMDY4NzE5NzcsLTE1NDQ4NDI1MTJdfQ
 ==
 -->
