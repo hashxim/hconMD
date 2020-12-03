@@ -33,10 +33,18 @@ Generally applying to kids who are still to young to take standardised IQ Tests.
 ### Communication Disorders
 Impact the ability to use, understand, or detect language and speech.
 
+Subtypes of Communication disorder:
+- Language disorder
+- Speech sound disorder
+- Childhood onset fluency disorder (stuttering)
+- Social (pragmatic) communication disorder.
+
+### Autism Spectrum Disorder
+Characterized by persistent deficits in social interaction and communication in multiple life areas as well as restricted and repetitive patterns of behaviours.
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkxNzI2NTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjc0NzgwNDBdfQ==
 -->
