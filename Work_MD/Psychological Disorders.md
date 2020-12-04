@@ -121,12 +121,13 @@ PTSD can develop after an individual has experienced exposure to actual or threa
 
 [More details](https://www.verywellmind.com/what-is-complex-ptsd-2797491)
 
-### Reactive Attachm
+### Reactive Attachment Disorder
+When children do not form normal healthy relationships and attachments with adult caregivers during first few years of childhood.
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjQyMDAyMSwxMzMxOTAyNDc4LC0xMz
+eyJoaXN0b3J5IjpbMTkxOTk4Nzk5OCwxMzMxOTAyNDc4LC0xMz
 A2ODcxOTc3LC0xNTQ0ODQyNTEyXX0=
 -->
