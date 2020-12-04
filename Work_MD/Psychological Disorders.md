@@ -112,15 +112,21 @@ Characterized by the emergence of severe anxiety for up to a one month period af
 [More details](https://www.verywellmind.com/acute-stress-disorder-and-ptsd-2797202)
 
 ### Adjustment Disorders
-Can occur as a response to a sudden change such as divorce, job loss, end of a close relationship, a move, or some other loss or disappointment.
-
+Can occur as a response to a sudden change such as divorce, job loss, end of a close relationship, a move, or some other loss or disappointment. Characterized by symptoms such as anxiety, irritability, depressed mood, worry, anger, hopelessness, and feelings of isolation.
 
 [More details](https://www.verywellmind.com/adjustment-disorder-2797266)
+
+### Post-Traumatic Stress Disorder (PTSD)
+PTSD can develop after an individual has experienced exposure to actual or threatened death, serious injury, or sexual violence. Symptoms of PTSD include episodes of reliving or re-experiencing the event, avoiding things that remind the individual about the event, feeling on edge, and having negative thoughts.
+
+[More details](https://www.verywellmind.com/what-is-complex-ptsd-2797491)
+
+### Reactive Attachm
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTkwMjQ3OCwtMTMwNjg3MTk3NywtMT
-U0NDg0MjUxMl19
+eyJoaXN0b3J5IjpbMjAyMjQyMDAyMSwxMzMxOTAyNDc4LC0xMz
+A2ODcxOTc3LC0xNTQ0ODQyNTEyXX0=
 -->
