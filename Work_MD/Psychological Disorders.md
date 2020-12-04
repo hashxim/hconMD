@@ -122,12 +122,21 @@ PTSD can develop after an individual has experienced exposure to actual or threa
 [More details](https://www.verywellmind.com/what-is-complex-ptsd-2797491)
 
 ### Reactive Attachment Disorder
-When children do not form normal healthy relationships and attachments with adult caregivers during first few years of childhood.
+When children do not form normal healthy relationships and attachments with adult caregivers during first few years of childhood. Symptoms - being withdrawn from adult caregivers and social and emotional disturbances
+
+[More details](https://www.verywellmind.com/what-is-reactive-attachment-disorder-4136080)
+
+## Dissociative Disorders
+Dissociative disorders are psychological disorders that involve a dissociation or interruption in aspects of [consciousness](https://www.verywellmind.com/what-is-consciousness-2795922), including identity and [memory](https://www.verywellmind.com/what-is-memory-2795006).
+
+### Dissociative Amnesia
+
+
 
 ## Footer
 
 Tags: \#FleetingNotes, \#review Links: [Source](https://www.verywellmind.com/what-is-a-psychological-disorder-2795767), \[\[Incomplete\_Notes\|File\]\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTk4Nzk5OCwxMzMxOTAyNDc4LC0xMz
-A2ODcxOTc3LC0xNTQ0ODQyNTEyXX0=
+eyJoaXN0b3J5IjpbMTQ0MDQ2Mzk1NiwxOTE5OTg3OTk4LDEzMz
+E5MDI0NzgsLTEzMDY4NzE5NzcsLTE1NDQ4NDI1MTJdfQ==
 -->
