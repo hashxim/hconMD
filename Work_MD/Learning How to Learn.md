@@ -31,14 +31,16 @@ Habits have 4 parts:
 - The cue - This triggers the habit. Its the routine that we do in reaction to the cue. 
 - The Routine - The routine habitual response brain falls into when it receives the cue
 - The Reward - Every habit develops and continues because it rewards us. It gives us feeling of pleasure. Procrastination is an easy habit to develop since it gives needed pleasure. 
-- The Belied
+- The Belief - Habits have power because of your belief in them. To change a habit, you have to change your underlying belief.
+
+
 
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQyMDk2MzAsMTg3MTYzODE3MSwtNj
+eyJoaXN0b3J5IjpbLTIwMjcwNzYzNjIsMTg3MTYzODE3MSwtNj
 UzMjg0MzAyLDIxNDYyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcx
 OSw0NTE1MjI0MzJdfQ==
 -->
