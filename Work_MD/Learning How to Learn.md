@@ -20,13 +20,14 @@ The best way to learn is by practicing jumping back and forth between problems a
 
 
 # Procrastination
+We procrastinate about things that make us feel a little bit uncomfortable. You feel that you don't like something and all your pain centres in the brain light up. So you 
 
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTYzODE3MSwtNjUzMjg0MzAyLDIxND
-YyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcxOSw0NTE1MjI0MzJd
-fQ==
+eyJoaXN0b3J5IjpbLTcyODgyMTQ3NSwxODcxNjM4MTcxLC02NT
+MyODQzMDIsMjE0NjIyMzQwNSw5NzczOTU5MiwtODA3OTcxNzE5
+LDQ1MTUyMjQzMl19
 -->
