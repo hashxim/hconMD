@@ -20,14 +20,14 @@ The best way to learn is by practicing jumping back and forth between problems a
 
 
 # Procrastination
-We procrastinate about things that make us feel a little bit uncomfortable. You feel that you don't like something and all your pain centres in the brain light up. So you 
+We procrastinate about things that make us feel a little bit uncomfortable. You feel that you don't like something and all your pain centres in the brain light up. So you shift your focus to something more enjoyable. This temporarily feels better but has nasty long-term effects. By doing so, it will become more painful in future. 
 
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODgyMTQ3NSwxODcxNjM4MTcxLC02NT
-MyODQzMDIsMjE0NjIyMzQwNSw5NzczOTU5MiwtODA3OTcxNzE5
-LDQ1MTUyMjQzMl19
+eyJoaXN0b3J5IjpbLTE3MzI1NDA2MjcsMTg3MTYzODE3MSwtNj
+UzMjg0MzAyLDIxNDYyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcx
+OSw0NTE1MjI0MzJdfQ==
 -->
