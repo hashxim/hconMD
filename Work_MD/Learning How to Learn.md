@@ -28,14 +28,15 @@ Procrastination shares features with addiction. You start to tell yourself stori
 Habits are energy saver for us.  You don't think in a focused manner about what you're doing while performing the habit. 
 
 Habits have 4 parts:
-- The cue - This t
+- The cue - This triggers the habit. Its the routine that we do in reaction to the cue. 
+- The Routine - The routine habitual response brain uns
 
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTIxNTYyOSwxODcxNjM4MTcxLC02NT
-MyODQzMDIsMjE0NjIyMzQwNSw5NzczOTU5MiwtODA3OTcxNzE5
-LDQ1MTUyMjQzMl19
+eyJoaXN0b3J5IjpbNzM0NjEzMDQsMTg3MTYzODE3MSwtNjUzMj
+g0MzAyLDIxNDYyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcxOSw0
+NTE1MjI0MzJdfQ==
 -->
