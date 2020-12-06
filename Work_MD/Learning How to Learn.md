@@ -7,8 +7,12 @@ But repetitive overlearning during single session is waste of time.  If you have
 
 Focussing on more difficult material is called deliberate practice. 
 
-# Eisn
+# Einstellung
+In this phenomenon, your initial simple thought, an idea you already have in mind or a neural pattern you've already developed and strengthened, may prevent a better idea or solution from being found.
+
+The crowded bumpers of the focus mode and the previous patterns you built can create a sort of rut that prevents you from springing to a new place where the solution might be found.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDIyNjk2OSwtODA3OTcxNzE5LDQ1MT
-UyMjQzMl19
+eyJoaXN0b3J5IjpbOTc3Mzk1OTIsLTgwNzk3MTcxOSw0NTE1Mj
+I0MzJdfQ==
 -->
