@@ -29,14 +29,16 @@ Habits are energy saver for us.  You don't think in a focused manner about what 
 
 Habits have 4 parts:
 - The cue - This triggers the habit. Its the routine that we do in reaction to the cue. 
-- The Routine - The routine habitual response brain uns
+- The Routine - The routine habitual response brain falls into when it receives the cue
+- The Reward - Every habit develops and continues because it rewards us. It gives us feeling of pleasure. Procrastination is an easy habit to develop since it gives needed pleasure. 
+- The Belied
 
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NjEzMDQsMTg3MTYzODE3MSwtNjUzMj
-g0MzAyLDIxNDYyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcxOSw0
-NTE1MjI0MzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzQyMDk2MzAsMTg3MTYzODE3MSwtNj
+UzMjg0MzAyLDIxNDYyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcx
+OSw0NTE1MjI0MzJdfQ==
 -->
