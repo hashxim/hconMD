@@ -13,9 +13,9 @@ In this phenomenon, your initial simple thought, an idea you already have in min
 The crowded bumpers of the focus mode and the previous patterns you built can create a sort of rut that prevents you from springing to a new place where the solution might be found. Its like installing a roadblock because of the way you were initially looking at something. 
 
 # Sinking
-This is when someone blindl
+This is when someone blindly start working on homework without reading the text book. Understanding how to obtain real solutions is important in learning. Learning a new subject means not learning the basic chunk but also sele
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ1MzY1NDcsOTc3Mzk1OTIsLTgwNz
-k3MTcxOSw0NTE1MjI0MzJdfQ==
+eyJoaXN0b3J5IjpbNzk0MDY3MTk3LDk3NzM5NTkyLC04MDc5Nz
+E3MTksNDUxNTIyNDMyXX0=
 -->
