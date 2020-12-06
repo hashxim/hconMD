@@ -1,5 +1,7 @@
-Note: Dowlo
+Note: Download all the transcripts from the website.
+
 # Overlearning
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk5NTc1NTJdfQ==
+eyJoaXN0b3J5IjpbNDUxNTIyNDMyXX0=
 -->
