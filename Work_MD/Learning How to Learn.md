@@ -16,9 +16,10 @@ The crowded bumpers of the focus mode and the previous patterns you built can cr
 This is when someone blindly start working on homework without reading the text book. Understanding how to obtain real solutions is important in learning. Learning a new subject means not learning the basic chunk but also knowing how to select and use different chunks. 
 
 # Interleaving
-The best way to learn is by practicing jumping back and forth between problems and situations that require different techniques or strategies. Interleaving 
+The best way to learn is by practicing jumping back and forth between problems and situations that require different techniques or strategies. Interleaving makes your learning more difficult but in reality helps you learn more deeply. Although practice and repetition is important in helping build solid neural patterns to draw on, it's interleaving that starts building flexibility and creativity.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzMwMTcyMywyMTQ2MjIzNDA1LDk3Nz
+eyJoaXN0b3J5IjpbLTY1MzI4NDMwMiwyMTQ2MjIzNDA1LDk3Nz
 M5NTkyLC04MDc5NzE3MTksNDUxNTIyNDMyXX0=
 -->
