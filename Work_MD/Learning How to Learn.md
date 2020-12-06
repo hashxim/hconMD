@@ -19,7 +19,14 @@ This is when someone blindly start working on homework without reading the text 
 The best way to learn is by practicing jumping back and forth between problems and situations that require different techniques or strategies. Interleaving makes your learning more difficult but in reality helps you learn more deeply. Although practice and repetition is important in helping build solid neural patterns to draw on, it's interleaving that starts building flexibility and creativity.
 
 
+# Procrastination
+
+How this happens
+How to access most powerful memory
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzI4NDMwMiwyMTQ2MjIzNDA1LDk3Nz
-M5NTkyLC04MDc5NzE3MTksNDUxNTIyNDMyXX0=
+eyJoaXN0b3J5IjpbMTg3MTYzODE3MSwtNjUzMjg0MzAyLDIxND
+YyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcxOSw0NTE1MjI0MzJd
+fQ==
 -->
