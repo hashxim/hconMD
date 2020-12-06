@@ -25,14 +25,17 @@ We procrastinate about things that make us feel a little bit uncomfortable. You 
 Procrastination shares features with addiction. You start to tell yourself stories that doing something else is good for you.
 
 # Habits
+Habits are energy saver for us.  You don't think in a focused manner about what you're doing while performing the habit. 
 
+Habits have 4 parts:
+- The cue - This t
 
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjY1Mjc2NiwxODcxNjM4MTcxLC02NT
+eyJoaXN0b3J5IjpbMTIzMTIxNTYyOSwxODcxNjM4MTcxLC02NT
 MyODQzMDIsMjE0NjIyMzQwNSw5NzczOTU5MiwtODA3OTcxNzE5
 LDQ1MTUyMjQzMl19
 -->
