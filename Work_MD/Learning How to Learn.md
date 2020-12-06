@@ -24,12 +24,14 @@ We procrastinate about things that make us feel a little bit uncomfortable. You 
 
 Procrastination shares features with addiction. You start to tell yourself stories that doing something else is good for you.
 
+
+
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NTEyMDgwLDE4NzE2MzgxNzEsLTY1Mz
-I4NDMwMiwyMTQ2MjIzNDA1LDk3NzM5NTkyLC04MDc5NzE3MTks
-NDUxNTIyNDMyXX0=
+eyJoaXN0b3J5IjpbMTE4MTEyNDQ2MCwxODcxNjM4MTcxLC02NT
+MyODQzMDIsMjE0NjIyMzQwNSw5NzczOTU5MiwtODA3OTcxNzE5
+LDQ1MTUyMjQzMl19
 -->
