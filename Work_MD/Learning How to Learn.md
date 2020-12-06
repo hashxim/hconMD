@@ -22,12 +22,14 @@ The best way to learn is by practicing jumping back and forth between problems a
 # Procrastination
 We procrastinate about things that make us feel a little bit uncomfortable. You feel that you don't like something and all your pain centres in the brain light up. So you shift your focus to something more enjoyable. This temporarily feels better but has nasty long-term effects. By doing so, it will become more painful in future. 
 
+Procrastination shares features with addiction. You start to tell yourself stories that doing something else is good for you.
+
 How this happens
 How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI1NDA2MjcsMTg3MTYzODE3MSwtNj
-UzMjg0MzAyLDIxNDYyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcx
-OSw0NTE1MjI0MzJdfQ==
+eyJoaXN0b3J5IjpbODE3NTEyMDgwLDE4NzE2MzgxNzEsLTY1Mz
+I4NDMwMiwyMTQ2MjIzNDA1LDk3NzM5NTkyLC04MDc5NzE3MTks
+NDUxNTIyNDMyXX0=
 -->
