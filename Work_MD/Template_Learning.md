@@ -6,9 +6,11 @@
 
 ## Footer
 
+
 Tags: #FleetingNotes, #review 
 Links: [Source](template.md), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjA2NjM1NSwtNzcyMjUyNTQxXX0=
+eyJoaXN0b3J5IjpbMTMwMjY0ODg2MywtNzY2MDY2MzU1LC03Nz
+IyNTI1NDFdfQ==
 -->
