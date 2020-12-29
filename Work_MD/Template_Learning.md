@@ -1,6 +1,6 @@
-# Week 
+# Week 28 Dec - 3 Jan
 
-## Date 
+## <Date>
 
 `Summary`
 
@@ -10,5 +10,5 @@ Tags: #FleetingNotes, #review
 Links: [Source](template.md), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU1MzI0NjAsLTc3MjI1MjU0MV19
+eyJoaXN0b3J5IjpbLTc2NjA2NjM1NSwtNzcyMjUyNTQxXX0=
 -->
