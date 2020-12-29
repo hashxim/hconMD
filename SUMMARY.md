@@ -8,6 +8,7 @@
   * [2020-11-30](morning-mind-dump/2020-11-30.md)
   * [2020-12-02](morning-mind-dump/2020-12-02.md)
   * [2020-12-04](morning-mind-dump/2020-12-04.md)
+  * [2020-12-29](morning-mind-dump/2020-12-29.md)
 * [Work\_MD](work_md/README.md)
   * [Migrated](work_md/migrated/README.md)
     * [The Second Brain](work_md/migrated/the-second-brain.md)
