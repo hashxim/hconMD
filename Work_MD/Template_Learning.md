@@ -2,6 +2,8 @@
 
 `Summary`
 
+20210104
+
 ## Footer
 
 Tags: #FleetingNotes, #learning , #Professional
@@ -13,6 +15,6 @@ Links:
 Comment - 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzOTIzMDg2LC0xNzk2ODkyMDI3LC03Nj
-YwNjYzNTUsLTc3MjI1MjU0MV19
+eyJoaXN0b3J5IjpbLTE5NDQ5MjY2MDQsNDAzOTIzMDg2LC0xNz
+k2ODkyMDI3LC03NjYwNjYzNTUsLTc3MjI1MjU0MV19
 -->
