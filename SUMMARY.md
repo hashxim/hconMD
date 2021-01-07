@@ -11,7 +11,7 @@
   * [2020-12-29](morning-mind-dump/2020-12-29e.md)
 * [Work\_MD](work_md/README.md)
   * [Learnings](work_md/Learnings/README.md)
-	* [W20210104](work_md/Leanings/W20210104.md)
+	* [W20210104](work_md/Learnings/W20210104.md)
   * [Migrated](work_md/migrated/README.md)
     * [The Second Brain](work_md/migrated/the-second-brain.md)
     * [Effect of sugar on Brain](work_md/migrated/effect-of-sugar-on-brain.md)
@@ -32,7 +32,6 @@
   * [Mathematics of investing and life](work_md/mathematics-investing-world.md)
   * [Choosing Career That Fulfills you](work_md/choosing-career-that-fulfills-you.md)
   * [Workflows](work_md/workflows.md)
-* [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI2NDAwMTc4Ml19
 -->
