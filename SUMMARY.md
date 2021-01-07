@@ -32,6 +32,7 @@
   * [Mathematics of investing and life](work_md/mathematics-investing-world.md)
   * [Choosing Career That Fulfills you](work_md/choosing-career-that-fulfills-you.md)
   * [Workflows](work_md/workflows.md)
+* [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDAwMTc4Ml19
+eyJoaXN0b3J5IjpbLTU4Njk3NTQ4MSwxMjY0MDAxNzgyXX0=
 -->
