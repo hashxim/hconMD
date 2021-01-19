@@ -1,4 +1,4 @@
-Note: Download all the transcripts from the website.
+ Note: Download all the transcripts from the website.
 
 # Overlearning
 Continuing to study and practice after you've mastered what you can in the session is called overlearning. It can produce automaticity that can be important when you're choke during public speaking or serve in tennis. Automaticity can be really valuable in times of nervousness. 
@@ -40,7 +40,7 @@ How to access most powerful memory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcwNzYzNjIsMTg3MTYzODE3MSwtNj
-UzMjg0MzAyLDIxNDYyMjM0MDUsOTc3Mzk1OTIsLTgwNzk3MTcx
-OSw0NTE1MjI0MzJdfQ==
+eyJoaXN0b3J5IjpbNjE4ODQ5NjgyLC0yMDI3MDc2MzYyLDE4Nz
+E2MzgxNzEsLTY1MzI4NDMwMiwyMTQ2MjIzNDA1LDk3NzM5NTky
+LC04MDc5NzE3MTksNDUxNTIyNDMyXX0=
 -->
