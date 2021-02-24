@@ -6,7 +6,11 @@ Highlights:
 - Objectives, Purposes or goals - Defines the mission of the organization. Part of the strategy is to understand the objective of the organization.
 - Policies and plans for achieving those goals - What is the way in which they are going to deliver these on this mission
 - The range of business the company is to pursue - How do we define the scope of the business, what are the businesses and markets it decides to plan? Is it a global company or a local company? 
-- Contribution it intends to make - both economic and n
+- Contribution it intends to make - both economic and non-economic. How does it create value and for whom it create value for?
+
+## A simple Strategy Schema
+Start with
+- Strategic Mission - A firm's values and purpose and the scope of its operar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA3NDI1NTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NzEwNzc1MDddfQ==
 -->
