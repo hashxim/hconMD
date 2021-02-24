@@ -5,8 +5,8 @@
 Highlights:
 - Objectives, Purposes or goals - Defines the mission of the organization. Part of the strategy is to understand the objective of the organization.
 - Policies and plans for achieving those goals - What is the way in which they are going to deliver these on this mission
-- The range of business the company is to pursue
-- Contribution it intends to make -
+- The range of business the company is to pursue - How do we define the scope of the business, what are the businesses and markets it decides to plan? Is it a global company or a local company? 
+- Contribution it intends to make - both economic and n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODgxMTMzXX0=
+eyJoaXN0b3J5IjpbLTE1NzA3NDI1NTVdfQ==
 -->
