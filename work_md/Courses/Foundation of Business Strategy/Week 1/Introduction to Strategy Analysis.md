@@ -44,7 +44,9 @@ When one doing Strategic analysis, one need to ask 3 fundamental questions:
 	- Mission Statements - One way to analyse is to look at mission statement. We can learn firm's values and what motivates and inspires the company from its mission statement, which is key to understanding what it is trying to accomplish and why.
 - Opportunities - The external environment in which you operate. What is the market demand and others providing value in similar ways?
 - Capabilities - This is more internally focused. What are the assets they can leverage to meet market opportunities? Think about competitive advantage. 
-	- Competitive Advantage is always relative to your competition.
+	- Competitive Advantage is always relative to your competition. Its not sufficient to be good at something if everyone else is good as well. We are interested to understand those distinctive things that differentiate it from its peers
+
+The intersection of above three questions reveal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MTcyODQ4LC0xMzIzMjIwNzIxXX0=
+eyJoaXN0b3J5IjpbMTcwMTM4MDc5MiwtMTMyMzIyMDcyMV19
 -->
