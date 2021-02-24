@@ -10,7 +10,8 @@ Highlights:
 
 ## A simple Strategy Schema
 Start with
-- Strategic Mission - A firm's values and purpose and the scope of its operar
+- Strategic Mission - A firm's values and purpose and the scope of its operations in product and market terms. How do we define business and do we express its aspirations?
+- Strategic Plan - It is the way in which you achieve your strategic mission - How does a firm positions itself in the market and develops and leverages internal resources and capabilities to accomplish its stra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEwNzc1MDddfQ==
+eyJoaXN0b3J5IjpbMTYzNjk0MTM4MF19
 -->
