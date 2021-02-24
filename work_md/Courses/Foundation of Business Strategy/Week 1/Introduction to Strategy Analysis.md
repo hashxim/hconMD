@@ -46,10 +46,10 @@ When one doing Strategic analysis, one need to ask 3 fundamental questions:
 - **Capabilities** - This is more internally focused. What are the assets they can leverage to meet market opportunities? Think about competitive advantage. 
 	- Competitive Advantage is always relative to your competition. Its not sufficient to be good at something if everyone else is good as well. We are interested to understand those distinctive things that differentiate it from its peers
 
-
+![Valuable Competitive Position](https://github.com/hashxim/hconMD/raw/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Valuable%20competitive%20position.JPG)
 
 The intersection of above three questions reveal "Valuable competitive position". Those positions within a market that an organization can take that will allow them to survive and thrive and create the most value for its stakeholders.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc2NTg5NzksODQzMjQyMDQ5LC0xMz
-IzMjIwNzIxXX0=
+eyJoaXN0b3J5IjpbLTI3NjcwNTAyMSw4NDMyNDIwNDksLTEzMj
+MyMjA3MjFdfQ==
 -->
