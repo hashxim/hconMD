@@ -49,7 +49,9 @@ When one doing Strategic analysis, one need to ask 3 fundamental questions:
 ![Valuable Competitive Position](https://github.com/hashxim/hconMD/raw/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Valuable%20competitive%20position.JPG)
 
 The intersection of above three questions reveal "Valuable competitive position". Those positions within a market that an organization can take that will allow them to survive and thrive and create the most value for its stakeholders.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjcwNTAyMSw4NDMyNDIwNDksLTEzMj
+eyJoaXN0b3J5IjpbMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMj
 MyMjA3MjFdfQ==
 -->
