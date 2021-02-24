@@ -12,7 +12,7 @@ Highlights:
 Start with
 - **Strategic Mission** - A firm's values and purpose and the scope of its operations in product and market terms. How do we define business and do we express its aspirations?
 - **Strategic Plan** - It is the way in which you achieve your strategic mission - How does a firm positions itself in the market and develops and leverages internal resources and capabilities to accomplish its strategic mission
-- **Strategic Actions** - Individual actions taken to execute the strategic plan in pursuit of the strategic mission. 
+- **Strategic Actions** - Individual actions taken to execute the strategic plan in pursuit of the strategic mission. This could include like M&A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTI3MjEwOV19
+eyJoaXN0b3J5IjpbLTEzMjMyMjA3MjFdfQ==
 -->
