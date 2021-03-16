@@ -57,8 +57,9 @@ Presenter takes example of Pets.com example which flourished during late 1990s b
 Alternatively
 > "In a perfectly competitive market, no firm realizes economic profits (rents)"
 
-## Economic Pro
+## Economic Profits (or Rents)
+**Definition:** Economic profits are returns in excess of what an investor expects to earn from investments of similar risk (i.e. in excess of the opportunity cost of capital)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODg3MzA5NCwtNzU1Mzk5MDE5LDExNj
+eyJoaXN0b3J5IjpbMjAwMzA1MDY3NiwtNzU1Mzk5MDE5LDExNj
 U4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX0=
 -->
