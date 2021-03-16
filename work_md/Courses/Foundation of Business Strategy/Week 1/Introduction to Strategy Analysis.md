@@ -65,9 +65,12 @@ Alternatively
 Here in above example, compared to Microsoft and IBM, General Motors has generated negative $5B in Economic profit due to the fact that the money invested to create such accounting profit is disproportionately greater than what is required to generate profit for Microsoft and IBM.
 
 ### Measuring E conomic Profit
-**Tobin's Q:**
+**Tobin's Q**
+ - Ratio of a firm's market value to its asset replacement value
+ - Directly measures "rents" above those to physical inputs 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzA0MTQzMywyMDAzMDUwNjc2LC03NT
+eyJoaXN0b3J5IjpbMTExMjc4NDg4NSwyMDAzMDUwNjc2LC03NT
 UzOTkwMTksMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3
 MjFdfQ==
 -->
