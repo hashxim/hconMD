@@ -62,9 +62,12 @@ Alternatively
 
 ![Economic Profit can be very different from Accounting Profit](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Economic%20vs%20Accounting%20Profit.JPG?raw=true)
 
-Here in above example, compared to Microsoft and IBM, General Motors has generated negative $5B in Eco
+Here in above example, compared to Microsoft and IBM, General Motors has generated negative $5B in Economic profit due to the fact that the money invested to create such accounting profit is disproportionately greater than what is required to generate profit for Microsoft and IBM.
+
+### Measuring E conomic Profit
+**Tobin's Q:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNzU2NTgxLDIwMDMwNTA2NzYsLTc1NT
-M5OTAxOSwxMTY1ODExODA3LDg0MzI0MjA0OSwtMTMyMzIyMDcy
-MV19
+eyJoaXN0b3J5IjpbMTU4MzA0MTQzMywyMDAzMDUwNjc2LC03NT
+UzOTkwMTksMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3
+MjFdfQ==
 -->
