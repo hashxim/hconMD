@@ -59,7 +59,12 @@ Alternatively
 
 ## Economic Profits (or Rents)
 **Definition:** Economic profits are returns in excess of what an investor expects to earn from investments of similar risk (i.e. in excess of the opportunity cost of capital)
+
+![Economic Profit can be very different from Accounting Profit](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Economic%20vs%20Accounting%20Profit.JPG?raw=true)
+
+Here in above example, compared to Microsoft and IBM, General Motors has generated negative $5B in Eco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzA1MDY3NiwtNzU1Mzk5MDE5LDExNj
-U4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX0=
+eyJoaXN0b3J5IjpbNzcyNzU2NTgxLDIwMDMwNTA2NzYsLTc1NT
+M5OTAxOSwxMTY1ODExODA3LDg0MzI0MjA0OSwtMTMyMzIyMDcy
+MV19
 -->
