@@ -67,10 +67,16 @@ Here in above example, compared to Microsoft and IBM, General Motors has generat
 ### Measuring E conomic Profit
 **Tobin's Q**
  - Ratio of a firm's market value to its asset replacement value
- - Directly measures "rents" above those to physical inputs 
+ - Directly measures "rents" above those to physical inputs
+ - Difficult to calculate because it requires knowledge of assets' replacement value
+Alternative is DCF
+
+**Discounted Cash Flow (DCF)**
+- Measures value of firm going forward
+- Discount rate reflects return to equity (i.e. opportunity cost) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjc4NDg4NSwyMDAzMDUwNjc2LC03NT
-UzOTkwMTksMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3
-MjFdfQ==
+eyJoaXN0b3J5IjpbLTE0ODAyOTY0ODUsMjAwMzA1MDY3NiwtNz
+U1Mzk5MDE5LDExNjU4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIw
+NzIxXX0=
 -->
