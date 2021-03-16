@@ -73,11 +73,11 @@ Alternative is DCF
 
 **Discounted Cash Flow (DCF)**
 - Measures value of firm going forward (Rev - Cost - Other investment)
-- Discount rate reflects return to equity (i.e. opportunity cost)
+- Discount rate reflects return to equity (i.e. opportunity cost). Opportunity cost represents inflation and over and above inflation that we expect to make in similar investments of similar risks
 - Positive NPV indicates rents over and above returns to all inputs 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU1MzQ3ODUsMjAwMzA1MDY3NiwtNz
-U1Mzk5MDE5LDExNjU4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIw
-NzIxXX0=
+eyJoaXN0b3J5IjpbMTk1MzgwMTQyMCwyMDAzMDUwNjc2LC03NT
+UzOTkwMTksMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3
+MjFdfQ==
 -->
