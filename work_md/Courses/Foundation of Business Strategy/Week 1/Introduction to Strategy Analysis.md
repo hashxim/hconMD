@@ -51,9 +51,11 @@ When one doing Strategic analysis, one need to ask 3 fundamental questions:
 The intersection of above three questions reveal "Valuable competitive position". Those positions within a market that an organization can take that will allow them to survive and thrive and create the most value for its stakeholders.
 
 # Fundamental principle of Business Strategy
+Presenter takes example of Pets.com example which flourished during late 1990s but failed as a business due to immense competition. This highlights an important thing:
+> "If everyone can do it, it's difficult to create and capture value from it"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTM5OTAxOSwxMTY1ODExODA3LDg0Mz
-I0MjA0OSwtMTMyMzIyMDcyMV19
+eyJoaXN0b3J5IjpbMTY5NDY0ODk0NCwtNzU1Mzk5MDE5LDExNj
+U4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX0=
 -->
