@@ -54,8 +54,11 @@ The intersection of above three questions reveal "Valuable competitive position"
 Presenter takes example of Pets.com example which flourished during late 1990s but failed as a business due to immense competition. This highlights an important thing:
 > "If everyone can do it, it's difficult to create and capture value from it"
 
+Alternatively
+> "In a perfectly competitive market, no firm realizes economic profits (rents)"
 
+## Economic Pro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDY0ODk0NCwtNzU1Mzk5MDE5LDExNj
+eyJoaXN0b3J5IjpbMjAwODg3MzA5NCwtNzU1Mzk5MDE5LDExNj
 U4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX0=
 -->
