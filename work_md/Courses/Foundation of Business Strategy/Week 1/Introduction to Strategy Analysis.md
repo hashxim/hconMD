@@ -78,10 +78,12 @@ Alternative is DCF
 
 # Competitive Markets
 Fundamental Principle :
+> "In a perfectly competitive market, no firm realizes economic profits (rents)"
 
+This suggest some type of market inefficiency needs to be there for economic profits. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIwNjc5NzgsLTE2MzAzNTg5OTUsMj
-AwMzA1MDY3NiwtNzU1Mzk5MDE5LDExNjU4MTE4MDcsODQzMjQy
-MDQ5LC0xMzIzMjIwNzIxXX0=
+eyJoaXN0b3J5IjpbMjAyNzY1NjQ4NywtMTYzMDM1ODk5NSwyMD
+AzMDUwNjc2LC03NTUzOTkwMTksMTE2NTgxMTgwNyw4NDMyNDIw
+NDksLTEzMjMyMjA3MjFdfQ==
 -->
