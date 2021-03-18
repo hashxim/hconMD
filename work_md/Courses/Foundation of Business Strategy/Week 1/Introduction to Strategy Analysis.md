@@ -77,10 +77,11 @@ Alternative is DCF
 - Positive NPV indicates rents over and above returns to all inputs 
 
 # Competitive Markets
+Fundamental Principle :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAzNTg5OTUsMjAwMzA1MDY3NiwtNz
-U1Mzk5MDE5LDExNjU4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIw
-NzIxXX0=
+eyJoaXN0b3J5IjpbLTE0NjIwNjc5NzgsLTE2MzAzNTg5OTUsMj
+AwMzA1MDY3NiwtNzU1Mzk5MDE5LDExNjU4MTE4MDcsODQzMjQy
+MDQ5LC0xMzIzMjIwNzIxXX0=
 -->
