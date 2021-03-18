@@ -82,8 +82,9 @@ Fundamental Principle :
 
 This suggest some type of market inefficiency needs to be there for economic profits. 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzY1NjQ4NywtMTYzMDM1ODk5NSwyMD
-AzMDUwNjc2LC03NTUzOTkwMTksMTE2NTgxMTgwNyw4NDMyNDIw
-NDksLTEzMjMyMjA3MjFdfQ==
+eyJoaXN0b3J5IjpbNjk2MzE3MzMzLDIwMjc2NTY0ODcsLTE2Mz
+AzNTg5OTUsMjAwMzA1MDY3NiwtNzU1Mzk5MDE5LDExNjU4MTE4
+MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX0=
 -->
