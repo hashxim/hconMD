@@ -82,9 +82,9 @@ Fundamental Principle :
 
 This suggest some type of market inefficiency needs to be there for economic profits. 
 
-
+![Com](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Competitive%20Markets.JPG?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MzE3MzMzLDIwMjc2NTY0ODcsLTE2Mz
-AzNTg5OTUsMjAwMzA1MDY3NiwtNzU1Mzk5MDE5LDExNjU4MTE4
-MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX0=
+eyJoaXN0b3J5IjpbLTIwNTAzNzIzNjAsMjAyNzY1NjQ4NywtMT
+YzMDM1ODk5NSwyMDAzMDUwNjc2LC03NTUzOTkwMTksMTE2NTgx
+MTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3MjFdfQ==
 -->
