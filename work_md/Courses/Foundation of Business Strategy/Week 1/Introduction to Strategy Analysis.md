@@ -93,10 +93,12 @@ Now fundamental law says that prices tend to equilibrate where supply equals dem
 AC - Average Cost curve
 MC - Marginal Cost Curve
 
-Average cost has such shape as there would be some fixed cost (PPE) due to which would make average cost high for Q=1. But as we sell more, we spread out that cost to more quantity and the average cost will go down. Eventually though, we will run into capacity constraint and we need to build another plant and thus average cost will then rise 
+Average cost has such shape as there would be some fixed cost (PPE) due to which would make average cost high for Q=1. But as we sell more, we spread out that cost to more quantity and the average cost will go down. Eventually though, we will run into capacity constraint and we need to build another plant and thus average cost will then rise proportionately. 
+
+Marginal cost curve is what is cost us to make 1 extra quantity. This is derivative of Average cost curve. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU4MTg5OTIsLTIwNTAzNzIzNjAsMj
-AyNzY1NjQ4NywtMTYzMDM1ODk5NSwyMDAzMDUwNjc2LC03NTUz
-OTkwMTksMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3Mj
-FdfQ==
+eyJoaXN0b3J5IjpbLTEzNjE3Mjg1MywtMjA1MDM3MjM2MCwyMD
+I3NjU2NDg3LC0xNjMwMzU4OTk1LDIwMDMwNTA2NzYsLTc1NTM5
+OTAxOSwxMTY1ODExODA3LDg0MzI0MjA0OSwtMTMyMzIyMDcyMV
+19
 -->
