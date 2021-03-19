@@ -93,10 +93,10 @@ Now fundamental law says that prices tend to equilibrate where supply equals dem
 AC - Average Cost curve
 MC - Marginal Cost Curve
 
-Average cost has such shape as there would be some fixed cost (PPE) due to whic
+Average cost has such shape as there would be some fixed cost (PPE) due to which would make average cost high for Q=1. But as we sell more, we spread out that cost to more quantity and the average cost will go down. Eventually though, we will run into capacity constraint and we need to build another plant and thus average cost will then rise 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjg5MjQyLC0yMDUwMzcyMzYwLDIwMj
-c2NTY0ODcsLTE2MzAzNTg5OTUsMjAwMzA1MDY3NiwtNzU1Mzk5
-MDE5LDExNjU4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX
-0=
+eyJoaXN0b3J5IjpbLTE4MDU4MTg5OTIsLTIwNTAzNzIzNjAsMj
+AyNzY1NjQ4NywtMTYzMDM1ODk5NSwyMDAzMDUwNjc2LC03NTUz
+OTkwMTksMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3Mj
+FdfQ==
 -->
