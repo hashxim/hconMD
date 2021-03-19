@@ -88,9 +88,15 @@ This suggest some type of market inefficiency needs to be there for economic pro
 On Y axis we have price and on X axis we have quantity.
 Demand curve is downward sloping because as we lower prices, the more people will demand for it. Supply curve is upward sloping because as prices increases there is more supply that you're willing to provide. 
 Now fundamental law says that prices tend to equilibrate where supply equals demand (P1 and Q1)
+
+## Economic in Firm
+AC - Average Cost curve
+MC - Marginal Cost Curve
+
+Average cost has such shape as there would be some fixed cost (PPE) due to whic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgxNTQxODksLTIwNTAzNzIzNjAsMj
-AyNzY1NjQ4NywtMTYzMDM1ODk5NSwyMDAzMDUwNjc2LC03NTUz
-OTkwMTksMTE2NTgxMTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3Mj
-FdfQ==
+eyJoaXN0b3J5IjpbLTkyMjg5MjQyLC0yMDUwMzcyMzYwLDIwMj
+c2NTY0ODcsLTE2MzAzNTg5OTUsMjAwMzA1MDY3NiwtNzU1Mzk5
+MDE5LDExNjU4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX
+0=
 -->
