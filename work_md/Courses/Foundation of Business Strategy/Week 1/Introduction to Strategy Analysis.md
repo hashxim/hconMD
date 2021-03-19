@@ -83,8 +83,13 @@ Fundamental Principle :
 This suggest some type of market inefficiency needs to be there for economic profits. 
 
 ![Com](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Competitive%20Markets.JPG?raw=true)
+
+## Demand-Supply Curve
+On Y axis we have price and on X axis we have quantity.
+Demand axis is downward sloping because 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAzNzIzNjAsMjAyNzY1NjQ4NywtMT
-YzMDM1ODk5NSwyMDAzMDUwNjc2LC03NTUzOTkwMTksMTE2NTgx
-MTgwNyw4NDMyNDIwNDksLTEzMjMyMjA3MjFdfQ==
+eyJoaXN0b3J5IjpbMjY1MTY5MjYyLC0yMDUwMzcyMzYwLDIwMj
+c2NTY0ODcsLTE2MzAzNTg5OTUsMjAwMzA1MDY3NiwtNzU1Mzk5
+MDE5LDExNjU4MTE4MDcsODQzMjQyMDQ5LC0xMzIzMjIwNzIxXX
+0=
 -->
