@@ -13,7 +13,7 @@
 	* [Courses](work_md/Courses/README.md)
 		* [Foundation of Business Strategy](work_md/Courses/Foundation-of-Business-Strategy/README.md)
 			* [Week 1 - Introduction to Strategy Analysis](work_md/Courses/Foundation-of-Business-Strategy/Week-1/Introduction-to-Strategy-Analysis.md)
-* [Learnings](work_md/Learnings/README.md)
+	* [Learnings](work_md/Learnings/README.md)
 	* [W20210104](work_md/Learnings/W20210104.md)
 	* [W20210111](work_md/Learnings/W20210111.md)
 	* [W20210118](work_md/Learnings/W20210118.md)
@@ -48,6 +48,6 @@
   * [Workflows](work_md/workflows.md)
 * [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjM2OTY3LDY4OTA3NDU4MywyMDc4Mz
-YxMTQzLC01ODY5NzU0ODEsMTI2NDAwMTc4Ml19
+eyJoaXN0b3J5IjpbMTU0MDU2NjMzNSw2ODkwNzQ1ODMsMjA3OD
+M2MTE0MywtNTg2OTc1NDgxLDEyNjQwMDE3ODJdfQ==
 -->
