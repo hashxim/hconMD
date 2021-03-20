@@ -38,17 +38,17 @@
 		* [How Muscles grow](work_md/migrated/how-muscles-grow.md)
 		* [Cognitive Bias](work_md/migrated/cognitive-bias.md)
 		* [Alpha Moguls 2020 - Samit Vartak](work_md/migrated/alpha-moguls-2020-samit-vartak.md)
-  * [Portfolio Selection](work_md/thoughts.md)
-  * [Template](work_md/template.md)
-  * [Pharma Sector](work_md/pharma-sector.md)
-  * [Things to Check in CFI Activities](work_md/things-to-check-in-cfi-activities.md)
-  * [UK Fund FAQ](work_md/uk-funds.md)
-  * [Mathematics of investing and life](work_md/mathematics-investing-world.md)
-  * [Choosing Career That Fulfills you](work_md/choosing-career-that-fulfills-you.md)
-  * [Workflows](work_md/workflows.md)
+	* [Portfolio Selection](work_md/thoughts.md)
+	* [Template](work_md/template.md)
+	* [Pharma Sector](work_md/pharma-sector.md)
+	* [Things to Check in CFI Activities](work_md/things-to-check-in-cfi-activities.md)
+	* [UK Fund FAQ](work_md/uk-funds.md)
+	* [Mathematics of investing and life](work_md/mathematics-investing-world.md)
+	* [Choosing Career That Fulfills you](work_md/choosing-career-that-fulfills-you.md)
+	* [Workflows](work_md/workflows.md)
 * [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjgyNDgwNywtNjE5NTUzNDI5LDY4OT
-A3NDU4MywyMDc4MzYxMTQzLC01ODY5NzU0ODEsMTI2NDAwMTc4
-Ml19
+eyJoaXN0b3J5IjpbLTExODcyNzMyNDEsLTYxOTU1MzQyOSw2OD
+kwNzQ1ODMsMjA3ODM2MTE0MywtNTg2OTc1NDgxLDEyNjQwMDE3
+ODJdfQ==
 -->
