@@ -47,8 +47,10 @@
 	* [Choosing Career That Fulfills you](work_md/choosing-career-that-fulfills-you.md)
 	* [Workflows](work_md/workflows.md)
 * [Morning Mind Dump](Mrng_Mind_Dump/README.md)
+* [Personal](Personal/README.md)
+	* [Tech Help](Personal/Tech-Help.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODcyNzMyNDEsLTYxOTU1MzQyOSw2OD
-kwNzQ1ODMsMjA3ODM2MTE0MywtNTg2OTc1NDgxLDEyNjQwMDE3
-ODJdfQ==
+eyJoaXN0b3J5IjpbMTQxNTY5MjUwOCwtMTE4NzI3MzI0MSwtNj
+E5NTUzNDI5LDY4OTA3NDU4MywyMDc4MzYxMTQzLC01ODY5NzU0
+ODEsMTI2NDAwMTc4Ml19
 -->
