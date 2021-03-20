@@ -9,7 +9,8 @@
   * [2020-12-02](morning-mind-dump/2020-12-02.md)
   * [2020-12-04](morning-mind-dump/2020-12-04.md)
   * [2020-12-29](morning-mind-dump/2020-12-29e.md)
-* [W20210308](work_md/Courses/Rea)
+* [Courses](work_md/Courses/README.md)
+	* [Foundation of Business Strategy](work_md/Courses/Foundation of Business Strategy/README.md)
 * [Work\_MD](work_md/README.md)
   * [Learnings](work_md/Learnings/README.md)
 	* [W20210104](work_md/Learnings/W20210104.md)
@@ -46,6 +47,6 @@
   * [Workflows](work_md/workflows.md)
 * [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3Mzc1NTYyLDY4OTA3NDU4MywyMDc4Mz
-YxMTQzLC01ODY5NzU0ODEsMTI2NDAwMTc4Ml19
+eyJoaXN0b3J5IjpbMTIwMTczNzI2MCw2ODkwNzQ1ODMsMjA3OD
+M2MTE0MywtNTg2OTc1NDgxLDEyNjQwMDE3ODJdfQ==
 -->
