@@ -26,18 +26,18 @@
 		* [W20210308](work_md/Learnings/W20210308.md)
 		* [W20210315](work_md/Learnings/W20210315.md)
 		* [W20210322](work_md/Learnings/W20210322.md)
-  * [Migrated](work_md/migrated/README.md)
-    * [The Second Brain](work_md/migrated/the-second-brain.md)
-    * [Effect of sugar on Brain](work_md/migrated/effect-of-sugar-on-brain.md)
-    * [Dunning-Kruger Effect](work_md/migrated/dunning-kruger-effect.md)
-    * [SPAC - Introduction](work_md/migrated/spac-introduction.md)
-    * [Water Drinking](work_md/migrated/water-drinking.md)
-    * [Effects of not sleeping](work_md/migrated/effects-of-not-sleeping.md)
-    * [Panic Attacks](work_md/migrated/panic-attacks.md)
-    * [5 reason you will not complete online course](work_md/migrated/5-reason-you-will-not-complete-online-course.md)
-    * [How Muscles grow](work_md/migrated/how-muscles-grow.md)
-    * [Cognitive Bias](work_md/migrated/cognitive-bias.md)
-    * [Alpha Moguls 2020 - Samit Vartak](work_md/migrated/alpha-moguls-2020-samit-vartak.md)
+ * [Migrated](work_md/migrated/README.md)
+  * [The Second Brain](work_md/migrated/the-second-brain.md)
+  * [Effect of sugar on Brain](work_md/migrated/effect-of-sugar-on-brain.md)
+  * [Dunning-Kruger Effect](work_md/migrated/dunning-kruger-effect.md)
+  * [SPAC - Introduction](work_md/migrated/spac-introduction.md)
+  * [Water Drinking](work_md/migrated/water-drinking.md)
+  * [Effects of not sleeping](work_md/migrated/effects-of-not-sleeping.md)
+  * [Panic Attacks](work_md/migrated/panic-attacks.md)
+  * [5 reason you will not complete online course](work_md/migrated/5-reason-you-will-not-complete-online-course.md)
+  * [How Muscles grow](work_md/migrated/how-muscles-grow.md)
+  * [Cognitive Bias](work_md/migrated/cognitive-bias.md)
+  * [Alpha Moguls 2020 - Samit Vartak](work_md/migrated/alpha-moguls-2020-samit-vartak.md)
   * [Portfolio Selection](work_md/thoughts.md)
   * [Template](work_md/template.md)
   * [Pharma Sector](work_md/pharma-sector.md)
@@ -48,6 +48,6 @@
   * [Workflows](work_md/workflows.md)
 * [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY0MjYwNDksNjg5MDc0NTgzLDIwNz
-gzNjExNDMsLTU4Njk3NTQ4MSwxMjY0MDAxNzgyXX0=
+eyJoaXN0b3J5IjpbLTYxOTU1MzQyOSw2ODkwNzQ1ODMsMjA3OD
+M2MTE0MywtNTg2OTc1NDgxLDEyNjQwMDE3ODJdfQ==
 -->
