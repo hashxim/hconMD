@@ -39,8 +39,9 @@
 
 ## Data Sync
 
-* Backup & Sync
-* GitHub
+* Backup & Sync - Sync upto 3 drive to Desktop
+* GitHub - 
+* [Odata](https://www.odrive.com/account/myodrive) - To sync multiple drive to Desktop
 
 ## Data Transfer
 
@@ -61,5 +62,6 @@
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE3MDg0MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQzMjg4NzEsLTIxNDE3MDg0MzRdfQ
+==
 -->
