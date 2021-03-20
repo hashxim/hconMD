@@ -46,7 +46,7 @@ When one doing Strategic analysis, one need to ask 3 fundamental questions:
 - **Capabilities** - This is more internally focused. What are the assets they can leverage to meet market opportunities? Think about competitive advantage. 
 	- Competitive Advantage is always relative to your competition. Its not sufficient to be good at something if everyone else is good as well. We are interested to understand those distinctive things that differentiate it from its peers
 
-![Valuable Competitive Position](https://github.com/hashxim/hconMD/raw/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Valuable%20competitive%20position.JPG)
+![Valuable Competitive Position](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation-of-Business-Strategy/Resources/Valuable%20competitive%20position.JPG?raw=true)
 
 The intersection of above three questions reveal "Valuable competitive position". Those positions within a market that an organization can take that will allow them to survive and thrive and create the most value for its stakeholders.
 
@@ -60,7 +60,7 @@ Alternatively
 ## Economic Profits (or Rents)
 **Definition:** Economic profits are returns in excess of what an investor expects to earn from investments of similar risk (i.e. in excess of the opportunity cost of capital)
 
-![Economic Profit can be very different from Accounting Profit](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Economic%20vs%20Accounting%20Profit.JPG?raw=true)
+![Economic Profit can be very different from Accounting Profit](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation-of-Business-Strategy/Resources/Economic%20vs%20Accounting%20Profit.JPG?raw=true)
 
 Here in above example, compared to Microsoft and IBM, General Motors has generated negative $5B in Economic profit due to the fact that the money invested to create such accounting profit is disproportionately greater than what is required to generate profit for Microsoft and IBM.
 
@@ -82,7 +82,7 @@ Fundamental Principle :
 
 This suggest some type of market inefficiency needs to be there for economic profits. 
 
-![Com](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation%20of%20Business%20Strategy/Resources/Competitive%20Markets.JPG?raw=true)
+![Competitve Markets](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation-of-Business-Strategy/Resources/Competitive%20Markets.JPG?raw=true)
 
 ## Demand-Supply Curve
 On Y axis we have price and on X axis we have quantity.
@@ -97,5 +97,5 @@ Average cost has such shape as there would be some fixed cost (PPE) due to which
 
 Marginal cost curve is what is cost us to make 1 extra quantity. This is derivative of Average cost curve. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE3Mjg1M119
+eyJoaXN0b3J5IjpbMzAwODczNzk0LC0xMzYxNzI4NTNdfQ==
 -->
