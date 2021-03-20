@@ -14,18 +14,18 @@
 		* [Foundation of Business Strategy](work_md/Courses/Foundation-of-Business-Strategy/README.md)
 			* [Week 1 - Introduction to Strategy Analysis](work_md/Courses/Foundation-of-Business-Strategy/Week-1/Introduction-to-Strategy-Analysis.md)
 	* [Learnings](work_md/Learnings/README.md)
-	* [W20210104](work_md/Learnings/W20210104.md)
-	* [W20210111](work_md/Learnings/W20210111.md)
-	* [W20210118](work_md/Learnings/W20210118.md)
-	* [W20210125](work_md/Learnings/W20210125.md)
-	* [W20210201](work_md/Learnings/W20210201.md)
-	* [W20210208](work_md/Learnings/W20210208.md)
-	* [W20210215](work_md/Learnings/W20210215.md)
-	* [W20210222](work_md/Learnings/W20210222.md)
-	* [W20210301](work_md/Learnings/W20210301.md)
-	* [W20210308](work_md/Learnings/W20210308.md)
-	* [W20210315](work_md/Learnings/W20210315.md)
-	* [W20210322](work_md/Learnings/W20210322.md)
+		* [W20210104](work_md/Learnings/W20210104.md)
+		* [W20210111](work_md/Learnings/W20210111.md)
+		* [W20210118](work_md/Learnings/W20210118.md)
+		* [W20210125](work_md/Learnings/W20210125.md)
+		* [W20210201](work_md/Learnings/W20210201.md)
+		* [W20210208](work_md/Learnings/W20210208.md)
+		* [W20210215](work_md/Learnings/W20210215.md)
+		* [W20210222](work_md/Learnings/W20210222.md)
+		* [W20210301](work_md/Learnings/W20210301.md)
+		* [W20210308](work_md/Learnings/W20210308.md)
+		* [W20210315](work_md/Learnings/W20210315.md)
+		* [W20210322](work_md/Learnings/W20210322.md)
   * [Migrated](work_md/migrated/README.md)
     * [The Second Brain](work_md/migrated/the-second-brain.md)
     * [Effect of sugar on Brain](work_md/migrated/effect-of-sugar-on-brain.md)
@@ -48,6 +48,6 @@
   * [Workflows](work_md/workflows.md)
 * [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDU2NjMzNSw2ODkwNzQ1ODMsMjA3OD
-M2MTE0MywtNTg2OTc1NDgxLDEyNjQwMDE3ODJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjY0MjYwNDksNjg5MDc0NTgzLDIwNz
+gzNjExNDMsLTU4Njk3NTQ4MSwxMjY0MDAxNzgyXX0=
 -->
