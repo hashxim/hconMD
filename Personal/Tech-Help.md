@@ -1,5 +1,5 @@
 # Cloud Data Transfer
-- [MultCloud](https://www.multcloud.com/) - To transfer data from one Goo
+- [MultCloud](https://www.multcloud.com/) - To transfer data from one Google drive to another
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEzNTQ3OV19
+eyJoaXN0b3J5IjpbMTAwNDY0MjcwOV19
 -->
