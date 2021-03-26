@@ -96,6 +96,9 @@ MC - Marginal Cost Curve
 Average cost has such shape as there would be some fixed cost (PPE) due to which would make average cost high for Q=1. But as we sell more, we spread out that cost to more quantity and the average cost will go down. Eventually though, we will run into capacity constraint and we need to build another plant and thus average cost will then rise proportionately. 
 
 Marginal cost curve is what is cost us to make 1 extra quantity. This is derivative of Average cost curve. 
+
+N
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwODczNzk0LC0xMzYxNzI4NTNdfQ==
+eyJoaXN0b3J5IjpbMjAzMjI2ODkwNCwzMDA4NzM3OTQsLTEzNj
+E3Mjg1M119
 -->
