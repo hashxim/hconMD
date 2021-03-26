@@ -97,8 +97,10 @@ Average cost has such shape as there would be some fixed cost (PPE) due to which
 
 Marginal cost curve is what is cost us to make 1 extra quantity. This is derivative of Average cost curve. 
 
+![enter image description here](https://github.com/hashxim/hconMD/blob/master/work_md/Courses/Foundation-of-Business-Strategy/Resources/Cost%20Curve.JPG?raw=true)
+
 Now the decision rule is the firm should set the price where price equals marginal cost. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcwNjQyMTgsMzAwODczNzk0LC0xMz
-YxNzI4NTNdfQ==
+eyJoaXN0b3J5IjpbMTc1Mzk0NjE4MywtMTYzNzA2NDIxOCwzMD
+A4NzM3OTQsLTEzNjE3Mjg1M119
 -->
