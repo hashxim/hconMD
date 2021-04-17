@@ -12,6 +12,8 @@ Other Example - A flea can jump 2 feet in air and human athlete about five. But 
 >“For every type of animal there is a most convenient size, and a change in size inevitably carries with it a change of form,” Haldane wrote.
 
 # In Business and Investing
+S
+
 
 ---
 # Footer
@@ -21,6 +23,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg0Mjk2ODUsMjA4NzQ0NTA2MywtMT
-A0OTE4MDY0OF19
+eyJoaXN0b3J5IjpbLTU1MDMzNTk0LC0xNTI4NDI5Njg1LDIwOD
+c0NDUwNjMsLTEwNDkxODA2NDhdfQ==
 -->
