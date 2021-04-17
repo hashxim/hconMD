@@ -1,2 +1,7 @@
 # Initial page
 
+
+https://amitgupta.substack.com/p/weekend-readings-16-apr-2021-edition?token=eyJ1c2VyX2lkIjo0MzQxNjk0LCJwb3N0X2lkIjozNTE4MjI3MSwiXyI6Ik1EajFYIiwiaWF0IjoxNjE4NjQwMTY1LCJleHAiOjE2MTg2NDM3NjUsImlzcyI6InB1Yi03OTUyNCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.wPn9g9dQuRE6JPZcCRW_P8ROUhSMilEOcbxzmk6Kk-I
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE3MjIxNzI4OF19
+-->
