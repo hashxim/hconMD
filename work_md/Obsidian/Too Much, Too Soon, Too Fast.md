@@ -1,4 +1,4 @@
-`There is a convenient size for everything. Try to outgrow or expand beyond a limit and suddenly everything doesn't work like before. This is valid in bo`
+`There is a convenient size for everything. Try to outgrow or expand beyond a limit and suddenly everything doesn't work like before. This is valid in biology and also in Investing. Companies can chase growth but may find they now do not perform well on other metrics they used to be.`
 
 # Introduction
 > Some things scale well. Double their size and you get double the output (or more). Other things don’t, and my God is it important to know which is which.
@@ -40,6 +40,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTk5MzAxMCw1NTc4MDI3NTUsLTE1Mj
-g0Mjk2ODUsMjA4NzQ0NTA2MywtMTA0OTE4MDY0OF19
+eyJoaXN0b3J5IjpbNjAxMTQxMjE3LDU1NzgwMjc1NSwtMTUyOD
+QyOTY4NSwyMDg3NDQ1MDYzLC0xMDQ5MTgwNjQ4XX0=
 -->
