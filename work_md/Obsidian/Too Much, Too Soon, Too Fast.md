@@ -26,7 +26,9 @@ Starbucks closed 600 stores in 2008. Stock fell 73%.
 
 >Schultz wrote in his 2011 book _Onward_: “Growth, we now know all too well, is not a strategy. It is a tactic. And when undisciplined growth became a strategy, we lost our way.”
 
+There was a most convenient size for Starbucks - there is for all businesses. Push past it an you realize that revenue might scale but disappointed customers scale faster.
 
+M&A is same where managementof
 
 ---
 # Footer
@@ -36,6 +38,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTkzODAyLDU1NzgwMjc1NSwtMTUyOD
-QyOTY4NSwyMDg3NDQ1MDYzLC0xMDQ5MTgwNjQ4XX0=
+eyJoaXN0b3J5IjpbMTQzODc4MDU0OCw1NTc4MDI3NTUsLTE1Mj
+g0Mjk2ODUsMjA4NzQ0NTA2MywtMTA0OTE4MDY0OF19
 -->
