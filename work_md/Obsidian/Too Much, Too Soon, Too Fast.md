@@ -12,11 +12,16 @@ Other Example - A flea can jump 2 feet in air and human athlete about five. But 
 >“For every type of animal there is a most convenient size, and a change in size inevitably carries with it a change of form,” Haldane wrote.
 
 # In Business and Investing
+## Investment Horizon
 Stocks pay fortune in long run but seek punitive damage when you try to be paid sooner.
 
 ![Percent of Periods that earned a positive Return](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/Percent%20period%20earned%20+ve%20return.png?raw=true)
 
 One way to think is this is the most convenient investing time horizon - something around 10 years. Try to reduce the period and and investing blunders happen.
+
+## Growth in Companies
+Starbucks had 425 stores in 1994 (23rd year of existence). In 1999, it opened 625 new stores. By 2007, it was opening 3500 stores per year.
+
 
 ---
 # Footer
@@ -26,6 +31,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTk3MDE5Niw1NTc4MDI3NTUsLTE1Mj
+eyJoaXN0b3J5IjpbLTkxNTExNjc0Nyw1NTc4MDI3NTUsLTE1Mj
 g0Mjk2ODUsMjA4NzQ0NTA2MywtMTA0OTE4MDY0OF19
 -->
