@@ -16,6 +16,8 @@ Stocks pay fortune in long run but seek punitive damage when you try to be paid 
 
 ![Percent of Periods that earned a positive Return](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/Percent%20period%20earned%20+ve%20return.png?raw=true)
 
+One way to think is this is the most convenient investing time horizon - something around 10 years. Try to reduce the period and and investing blunders happen.
+
 ---
 # Footer
 
@@ -24,6 +26,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTQzOTA3MSw1NTc4MDI3NTUsLTE1Mj
+eyJoaXN0b3J5IjpbMTcxOTk3MDE5Niw1NTc4MDI3NTUsLTE1Mj
 g0Mjk2ODUsMjA4NzQ0NTA2MywtMTA0OTE4MDY0OF19
 -->
