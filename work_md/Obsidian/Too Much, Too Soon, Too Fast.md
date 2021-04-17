@@ -28,7 +28,9 @@ Starbucks closed 600 stores in 2008. Stock fell 73%.
 
 There was a most convenient size for Starbucks - there is for all businesses. Push past it an you realize that revenue might scale but disappointed customers scale faster.
 
-M&A is same where managementof
+M&A is same where management often try to grow by acquisition. 
+
+People handle risk and responsibility in totally different ways when a group scales from 4 - 100 - 1M. Same is true for management style that works for 10 person company can destroy 1000 person c
 
 ---
 # Footer
@@ -38,6 +40,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODc4MDU0OCw1NTc4MDI3NTUsLTE1Mj
+eyJoaXN0b3J5IjpbMTEzMTczMDQ2MSw1NTc4MDI3NTUsLTE1Mj
 g0Mjk2ODUsMjA4NzQ0NTA2MywtMTA0OTE4MDY0OF19
 -->
