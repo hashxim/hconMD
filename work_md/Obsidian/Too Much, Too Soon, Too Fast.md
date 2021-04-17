@@ -20,7 +20,12 @@ Stocks pay fortune in long run but seek punitive damage when you try to be paid 
 One way to think is this is the most convenient investing time horizon - something around 10 years. Try to reduce the period and and investing blunders happen.
 
 ## Growth in Companies
-Starbucks had 425 stores in 1994 (23rd year of existence). In 1999, it opened 625 new stores. By 2007, it was opening 3500 stores per year.
+Starbucks had 425 stores in 1994 (23rd year of existence). In 1999, it opened 625 new stores. By 2007, it was opening 3500 stores per year. To hit growth target they elbowed out rational analysis. Same store sales growth fell by half as economy boomed.
+
+Starbucks closed 600 stores in 2008. Stock fell 73%.
+
+>Schultz wrote in his 2011 book _Onward_: “Growth, we now know all too well, is not a strategy. It is a tactic. And when undisciplined growth became a strategy, we lost our way.”
+
 
 
 ---
@@ -31,6 +36,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTExNjc0Nyw1NTc4MDI3NTUsLTE1Mj
-g0Mjk2ODUsMjA4NzQ0NTA2MywtMTA0OTE4MDY0OF19
+eyJoaXN0b3J5IjpbMTIzOTkzODAyLDU1NzgwMjc1NSwtMTUyOD
+QyOTY4NSwyMDg3NDQ1MDYzLC0xMDQ5MTgwNjQ4XX0=
 -->
