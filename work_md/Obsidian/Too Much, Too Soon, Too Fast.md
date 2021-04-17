@@ -1,4 +1,4 @@
-`Summary`
+`There is a convenient size for everything. Try to outgrow or expand beyond a limit and suddenly everything doesn't work like before. This is valid in bo`
 
 # Introduction
 > Some things scale well. Double their size and you get double the output (or more). Other things don’t, and my God is it important to know which is which.
@@ -30,7 +30,7 @@ There was a most convenient size for Starbucks - there is for all businesses. Pu
 
 M&A is same where management often try to grow by acquisition. 
 
-People handle risk and responsibility in totally different ways when a group scales from 4 - 100 - 1M. Same is true for management style that works for 10 person company can destroy 1000 person c
+People handle risk and responsibility in totally different ways when a group scales from 4 - 100 - 1M. Same is true for management style that works for 10 person company can destroy 1000 person company (Travis Kalanick at Uber may be the best example).
 
 ---
 # Footer
@@ -40,6 +40,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTczMDQ2MSw1NTc4MDI3NTUsLTE1Mj
+eyJoaXN0b3J5IjpbMTkwNTk5MzAxMCw1NTc4MDI3NTUsLTE1Mj
 g0Mjk2ODUsMjA4NzQ0NTA2MywtMTA0OTE4MDY0OF19
 -->
