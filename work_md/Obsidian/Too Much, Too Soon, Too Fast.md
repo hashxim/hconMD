@@ -7,7 +7,7 @@ Robert Wadlow was the largest human ever known. [Wiki](https://en.wikipedia.org/
 
 One cannot triple the size of human and expect triple performance. The mechanics doesn't work like that. There are limits to scaling.
 
-Other Example - A flea can jump 2 feet in air and human athlete about five. But if flea is as large as man, it cannot jump thousand feet. Eyes of mice are small and they have poor vision. But beyond a certain size, gains diminish. An A
+Other Example - A flea can jump 2 feet in air and human athlete about five. But if flea is as large as man, it cannot jump thousand feet. Eyes of mice are small and they have poor vision. But beyond a certain size, gains diminish. An African elephant
 
 ---
 # Footer
@@ -17,6 +17,6 @@ Links:
 [Source](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMTA4NjYwLDIwODc0NDUwNjMsLTEwND
-kxODA2NDhdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU5NzMzNiwyMDg3NDQ1MDYzLC0xMD
+Q5MTgwNjQ4XX0=
 -->
