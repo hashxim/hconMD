@@ -39,7 +39,7 @@ Drivers
 
 The domestic bond market provided a fifth of outstanding funding to India's corporate sector.
 
-
+![201702_CRISIL_Rating_Drivers.jpg](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/201702_CRISIL_Rating_Drivers.jpg?raw=true)
 
 Regulation to provide development of Indian corporate bond market. RBI helped in taking off pressure in 2016 by allowing large borrowers to access capital markets. SEBI enhanced standards for credit rating agencies to increase disclosures and transparency. Ministry of Finance encouraged CRAs to introduce new expected loss (EL) ratings for infrastructure projects to borrow from the bond market. LAF window expected to improve liquidity in bond market.
 
@@ -150,7 +150,7 @@ Leveraging deep domain and expertise (Infra - leading advisor on smart cities, a
 - Reputation risk
 - Intense price competition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODE1NzY0LC04ODYzNjEzNDYsMTc1Mj
-A0NjE1MiwxNzEwNDUyNjMxLC0yNDk1MzE2NjcsLTEzMzk3NTg0
-MDddfQ==
+eyJoaXN0b3J5IjpbMTU5NTAzNTI3NiwtODg2MzYxMzQ2LDE3NT
+IwNDYxNTIsMTcxMDQ1MjYzMSwtMjQ5NTMxNjY3LC0xMzM5NzU4
+NDA3XX0=
 -->
