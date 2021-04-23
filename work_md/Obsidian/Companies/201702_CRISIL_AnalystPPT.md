@@ -48,14 +48,14 @@
 	- Economy in better shape, challenged by divergent monetary policies
 	- Brexit and other events adding challenges but also creating opportunities
 - Regulatory and Risk Management
-	- Positive outlook for risk services, analytics and IP-oriented offerings led by global regulatry
+	- Positive outlook for risk services, analytics and IP-oriented offerings led by global regulatory framework
+	- Compliance analytics becoming centre-stage
 - Financial Services opportunities
-	- Credit and corporate bond market expected to grow driven by regulatory changes
-	- Banking revenues expected to double between 2015 and 2020 led by SME and retail
+	- Global banks are restructuring their operating models, given margin pressures
+	- Need for specialised data and differentiated research 
 - Technology
-	- Fintechs transforming business models
+	- Tech enab
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE3OTk2MzksLTEzMzk3NTg0MDddfQ
-==
+eyJoaXN0b3J5IjpbMTk2NTM1NzcwMSwtMTMzOTc1ODQwN119
 -->
