@@ -20,8 +20,11 @@
 # Markets
 - India and Emerging Markets
 	- Leading brand
-	- 
+	- First POC for regulators, policy makers and industry associations for capital markets
+	- Proprietary IP using 4000+ primary sources and covering 80 sectors and sub-sectors for research
+	- Proven approach / methodology for credit ratings
+	- L
 - Developed Markets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAyNjk2MjZdfQ==
+eyJoaXN0b3J5IjpbMTQwODU4MzU3XX0=
 -->
