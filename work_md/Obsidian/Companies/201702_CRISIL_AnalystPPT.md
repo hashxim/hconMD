@@ -94,7 +94,7 @@ Offerings
 
 Clients include banks, financial institutions, governments and multilateral agencies
 
-Leveraging deep domain and expertise (Infra - leading advisor on smart cities, advisory on flagship government programs), Expanding across value chain (Risk - implemented solutions a
+Leveraging deep domain and expertise (Infra - leading advisor on smart cities, advisory on flagship government programs), Expanding across value chain (Risk - implemented solutions across credit life-cycle, increased coverage in NBFC, Infra - penetration in state gov level, Foray into large multi-year program management mandates), Expand outreach and thought leadership (Risk - International coverage in Africa a
 
 
 
@@ -145,6 +145,6 @@ Leveraging deep domain and expertise (Infra - leading advisor on smart cities, a
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODA0ODYyOSwxNzUyMDQ2MTUyLDE3MT
-A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
+eyJoaXN0b3J5IjpbLTIwMjI0ODE5MjksMTc1MjA0NjE1MiwxNz
+EwNDUyNjMxLC0yNDk1MzE2NjcsLTEzMzk3NTg0MDddfQ==
 -->
