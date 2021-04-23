@@ -46,7 +46,17 @@ CRISIL rated India's first hybrid issuance for insurance sector, first rating on
 
 CRISIL focus on Analytical Excellence
 - Focussed approach on Portfolio surveillance
-- Highest rating stability, lowest default rates and lowest intensity of rating 
+- Highest rating stability, lowest default rates and lowest intensity of rating actions across CRAs
+- Focus on automation 
+
+## Research
+Offerings
+- India
+	- Largest independent research house in India
+	- Fixed income valuations, debt/hybrid indices and mutual fund research
+	- Executive training
+- Global
+	- Equity
 
 
 
@@ -97,6 +107,6 @@ CRISIL focus on Analytical Excellence
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODUyMjM0NSwxNzEwNDUyNjMxLC0yND
-k1MzE2NjcsLTEzMzk3NTg0MDddfQ==
+eyJoaXN0b3J5IjpbODk1NDA2NzI4LDE3MTA0NTI2MzEsLTI0OT
+UzMTY2NywtMTMzOTc1ODQwN119
 -->
