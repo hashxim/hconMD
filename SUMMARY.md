@@ -29,6 +29,8 @@
 		* [W20210329](work_md/Learnings/W20210329.md)
 		* [W20210405](work_md/Learnings/W20210405.md)
 		* [W20210412](work_md/Learnings/W20210412.md)
+		* [W20210419](work_md/Learnings/W20210419.md)
+		* [W20210426](work_md/Learnings/W20210426.md)
 	* [Migrated](work_md/migrated/README.md)
 		* [The Second Brain](work_md/migrated/the-second-brain.md)
 		* [Effect of sugar on Brain](work_md/migrated/effect-of-sugar-on-brain.md)
@@ -51,8 +53,8 @@
 	* [Workflows](work_md/workflows.md)
 * [Morning Mind Dump](Mrng_Mind_Dump/README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYyNTczMjksODA5MDIxOTAzLC0xMT
-g3MjczMjQxLDE0MTU2OTI1MDgsLTExODcyNzMyNDEsLTYxOTU1
-MzQyOSw2ODkwNzQ1ODMsMjA3ODM2MTE0MywtNTg2OTc1NDgxLD
-EyNjQwMDE3ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTE1NDU5MDUsLTEwNjYyNTczMjksOD
+A5MDIxOTAzLC0xMTg3MjczMjQxLDE0MTU2OTI1MDgsLTExODcy
+NzMyNDEsLTYxOTU1MzQyOSw2ODkwNzQ1ODMsMjA3ODM2MTE0My
+wtNTg2OTc1NDgxLDEyNjQwMDE3ODJdfQ==
 -->
