@@ -20,8 +20,22 @@
 ## Ratings
 Drivers 
 - Corporate Ratings
-	- INdutrials
-	-  
+	- Industrials
+	-  Utilities
+	- Public finance
+- Financial Institution Ratings
+	- Banks
+	- NBFCs
+	- HFCs
+	- MFIs
+	- Others
+- Securitization Ratings
+	- ABS / MBS
+	- CDO
+	- CMBS
+	- Annuity and Future-flow Securitization
+- Bank Loan Ratings
+- SMEs
 
 
 # Markets
@@ -71,6 +85,6 @@ Drivers
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTc3MzQzMiwtMjQ5NTMxNjY3LC0xMz
-M5NzU4NDA3XX0=
+eyJoaXN0b3J5IjpbLTE0ODE3NDU1NTksLTI0OTUzMTY2NywtMT
+MzOTc1ODQwN119
 -->
