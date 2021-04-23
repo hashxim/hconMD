@@ -37,7 +37,10 @@ Drivers
 - Bank Loan Ratings
 - SMEs
 
-The domestic bond market provided a fifth of outstanding funding to India's corporate sector
+The domestic bond market provided a fifth of outstanding funding to India's corporate sector.
+
+
+Regulation to provide development of Indian corporate bond market. RBI helped in taking off pressure in 2016 by allowing large borrowers to access capital markets. SEBI enhanced standards for credit rating agencies to increase disclosures and transparenct.
 
 
 
@@ -88,6 +91,6 @@ The domestic bond market provided a fifth of outstanding funding to India's corp
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDQ1MjYzMSwtMjQ5NTMxNjY3LC0xMz
-M5NzU4NDA3XX0=
+eyJoaXN0b3J5IjpbLTE4MDY2MzcyNjAsMTcxMDQ1MjYzMSwtMj
+Q5NTMxNjY3LC0xMzM5NzU4NDA3XX0=
 -->
