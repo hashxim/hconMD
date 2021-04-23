@@ -37,6 +37,9 @@ Drivers
 - Bank Loan Ratings
 - SMEs
 
+The domestic bond market provided a fifth of outstanding funding to India's corporate sector
+
+
 
 # Markets
 - India and Emerging Markets
@@ -85,6 +88,6 @@ Drivers
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE3NDU1NTksLTI0OTUzMTY2NywtMT
-MzOTc1ODQwN119
+eyJoaXN0b3J5IjpbMTcxMDQ1MjYzMSwtMjQ5NTMxNjY3LC0xMz
+M5NzU4NDA3XX0=
 -->
