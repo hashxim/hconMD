@@ -56,7 +56,21 @@ Offerings
 	- Fixed income valuations, debt/hybrid indices and mutual fund research
 	- Executive training
 - Global
-	- Equity
+	- Equity and Fixed Income 
+	- Credit risk support
+	- Data Analytics
+	- Risk and & Analytics services - Derivatives and Modelling
+	- Competitor, Client and Country Analytics
+
+Clients
+- Retail and Commercial banks
+- Investment Banks
+- Asset Managers
+- NBFCs
+- Insurers
+- Corporates
+
+New opportu
 
 
 
@@ -107,6 +121,6 @@ Offerings
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NDA2NzI4LDE3MTA0NTI2MzEsLTI0OT
-UzMTY2NywtMTMzOTc1ODQwN119
+eyJoaXN0b3J5IjpbMTcxMTU1MjA5MSwxNzEwNDUyNjMxLC0yND
+k1MzE2NjcsLTEzMzk3NTg0MDddfQ==
 -->
