@@ -83,7 +83,13 @@ Offerings
 		- Model development and validation
 	- Risk Management
 		- Risk Governance framework development
+		- Capital computation for Basel II and operational risk solutions
+	- Reporting and analytics
 - Infrastructure Advisory
+	- Provides advisory services across the infrastructure development cycle
+	- Policy, reforms and regulatory advice
+	- Strategy/Market and project advisory
+	- Bid advisory
 
 
 
@@ -134,6 +140,6 @@ Offerings
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDM0NTQ4NSwxNzUyMDQ2MTUyLDE3MT
+eyJoaXN0b3J5IjpbMTY5NzQ3MTc2OCwxNzUyMDQ2MTUyLDE3MT
 A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
 -->
