@@ -72,6 +72,8 @@ Clients
 
 New opportunity arising due to need for differentiated investment research. Strong demand in benchmarking analytics. Growing customer preference in India for integrated views and actionable insights.
 
+Deve
+
 
 
 # Markets
@@ -121,6 +123,6 @@ New opportunity arising due to need for differentiated investment research. Stro
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjA0NjE1MiwxNzEwNDUyNjMxLC0yND
-k1MzE2NjcsLTEzMzk3NTg0MDddfQ==
+eyJoaXN0b3J5IjpbLTE0NzE4MjY0MTIsMTc1MjA0NjE1MiwxNz
+EwNDUyNjMxLC0yNDk1MzE2NjcsLTEzMzk3NTg0MDddfQ==
 -->
