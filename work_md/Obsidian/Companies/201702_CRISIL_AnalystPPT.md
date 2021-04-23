@@ -29,6 +29,11 @@
 	- Deep domain expertise in Financial Research, Risk & Analytics for both buy and sell side
 	- Strong relationship and access with leading global investment banks and buy-side players
 	- Owns unique historical data on investment banking revenue pools and benchmarks under Coalition
+
+# Oppotunities
+## India
+- Macro Trends
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUwMDE5NzBdfQ==
+eyJoaXN0b3J5IjpbLTEzMzk3NTg0MDddfQ==
 -->
