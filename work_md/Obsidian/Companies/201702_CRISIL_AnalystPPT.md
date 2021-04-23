@@ -44,6 +44,10 @@ Regulation to provide development of Indian corporate bond market. RBI helped in
 
 CRISIL rated India's first hybrid issuance for insurance sector, first rating on an infrastructure Investment trust, India's first rating on Infra EL scale, developed rating criteria for hybrid instruments issued by insurers.
 
+CRISIL focus on Analytical Excellence
+- Focussed approach on Portfolio surveillance
+- Highest rating stability, lowest default rates and lowest intensity of rating 
+
 
 
 # Markets
@@ -93,6 +97,6 @@ CRISIL rated India's first hybrid issuance for insurance sector, first rating on
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ2MDk2MzAsMTcxMDQ1MjYzMSwtMj
-Q5NTMxNjY3LC0xMzM5NzU4NDA3XX0=
+eyJoaXN0b3J5IjpbMTAwODUyMjM0NSwxNzEwNDUyNjMxLC0yND
+k1MzE2NjcsLTEzMzk3NTg0MDddfQ==
 -->
