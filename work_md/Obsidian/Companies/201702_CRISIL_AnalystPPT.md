@@ -35,8 +35,11 @@
 - Macro Trends
 	- Fast growing economy with improving macro-economic fundamentals
 	- Credit growth and investment cycle expected to pick up
-	- 
+- Regulatory and Risk Management
+	- Regulatory framework supports development of markets and institutions, insolvency code and bankruptcy code, power sector reforms
+- Financial Services opportunities
+	- Credit and corporate bond market expected to grow driven by regulat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM5NTY2OTgsLTEzMzk3NTg0MDddfQ
+eyJoaXN0b3J5IjpbLTEyMDA5MTc3NjksLTEzMzk3NTg0MDddfQ
 ==
 -->
