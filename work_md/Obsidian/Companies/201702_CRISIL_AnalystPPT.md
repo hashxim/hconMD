@@ -72,7 +72,7 @@ Clients
 
 New opportunity arising due to need for differentiated investment research. Strong demand in benchmarking analytics. Growing customer preference in India for integrated views and actionable insights.
 
-Deve
+Developed new analytics and research offerings - Stress testing and model validation, added a niche solution to our existing risk-based offerings, leveraged technology to improve time to market of our offerings, new analytics in transactio
 
 
 
@@ -123,6 +123,6 @@ Deve
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE4MjY0MTIsMTc1MjA0NjE1MiwxNz
+eyJoaXN0b3J5IjpbLTE4OTAyMzY1MDUsMTc1MjA0NjE1MiwxNz
 EwNDUyNjMxLC0yNDk1MzE2NjcsLTEzMzk3NTg0MDddfQ==
 -->
