@@ -90,6 +90,11 @@ Offerings
 	- Policy, reforms and regulatory advice
 	- Strategy/Market and project advisory
 	- Bid advisory
+	- Capacity building and institutional strengthening
+
+Clients include banks, financial institutions, governments and multilateral agencies
+
+Leveraging 
 
 
 
@@ -140,6 +145,6 @@ Offerings
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzQ3MTc2OCwxNzUyMDQ2MTUyLDE3MT
+eyJoaXN0b3J5IjpbMTE2NzIwNzUxOCwxNzUyMDQ2MTUyLDE3MT
 A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
 -->
