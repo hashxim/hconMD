@@ -23,8 +23,11 @@
 	- First POC for regulators, policy makers and industry associations for capital markets
 	- Proprietary IP using 4000+ primary sources and covering 80 sectors and sub-sectors for research
 	- Proven approach / methodology for credit ratings
-	- L
+	- Local presence in regions: India, China, Eastern Europe (Poland) and Latin America (Argentina)
 - Developed Markets
+	- Leading provider of research and analytics
+	- Deep domain expertise in Financial Research, Risk & Analytics for both buy and sell side
+	- Strong relationsh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODU4MzU3XX0=
+eyJoaXN0b3J5IjpbLTI5OTUxMDcwM119
 -->
