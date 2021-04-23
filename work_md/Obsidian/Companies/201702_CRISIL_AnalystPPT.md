@@ -33,7 +33,10 @@
 # Oppotunities
 ## India
 - Macro Trends
+	- Fast growing economy with improving macro-economic fundamentals
+	- Credit growth and investment cycle expected to pick up
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk3NTg0MDddfQ==
+eyJoaXN0b3J5IjpbLTE3MjM5NTY2OTgsLTEzMzk3NTg0MDddfQ
+==
 -->
