@@ -58,9 +58,8 @@
 	- AI and ML bringing efficiencies in operating models
 
 # Business Performance
-
+![Segment Operating Rev and Profit](![201702_CRISIL_Revenue.JPG](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/201702_CRISIL_Revenue.JPG?raw=true))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM4NTY5NTcsLTEzMzk3NTg0MDddfQ
-==
+eyJoaXN0b3J5IjpbODY0NDY3MzIzLC0xMzM5NzU4NDA3XX0=
 -->
