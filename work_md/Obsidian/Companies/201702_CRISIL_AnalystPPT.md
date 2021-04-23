@@ -38,8 +38,23 @@
 - Regulatory and Risk Management
 	- Regulatory framework supports development of markets and institutions, insolvency code and bankruptcy code, power sector reforms
 - Financial Services opportunities
-	- Credit and corporate bond market expected to grow driven by regulat
+	- Credit and corporate bond market expected to grow driven by regulatory changes
+	- Banking revenues expected to double between 2015 and 2020 led by SME and retail
+- Technology
+	- Fintechs transforming business models
+
+## Global
+- Macro Trends
+	- Economu
+- Regulatory and Risk Management
+	- Regulatory framework supports development of markets and institutions, insolvency code and bankruptcy code, power sector reforms
+- Financial Services opportunities
+	- Credit and corporate bond market expected to grow driven by regulatory changes
+	- Banking revenues expected to double between 2015 and 2020 led by SME and retail
+- Technology
+	- Fintechs transforming business models
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA5MTc3NjksLTEzMzk3NTg0MDddfQ
+eyJoaXN0b3J5IjpbLTE3ODQwNjIxMDgsLTEzMzk3NTg0MDddfQ
 ==
 -->
