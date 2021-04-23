@@ -27,7 +27,8 @@
 - Developed Markets
 	- Leading provider of research and analytics
 	- Deep domain expertise in Financial Research, Risk & Analytics for both buy and sell side
-	- Strong relationsh
+	- Strong relationship and access with leading global investment banks and buy-side players
+	- Owns unique historical data on investment banking revenue pools and benchmarks under Coalition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTUxMDcwM119
+eyJoaXN0b3J5IjpbLTEwMjUwMDE5NzBdfQ==
 -->
