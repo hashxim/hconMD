@@ -94,7 +94,7 @@ Offerings
 
 Clients include banks, financial institutions, governments and multilateral agencies
 
-Leveraging 
+Leveraging deep domain and expertise (Infra - leading advisor on smart cities, advisory on flagship government programs), Expanding across value chain (Risk - implemented solutions a
 
 
 
@@ -145,6 +145,6 @@ Leveraging
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzIwNzUxOCwxNzUyMDQ2MTUyLDE3MT
+eyJoaXN0b3J5IjpbMTE2ODA0ODYyOSwxNzUyMDQ2MTUyLDE3MT
 A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
 -->
