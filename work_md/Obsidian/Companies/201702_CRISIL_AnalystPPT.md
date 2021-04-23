@@ -17,6 +17,13 @@
 	- Advisor to Governments and Multilaterals
 	- Operate in India and emerging markets
 
+## Ratings
+Drivers 
+- Corporate Ratings
+	- INdutrials
+	-  
+
+
 # Markets
 - India and Emerging Markets
 	- Leading brand
@@ -62,8 +69,8 @@
 
 ![201702_CRISIL_Business_Performance.jpg](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/201702_CRISIL_Business_Performance.jpg?raw=true)
 
-
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgxMjk3ODMsLTI0OTUzMTY2NywtMT
-MzOTc1ODQwN119
+eyJoaXN0b3J5IjpbMTc0OTc3MzQzMiwtMjQ5NTMxNjY3LC0xMz
+M5NzU4NDA3XX0=
 -->
