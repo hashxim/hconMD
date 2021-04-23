@@ -74,6 +74,10 @@ New opportunity arising due to need for differentiated investment research. Stro
 
 Developed new analytics and research offerings - Stress testing and model validation, added a niche solution to our existing risk-based offerings, leveraged technology to improve time to market of our offerings, new analytics in transaction banking, Coalition Analytics platform, seven new fixed-income indices in India.
 
+## Advisory
+Offerings
+- Risk Solutions
+
 
 
 # Markets
@@ -123,6 +127,6 @@ Developed new analytics and research offerings - Stress testing and model valida
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0OTMyOTQ2LDE3NTIwNDYxNTIsMTcxMD
-Q1MjYzMSwtMjQ5NTMxNjY3LC0xMzM5NzU4NDA3XX0=
+eyJoaXN0b3J5IjpbMTM4MjkxOTk5OCwxNzUyMDQ2MTUyLDE3MT
+A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
 -->
