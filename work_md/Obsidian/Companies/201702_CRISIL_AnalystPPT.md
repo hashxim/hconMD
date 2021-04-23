@@ -54,8 +54,10 @@
 	- Global banks are restructuring their operating models, given margin pressures
 	- Need for specialised data and differentiated research 
 - Technology
-	- Tech enab
+	- Tech enabling use of analytics in risk management
+	- AI and ML bringing efficiencies in operating models
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTM1NzcwMSwtMTMzOTc1ODQwN119
+eyJoaXN0b3J5IjpbMTAyMjcxMDkyLC0xMzM5NzU4NDA3XX0=
 -->
