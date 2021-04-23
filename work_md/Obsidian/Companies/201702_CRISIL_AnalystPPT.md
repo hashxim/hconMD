@@ -94,8 +94,7 @@ Offerings
 
 Clients include banks, financial institutions, governments and multilateral agencies
 
-Leveraging deep domain and expertise (Infra - leading advisor on smart cities, advisory on flagship government programs), Expanding across value chain (Risk - implemented solutions across credit life-cycle, increased coverage in NBFC, Infra - penetration in state gov level, Foray into large multi-year program management mandates), Expand outreach and thought leadership (Risk - International coverage in Africa a
-
+Leveraging deep domain and expertise (Infra - leading advisor on smart cities, advisory on flagship government programs), Expanding across value chain (Risk - implemented solutions across credit life-cycle, increased coverage in NBFC, Infra - penetration in state gov level, Foray into large multi-year program management mandates), Expand outreach and thought leadership (Risk - International coverage in Africa and Middle East, Infra - Power Sector events, articles, webinars)
 
 
 # Markets
@@ -143,8 +142,13 @@ Leveraging deep domain and expertise (Infra - leading advisor on smart cities, a
 
 ![201702_CRISIL_Business_Performance.jpg](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/201702_CRISIL_Business_Performance.jpg?raw=true)
 
-#
+# Risks and Challenges
+- Uneven global economic growth
+- Uncertain regulatory environment
+- Adverse currency movements
+- Reputation risk
+- Intense price competition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI0ODE5MjksMTc1MjA0NjE1MiwxNz
-EwNDUyNjMxLC0yNDk1MzE2NjcsLTEzMzk3NTg0MDddfQ==
+eyJoaXN0b3J5IjpbLTg4NjM2MTM0NiwxNzUyMDQ2MTUyLDE3MT
+A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
 -->
