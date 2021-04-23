@@ -77,6 +77,8 @@ Developed new analytics and research offerings - Stress testing and model valida
 ## Advisory
 Offerings
 - Risk Solutions
+	- Provides integrated risk management solutions and services
+- Infrastructure Advisory
 
 
 
@@ -127,6 +129,6 @@ Offerings
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjkxOTk5OCwxNzUyMDQ2MTUyLDE3MT
+eyJoaXN0b3J5IjpbMTYzOTMyMDQzMiwxNzUyMDQ2MTUyLDE3MT
 A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
 -->
