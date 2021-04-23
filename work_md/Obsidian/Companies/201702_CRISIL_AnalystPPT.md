@@ -14,7 +14,14 @@
 	- India's leading BFSI Risk solutions provider
 	- Solution provided to 70 banks and financial institutions in India and emerging markets
 - Infrastructure Advisory
+	- Advisor to Governments and Multilaterals
+	- Operate in India and emerging markets
+
+# Markets
+- India and Emerging Markets
+	- Leading brand
 	- 
+- Developed Markets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE2NTExOTFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDAyNjk2MjZdfQ==
 -->
