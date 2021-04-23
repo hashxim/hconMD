@@ -70,7 +70,7 @@ Clients
 - Insurers
 - Corporates
 
-New opportu
+New opportunity arising due to need for differentiated investment research. Strong demand in benchmarking analytics. Growing customer preference in India for integrated views and actionable insights.
 
 
 
@@ -121,6 +121,6 @@ New opportu
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTU1MjA5MSwxNzEwNDUyNjMxLC0yND
+eyJoaXN0b3J5IjpbMTc1MjA0NjE1MiwxNzEwNDUyNjMxLC0yND
 k1MzE2NjcsLTEzMzk3NTg0MDddfQ==
 -->
