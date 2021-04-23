@@ -40,6 +40,7 @@ Drivers
 The domestic bond market provided a fifth of outstanding funding to India's corporate sector.
 
 
+
 Regulation to provide development of Indian corporate bond market. RBI helped in taking off pressure in 2016 by allowing large borrowers to access capital markets. SEBI enhanced standards for credit rating agencies to increase disclosures and transparency. Ministry of Finance encouraged CRAs to introduce new expected loss (EL) ratings for infrastructure projects to borrow from the bond market. LAF window expected to improve liquidity in bond market.
 
 CRISIL rated India's first hybrid issuance for insurance sector, first rating on an infrastructure Investment trust, India's first rating on Infra EL scale, developed rating criteria for hybrid instruments issued by insurers.
@@ -149,6 +150,7 @@ Leveraging deep domain and expertise (Infra - leading advisor on smart cities, a
 - Reputation risk
 - Intense price competition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjM2MTM0NiwxNzUyMDQ2MTUyLDE3MT
-A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
+eyJoaXN0b3J5IjpbLTIzODE1NzY0LC04ODYzNjEzNDYsMTc1Mj
+A0NjE1MiwxNzEwNDUyNjMxLC0yNDk1MzE2NjcsLTEzMzk3NTg0
+MDddfQ==
 -->
