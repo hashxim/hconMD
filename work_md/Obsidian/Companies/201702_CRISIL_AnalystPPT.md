@@ -78,6 +78,11 @@ Developed new analytics and research offerings - Stress testing and model valida
 Offerings
 - Risk Solutions
 	- Provides integrated risk management solutions and services
+	- Credit Lifecycle Management
+		- Internal ratings, loan origination and credit monitoring systems
+		- Model development and validation
+	- Risk Management
+		- Risk Governance framework development
 - Infrastructure Advisory
 
 
@@ -129,6 +134,6 @@ Offerings
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTMyMDQzMiwxNzUyMDQ2MTUyLDE3MT
+eyJoaXN0b3J5IjpbLTg2NDM0NTQ4NSwxNzUyMDQ2MTUyLDE3MT
 A0NTI2MzEsLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
 -->
