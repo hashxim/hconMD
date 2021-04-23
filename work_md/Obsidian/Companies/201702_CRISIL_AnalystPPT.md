@@ -60,8 +60,10 @@
 # Business Performance
 ![201702_CRISIL_Revenue.JPG](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/201702_CRISIL_Revenue.JPG?raw=true)
 
+![201702_CRISIL_Business_Performance.jpg](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/201702_CRISIL_Business_Performance.jpg?raw=true)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTUzMTY2NywtMTMzOTc1ODQwN119
+eyJoaXN0b3J5IjpbLTIwMDgxMjk3ODMsLTI0OTUzMTY2NywtMT
+MzOTc1ODQwN119
 -->
