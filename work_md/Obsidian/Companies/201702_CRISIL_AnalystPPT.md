@@ -8,9 +8,13 @@
 	- India's largest independent research house
 	- 90% of India's banking industry by asset base are our clients
 - Global Research & Analytics
-	- 
+	- World's largest and top ranked provider of high-end research and analytics services
+	- Work with top 75 global financial institutions
 - Risk Solutions
+	- India's leading BFSI Risk solutions provider
+	- Solution provided to 70 banks and financial institutions in India and emerging markets
 - Infrastructure Advisory
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODM1NDE2Nl19
+eyJoaXN0b3J5IjpbLTE0MjE2NTExOTFdfQ==
 -->
