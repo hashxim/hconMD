@@ -6,6 +6,11 @@
 - HUL
 - Asian Paints
 - IEX
+- Honeywell
+- TCS
+- Tasty Bites
+- SBI Bank
+- LTTS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzY5NTM4XX0=
+eyJoaXN0b3J5IjpbLTEyNDM2ODEzNTFdfQ==
 -->
