@@ -58,10 +58,11 @@
 ## Articles
 
 ## Twitter
+- [Typefully App](https://typefully.app/) - Type Threads 
 
 ## Youtube Videos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQwNzM1OTQsLTIxNDE3MDg0MzRdfQ
-==
+eyJoaXN0b3J5IjpbMTcyNzI2Mjg3NCwtMTE5NDA3MzU5NCwtMj
+E0MTcwODQzNF19
 -->
