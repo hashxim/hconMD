@@ -18,6 +18,9 @@ There is a timing element in cyclicals.
 - Don't have to get in at "bottom", not get out at the "top"
 - You just have to get the general direction right
 - Don't mind leaving something on the table, during exits
+
+## What to comprehend?
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTA5MTI0N119
+eyJoaXN0b3J5IjpbMjAxNjEwODk2NV19
 -->
