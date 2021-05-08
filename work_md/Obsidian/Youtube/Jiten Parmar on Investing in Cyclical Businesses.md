@@ -7,7 +7,10 @@ Markets are more cyclical than we think. Cars, financial services are examples.
 
 ## Types of Cyclicality
 - Deep cyclicality (Commodities)
-- Moderate Cyclicalit
+- Moderate Cyclicality (Cars, Financial services)
+- Low cyclicality (FMCG)
+
+Even economy is cyclical. One cannot run away from cyclicals. Th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU0MDI0NTldfQ==
+eyJoaXN0b3J5IjpbLTEwOTU2ODYxMzddfQ==
 -->
