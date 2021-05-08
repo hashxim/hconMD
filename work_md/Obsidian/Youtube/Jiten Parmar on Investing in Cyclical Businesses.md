@@ -20,7 +20,8 @@ There is a timing element in cyclicals.
 - Don't mind leaving something on the table, during exits
 
 ## What to comprehend?
-- 
+- One has to comprehend "business cycle" as well as "market cycle". They might not coincide. "Best price" may come before "best results" and "worst price" may come before "worst results".
+- Excel inves
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjEwODk2NV19
+eyJoaXN0b3J5IjpbMjA4NTM0ODU3NV19
 -->
