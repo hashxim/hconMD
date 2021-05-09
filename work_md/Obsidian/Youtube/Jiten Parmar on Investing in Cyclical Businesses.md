@@ -22,7 +22,9 @@ There is a timing element in cyclicals.
 ## What to comprehend?
 - One has to comprehend "business cycle" as well as "market cycle". They might not coincide. "Best price" may come before "best results" and "worst price" may come before "worst results".
 - Excel investing rarely works in cyclicals, especially deep cyclicals.
-- 
+
+##  Commodity Price Cycle
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkzMDEwMjNdfQ==
+eyJoaXN0b3J5IjpbLTc0NjA0MzgwNCwtMTE4OTMwMTAyM119
 -->
