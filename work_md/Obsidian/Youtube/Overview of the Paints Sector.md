@@ -16,9 +16,11 @@
 
 
 
+
+
 # Footer
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTcwNjUyMF19
+eyJoaXN0b3J5IjpbLTQxMTc2OTIyOF19
 -->
