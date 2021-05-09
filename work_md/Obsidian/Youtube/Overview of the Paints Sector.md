@@ -19,6 +19,8 @@
 
 Global market is fragmented with PPG and Sherwin are market leader based in US and account for major paint industry. US is very concentrated in terms of large paint players. 
 
+![APAC Market Share](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/APAC%20Paints%20Market%20Share.JPG?raw=true)
+
 
 
 
@@ -26,5 +28,5 @@ Global market is fragmented with PPG and Sherwin are market leader based in US a
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjY5NDkyXX0=
+eyJoaXN0b3J5IjpbMTkxNDc2NzU3NV19
 -->
