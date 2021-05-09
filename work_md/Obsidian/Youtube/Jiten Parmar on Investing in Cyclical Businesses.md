@@ -33,9 +33,11 @@ Stages of the cycle:
 - A lot of CAPEX comes in when prices and demand is good which lead to demand destruction
 - Market comes in balance and CAPEX is peaking means no more announcement of new CAPEX
 - There is oversupply
-- High inventories built and strong supply reaction (some companies goes bust) and there is severe price correction
--  
+- High inventories built and strong supply reaction (some companies goes bust and supply goes out of the system) and there is severe price correction
+-   And then slowly it starts going up again
+
+One of the factors to look at which you exit is when lot of CAPEX coming in wh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY3Mjc3LC03NDYwNDM4MDQsLTExOD
-kzMDEwMjNdfQ==
+eyJoaXN0b3J5IjpbLTQyMTU3NzU1NiwtNzQ2MDQzODA0LC0xMT
+g5MzAxMDIzXX0=
 -->
