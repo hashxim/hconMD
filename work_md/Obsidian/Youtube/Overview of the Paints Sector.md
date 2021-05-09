@@ -10,6 +10,9 @@
 
 |    | Global|APAC |Indian
 |---|---|---|---|
+|Value (USD B)| 151|68.4|7.1
+|Volume (Bn L)| 42 | 22.7 | 5.1
+|Realisation /L (USD) | 3.6 | 3.0 | 1.4
 
 
 
@@ -17,5 +20,5 @@
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4NDQ5ODk1XX0=
+eyJoaXN0b3J5IjpbMTg1OTcwNjUyMF19
 -->
