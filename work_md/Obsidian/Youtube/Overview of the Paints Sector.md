@@ -17,7 +17,7 @@
 # Global Industry
 ![Global Market Share](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/Global%20Paints%20Market%20Share.JPG?raw=true)
 
-Global market is fragmented with PPG being the leader. 
+Global market is fragmented with PPG and Sherwin are market leader based in US and account for major paint industry. US is very concentrated in terms of large paint players. 
 
 
 
@@ -26,5 +26,5 @@ Global market is fragmented with PPG being the leader.
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTg3NDc5M119
+eyJoaXN0b3J5IjpbMjE0NjY5NDkyXX0=
 -->
