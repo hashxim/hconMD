@@ -22,6 +22,12 @@ Global market is fragmented with PPG and Sherwin are market leader based in US a
 ![APAC Market Share](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/APAC%20Paints%20Market%20Share.JPG?raw=true)
 
 # Organized vs Unorganized
+Last 10 year CAGR
+- Organized - 12.3
+- Unorganized - 9.6
+- Total - 11.4
+
+Initially 
 
 
 
@@ -30,5 +36,5 @@ Global market is fragmented with PPG and Sherwin are market leader based in US a
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzQ0NjAzNCwyMTA4ODI2NDRdfQ==
+eyJoaXN0b3J5IjpbOTU5ODIzMzE2LDIxMDg4MjY0NF19
 -->
