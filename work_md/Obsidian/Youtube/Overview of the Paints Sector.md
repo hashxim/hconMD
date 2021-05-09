@@ -14,6 +14,10 @@
 |Volume (Bn L)| 42 | 22.7 | 5.1
 |Realisation /L (USD) | 3.6 | 3.0 | 1.4
 
+# Global Industry
+![Global Market Share](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/Global%20Paints%20Market%20Share.JPG?raw=true)
+
+Global market is fragmented with PPG being the leader. 
 
 
 
@@ -22,5 +26,5 @@
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTc2OTIyOF19
+eyJoaXN0b3J5IjpbLTY3MTg3NDc5M119
 -->
