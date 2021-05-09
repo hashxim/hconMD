@@ -71,8 +71,9 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Fertilizers - A good monsoon after 2 failed years
 - Polyfilms - Increasing delta between RM and finished product
 - Chemicals - China measures for pollution control and closing of many units , ADD. You see ADD is increasing
-- Metals / Mining - Chinese plants started closo
+- Metals / Mining - Chinese plants started closing due to pollution. MSP, Infra focus
+- Cement - Government focus on Infra, supply not coming as per estimated demand leading to higher capacity utilizations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NDY4MTU2LC03NjEwOTMwOTgsLTc0Nj
-A0MzgwNCwtMTE4OTMwMTAyM119
+eyJoaXN0b3J5IjpbLTc3ODU3NzEwMiwtNzYxMDkzMDk4LC03ND
+YwNDM4MDQsLTExODkzMDEwMjNdfQ==
 -->
