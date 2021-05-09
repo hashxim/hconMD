@@ -78,8 +78,9 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Always make positional plays
 - Never should be 5-10 year plays
 - Patience - Be ready to hold for a couple of years
-- Make sure PF allocation is adhered to
+- Make sure PF allocation is adhered to. Sometimes cycle fails (eg. Textile). One only increases its allocation as cycle turns
+- Never go more than 25% 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTQyNDkwOSwtNzYxMDkzMDk4LC03ND
+eyJoaXN0b3J5IjpbMTM3MDc1NzEyNiwtNzYxMDkzMDk4LC03ND
 YwNDM4MDQsLTExODkzMDEwMjNdfQ==
 -->
