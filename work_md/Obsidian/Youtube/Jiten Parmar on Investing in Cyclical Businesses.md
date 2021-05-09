@@ -66,8 +66,11 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - As cycle turns, add
 
 # Examples of Triggers
-- Sugar - 2 
+- Sugar - 2 years of monsoon failure in India and failed Brazil crop in 2015
+- Paper - Largest producer BILT plants closing down (4/5 plants closed due to debt)
+- Fertilizers - A good monsoon after 2 failed years
+- Polyfilms - Increasing delta between RM and finished product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ2MzI3NDQsLTc2MTA5MzA5OCwtNz
-Q2MDQzODA0LC0xMTg5MzAxMDIzXX0=
+eyJoaXN0b3J5IjpbNzcyNDAyNzgsLTc2MTA5MzA5OCwtNzQ2MD
+QzODA0LC0xMTg5MzAxMDIzXX0=
 -->
