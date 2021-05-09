@@ -82,7 +82,17 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Never go more than 25% of PF in a single deep cyclical sector (15% on single stock)
 - Do not change narrative, just to hold on to the sector/stock
 - Be prepared for failures. Cut when you realize it 
+
+# Sources
+- www.platts.com
+- www.steelmint.com
+- www.lme.com
+- www.mcxindia.com
+- www.zauba.com
+- www.mining.com
+- www.steel,gov.in
+- www.businessinsider.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM1MTI0NjgsLTc2MTA5MzA5OCwtNz
-Q2MDQzODA0LC0xMTg5MzAxMDIzXX0=
+eyJoaXN0b3J5IjpbLTgwNjQzODcwMywtMjA0MzUxMjQ2OCwtNz
+YxMDkzMDk4LC03NDYwNDM4MDQsLTExODkzMDEwMjNdfQ==
 -->
