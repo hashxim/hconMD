@@ -95,9 +95,10 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 
 
 # Footer
-
+Tags: #video , #review #FleetingNotes
+[Source](https://www.youtube.com/watch?v=2cVS9EPfRtk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4OTA1NTIxLC04MDY0Mzg3MDMsLTIwND
-M1MTI0NjgsLTc2MTA5MzA5OCwtNzQ2MDQzODA0LC0xMTg5MzAx
-MDIzXX0=
+eyJoaXN0b3J5IjpbLTIxMjkyNjIxNjgsLTgwNjQzODcwMywtMj
+A0MzUxMjQ2OCwtNzYxMDkzMDk4LC03NDYwNDM4MDQsLTExODkz
+MDEwMjNdfQ==
 -->
