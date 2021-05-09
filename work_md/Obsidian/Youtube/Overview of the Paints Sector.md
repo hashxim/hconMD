@@ -27,7 +27,7 @@ Last 10 year CAGR
 - Unorganized - 9.6
 - Total - 11.4
 
-Initially 
+Initially GST levied at 28% and then reduced to 18%. This enabled faster shift from unorganized to organized. After reductin
 
 
 
@@ -36,5 +36,5 @@ Initially
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5ODIzMzE2LDIxMDg4MjY0NF19
+eyJoaXN0b3J5IjpbLTMyMjI0NzIyOCwyMTA4ODI2NDRdfQ==
 -->
