@@ -64,7 +64,10 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Check insider buying/selling. This sometimes will turn out to be positive and sometimes bad (Promoters might not know what is happening) 
 - Start buying at highest pessimism levels
 - As cycle turns, add
+
+# Examples of Triggers
+- Sugar - 2 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTA5MzA5OCwtNzQ2MDQzODA0LC0xMT
-g5MzAxMDIzXX0=
+eyJoaXN0b3J5IjpbLTEyOTQ2MzI3NDQsLTc2MTA5MzA5OCwtNz
+Q2MDQzODA0LC0xMTg5MzAxMDIzXX0=
 -->
