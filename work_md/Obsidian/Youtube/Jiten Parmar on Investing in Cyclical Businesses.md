@@ -26,7 +26,13 @@ There is a timing element in cyclicals.
 ##  Commodity Price Cycle
 ![Commodity Cycle](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/Commodity%20Cycle.JPG?raw=true)
 
+Basic thing to look at in cyclicals is Demand and Supply. 
+
+Stages of the cycle:
+- Demand push happens, price accelerates
+- A lot of CAPEX comes in when prices and demand is good which lead to demand destruction
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjYwMzM1MCwtNzQ2MDQzODA0LC0xMT
+eyJoaXN0b3J5IjpbLTY3NjY2NTQ4MSwtNzQ2MDQzODA0LC0xMT
 g5MzAxMDIzXX0=
 -->
