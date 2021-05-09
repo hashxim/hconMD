@@ -70,7 +70,9 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Paper - Largest producer BILT plants closing down (4/5 plants closed due to debt)
 - Fertilizers - A good monsoon after 2 failed years
 - Polyfilms - Increasing delta between RM and finished product
+- Chemicals - China measures for pollution control and closing of many units , ADD. You see ADD is increasing
+- Metals / Mining - Chinese plants started closo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNDAyNzgsLTc2MTA5MzA5OCwtNzQ2MD
-QzODA0LC0xMTg5MzAxMDIzXX0=
+eyJoaXN0b3J5IjpbNzE5NDY4MTU2LC03NjEwOTMwOTgsLTc0Nj
+A0MzgwNCwtMTE4OTMwMTAyM119
 -->
