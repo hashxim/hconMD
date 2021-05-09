@@ -61,8 +61,10 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Shortlist 4/5 plays. User basket approach in investing
 - Stress test - Can the company survive a	nother couple of years of downturn?
 - Wait for some companies to go bust or close down some plants. Enter with a small position and wait for things to turn and then get in. 
-- Check insider buying/selling. This sometimes will turn out to be positive and someto
+- Check insider buying/selling. This sometimes will turn out to be positive and sometimes bad (Promoters might not know what is happening) 
+- Start buying at highest pessimism levels
+- As cycle turns, add
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDg4ODE1MiwtNzQ2MDQzODA0LC0xMT
+eyJoaXN0b3J5IjpbLTc2MTA5MzA5OCwtNzQ2MDQzODA0LC0xMT
 g5MzAxMDIzXX0=
 -->
