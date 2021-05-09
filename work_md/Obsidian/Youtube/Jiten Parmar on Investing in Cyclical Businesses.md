@@ -31,8 +31,11 @@ Basic thing to look at in cyclicals is Demand and Supply.
 Stages of the cycle:
 - Demand push happens, price accelerates
 - A lot of CAPEX comes in when prices and demand is good which lead to demand destruction
-- 
+- Market comes in balance and CAPEX is peaking means no more announcement of new CAPEX
+- There is oversupply
+- High inventories built and strong supply reaction (some companies goes bust) and there is severe price correction
+-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjY2NTQ4MSwtNzQ2MDQzODA0LC0xMT
-g5MzAxMDIzXX0=
+eyJoaXN0b3J5IjpbLTE2ODY3Mjc3LC03NDYwNDM4MDQsLTExOD
+kzMDEwMjNdfQ==
 -->
