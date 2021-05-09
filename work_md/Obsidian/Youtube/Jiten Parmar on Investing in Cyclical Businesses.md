@@ -53,9 +53,14 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Check for capacity utilization. When trigger happens, one will observe that capacity utilization is very low.
 - Check for CAPEX 
 - Check for margins. At entry, the margins would be at the lowest
-- Check price to book (Current, historical during upcycle and downcycles)
-- 
+- Check price to book (Current, historical during upcycle and downcycles). PE is not the better criteria, P/B is better criteria
+- Check replacement cost 
+
+# Investment Process
+- Prepare list of stocks with theme. 
+- Shortlist 4/5 plays. User basket approach in investing
+- Stress test - Can the company survice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjgwMzY2NiwtNzQ2MDQzODA0LC0xMT
-g5MzAxMDIzXX0=
+eyJoaXN0b3J5IjpbNDQ2ODY0MDY3LC03NDYwNDM4MDQsLTExOD
+kzMDEwMjNdfQ==
 -->
