@@ -57,10 +57,10 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Check replacement cost 
 
 # Investment Process
-- Prepare list of stocks with theme. 
+- Prepare list of stocks with theme. (Have seen that the best company gives the least returns) You  need to have mix of companies so follow basket approach.
 - Shortlist 4/5 plays. User basket approach in investing
-- Stress test - Can the company survice
+- Stress test - Can the company survive a	nother couple of years of downturn?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2ODY0MDY3LC03NDYwNDM4MDQsLTExOD
+eyJoaXN0b3J5IjpbODYyNzQ1NTg0LC03NDYwNDM4MDQsLTExOD
 kzMDEwMjNdfQ==
 -->
