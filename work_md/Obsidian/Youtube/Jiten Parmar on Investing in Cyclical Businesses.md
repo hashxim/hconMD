@@ -92,7 +92,12 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - www.mining.com
 - www.steel,gov.in
 - www.businessinsider.com
+
+
+# Footer
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjQzODcwMywtMjA0MzUxMjQ2OCwtNz
-YxMDkzMDk4LC03NDYwNDM4MDQsLTExODkzMDEwMjNdfQ==
+eyJoaXN0b3J5IjpbODA4OTA1NTIxLC04MDY0Mzg3MDMsLTIwND
+M1MTI0NjgsLTc2MTA5MzA5OCwtNzQ2MDQzODA0LC0xMTg5MzAx
+MDIzXX0=
 -->
