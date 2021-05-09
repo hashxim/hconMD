@@ -6,7 +6,10 @@
 - 30% is unorganized
 - Fastest growing market in the world with 15 yr CAGR of 10%
 - Premiumisation - Customers moving from distemper and cement paints to emulsion and enamels. 
-- Oliopoly - Top 4 players - Asian paints, Berger paints, Kansai Nerolac and 
+- Oligopoly - Top 4 players - Asian paints, Berger paints, Kansai Nerolac and Akzo Nobel 
+
+|    | Global|APAC |Indian
+|---|---|---|---|
 
 
 
@@ -14,5 +17,5 @@
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MzEyNzUyXX0=
+eyJoaXN0b3J5IjpbNTg4NDQ5ODk1XX0=
 -->
