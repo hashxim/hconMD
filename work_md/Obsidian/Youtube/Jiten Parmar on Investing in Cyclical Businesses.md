@@ -40,8 +40,14 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 
 # Contrarian Approach 
 - Buy when ratios are bad - EBITDA margins, ROE are down. Company might be in loss
-- Sell when 
+- Sell when companies show sharp uptick and company becomes highly profitable
+- Buy when PE is 60 (or -ve) and sell when is at 6
+- Buy when sector is neglected and sell when it is hot
+- Buy when no one is covering the stock and sell when many buy reports come
+- The bet is on "reversal to mean"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU0NjUxMTAsLTc0NjA0MzgwNCwtMT
+eyJoaXN0b3J5IjpbLTEzOTY1MzY4MTcsLTc0NjA0MzgwNCwtMT
 E4OTMwMTAyM119
 -->
