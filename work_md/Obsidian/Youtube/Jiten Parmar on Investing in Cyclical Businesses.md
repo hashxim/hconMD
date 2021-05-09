@@ -48,8 +48,11 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 
 # Evaluation
 - Triggers shows up. Identify the sector/commodity behind the trigger
-- 
+- Study the past cycle
+- Study production data, supply/demand. 
+- Check for capacity utilization
+- Check for 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODg2ODgzOCwtNzQ2MDQzODA0LC0xMT
+eyJoaXN0b3J5IjpbMTM5ODA2ODQwMCwtNzQ2MDQzODA0LC0xMT
 g5MzAxMDIzXX0=
 -->
