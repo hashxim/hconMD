@@ -24,7 +24,9 @@ There is a timing element in cyclicals.
 - Excel investing rarely works in cyclicals, especially deep cyclicals.
 
 ##  Commodity Price Cycle
+![Commodity Cycle](https://github.com/hashxim/hconMD/blob/master/work_md/Obsidian/Resources/Commodity%20Cycle.JPG?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjA0MzgwNCwtMTE4OTMwMTAyM119
+eyJoaXN0b3J5IjpbMTAyMjYwMzM1MCwtNzQ2MDQzODA0LC0xMT
+g5MzAxMDIzXX0=
 -->
