@@ -73,7 +73,13 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Chemicals - China measures for pollution control and closing of many units , ADD. You see ADD is increasing
 - Metals / Mining - Chinese plants started closing due to pollution. MSP, Infra focus
 - Cement - Government focus on Infra, supply not coming as per estimated demand leading to higher capacity utilizations
+
+# Rules to follow
+- Always make positional plays
+- Never should be 5-10 year plays
+- Patience - Be ready to hold for a couple of years
+- Make sure PF allocation is adhered to
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODU3NzEwMiwtNzYxMDkzMDk4LC03ND
+eyJoaXN0b3J5IjpbMTUzNTQyNDkwOSwtNzYxMDkzMDk4LC03ND
 YwNDM4MDQsLTExODkzMDEwMjNdfQ==
 -->
