@@ -50,9 +50,12 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Triggers shows up. Identify the sector/commodity behind the trigger
 - Study the past cycle
 - Study production data, supply/demand. 
-- Check for capacity utilization
-- Check for 
+- Check for capacity utilization. When trigger happens, one will observe that capacity utilization is very low.
+- Check for CAPEX 
+- Check for margins. At entry, the margins would be at the lowest
+- Check price to book (Current, historical during upcycle and downcycles)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODA2ODQwMCwtNzQ2MDQzODA0LC0xMT
+eyJoaXN0b3J5IjpbLTM2NjgwMzY2NiwtNzQ2MDQzODA0LC0xMT
 g5MzAxMDIzXX0=
 -->
