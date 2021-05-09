@@ -36,8 +36,12 @@ Stages of the cycle:
 - High inventories built and strong supply reaction (some companies goes bust and supply goes out of the system) and there is severe price correction
 -   And then slowly it starts going up again
 
-One of the factors to look at which you exit is when lot of CAPEX coming in wh
+One of the factors to look at which you exit is when lot of CAPEX coming in which means there will be lot of supply in future (or atleast be alert if you do not exit at that point in time). 
+
+# Contrarian Approach 
+- Buy when ratios are bad - EBITDA margins, ROE are down. Company might be in loss
+- Sell when 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTU3NzU1NiwtNzQ2MDQzODA0LC0xMT
-g5MzAxMDIzXX0=
+eyJoaXN0b3J5IjpbLTIwMDU0NjUxMTAsLTc0NjA0MzgwNCwtMT
+E4OTMwMTAyM119
 -->
