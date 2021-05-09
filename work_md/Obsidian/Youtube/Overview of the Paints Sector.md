@@ -30,7 +30,7 @@ Last 10 year CAGR
 Initially GST levied at 28% and then reduced to 18%. This enabled faster shift from unorganized to organized. After reduction in GST, it was seen that larger paint companies entering into lower priced products and competing with unorganized players. 
 
 ## Driver for Growth
-- Increasing nuclearisation and urbaniza
+- Increasing nuclearisation and urbanisation of families. Families 
 
 
 
@@ -39,5 +39,5 @@ Initially GST levied at 28% and then reduced to 18%. This enabled faster shift f
 Tags: #video , #review #FleetingNotes
 [Source](https://www.youtube.com/watch?v=9GKKa-blmlo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMzUyMjMzLDIxMDg4MjY0NF19
+eyJoaXN0b3J5IjpbMjE0MDg2OTI2NSwyMTA4ODI2NDRdfQ==
 -->
