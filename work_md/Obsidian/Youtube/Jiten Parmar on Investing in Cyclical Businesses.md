@@ -46,8 +46,10 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Buy when no one is covering the stock and sell when many buy reports come
 - The bet is on "reversal to mean"
 
-
+# Evaluation
+- Triggers shows up. Identify the sector/commodity behind the trigger
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY1MzY4MTcsLTc0NjA0MzgwNCwtMT
-E4OTMwMTAyM119
+eyJoaXN0b3J5IjpbMjA1ODg2ODgzOCwtNzQ2MDQzODA0LC0xMT
+g5MzAxMDIzXX0=
 -->
