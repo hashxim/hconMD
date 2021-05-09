@@ -79,8 +79,10 @@ One of the factors to look at which you exit is when lot of CAPEX coming in whic
 - Never should be 5-10 year plays
 - Patience - Be ready to hold for a couple of years
 - Make sure PF allocation is adhered to. Sometimes cycle fails (eg. Textile). One only increases its allocation as cycle turns
-- Never go more than 25% 
+- Never go more than 25% of PF in a single deep cyclical sector (15% on single stock)
+- Do not change narrative, just to hold on to the sector/stock
+- Be prepared for failures. Cut when you realize it 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDc1NzEyNiwtNzYxMDkzMDk4LC03ND
-YwNDM4MDQsLTExODkzMDEwMjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNDM1MTI0NjgsLTc2MTA5MzA5OCwtNz
+Q2MDQzODA0LC0xMTg5MzAxMDIzXX0=
 -->
