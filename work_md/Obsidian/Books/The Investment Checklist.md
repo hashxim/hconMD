@@ -1,7 +1,7 @@
 # Introduction
 Author began using checklist of question to make informed investment decisions - questions that would guide in learning business's competitive position, customer positioning, and management strength. He studied past mistakes, read books on common mistakes made by investors and executives and interviewed CEOs, Hedge fund managers, MF managers to prepare more comprehensive list of questions.
 
-==The most common mistake relate to price we pay, management team you join and failure to understand the future economic==
+==The most common mistake relate to price we pay, management team you join and failure to understand the future economics of the business.==
 
 ## How can checklist will help
 - To filter out the noise and focus on information relevant and important
@@ -12,5 +12,5 @@ Author began using checklist of question to make informed investment decisions -
 - Helps improving sell decision
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDIzNDAxMSwtMTg3NzgyNjgyNl19
+eyJoaXN0b3J5IjpbLTc0MjA4MzYwOCwtMTg3NzgyNjgyNl19
 -->
