@@ -31,7 +31,11 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - Check on LinkedIn if there are any close connections and use them
 
 ## Blend Deference & Confidence
-- 
+- Show deference but not at expense of confidence
+
+## Play to your Strength
+- Don't fight on even playing fields
+- If you have unique
 
 
 
@@ -43,5 +47,5 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NDg5NTk5XX0=
+eyJoaXN0b3J5IjpbMTU1NTg2MzgzNSw5NzU0ODk1OTldfQ==
 -->
