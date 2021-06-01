@@ -26,7 +26,12 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - If you know who would be interviewing you, spend time learning about their background and experience
 - Identify potential bonding areas (same alma mater, similar interests, hobbies etc)
 
-## 
+## Seek Warm Intros
+- Warm intros and references are holy grail of competitive hiring
+- Check on LinkedIn if there are any close connections and use them
+
+## Blend Deference & Confidence
+- 
 
 
 
@@ -38,5 +43,5 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTAyNzM3OF19
+eyJoaXN0b3J5IjpbOTc1NDg5NTk5XX0=
 -->
