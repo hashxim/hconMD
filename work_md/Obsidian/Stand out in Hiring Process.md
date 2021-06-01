@@ -77,7 +77,10 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 
 ## Pass the Plane test
 - There is a common test in the hiring process: "Would I want to sit nest to this person on a plane for 5 hours"
-- Be yourself, but be sure to get across
+- Be yourself, but be sure to get across that you are kind and genuine
+
+## Targeted Outreach
+- 
 
 
 
@@ -89,6 +92,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDIyNTYzNiwtMTQyMTI5NjE0OCwtMT
+eyJoaXN0b3J5IjpbLTczMzE0NjAwMiwtMTQyMTI5NjE0OCwtMT
 Q0OTUyOTgxNSw5NzU0ODk1OTldfQ==
 -->
