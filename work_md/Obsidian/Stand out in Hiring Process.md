@@ -49,7 +49,12 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - It shows attentiveness
 
 ## Personalized Thank Yous
-- After interview, always 
+- After interview, always send a thank you note to the interviewer
+- Make them punchy
+- Include a specific detail (from your note book) so it doesn't appear generic
+
+## Ask Unique Questions
+- "Do you have any questions for me" - Its an opportunity
 
 
 
@@ -61,6 +66,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEyOTYxNDgsLTE0NDk1Mjk4MTUsOT
-c1NDg5NTk5XX0=
+eyJoaXN0b3J5IjpbMjExMzA3OTI4MCwtMTQyMTI5NjE0OCwtMT
+Q0OTUyOTgxNSw5NzU0ODk1OTldfQ==
 -->
