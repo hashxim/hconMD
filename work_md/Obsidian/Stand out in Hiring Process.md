@@ -81,7 +81,7 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 
 ## Targeted Outreach
 - Before applying, try to interact with 1-2 of its employees
-- Reach out to few people
+- Reach out to few people in similar roles
 
 
 
@@ -93,6 +93,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQwMjg2OTcsLTE0MjEyOTYxNDgsLT
+eyJoaXN0b3J5IjpbLTEzODk1MTIwNDAsLTE0MjEyOTYxNDgsLT
 E0NDk1Mjk4MTUsOTc1NDg5NTk5XX0=
 -->
