@@ -58,7 +58,16 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 
 ## Real Weaknesses
 - We tend to give weaknesses that are actually Strength (I am too Detail oriented)
-- Tell real weakness but also back it up with plan on how to oe
+- Tell real weakness but also back it up with plan on how to overcome it
+
+## Focus on Long Term
+- For next few years plan, think long term and then answer
+
+## Highlight Learning as a Goal
+- When asked about goals for coming years, always highlight learning
+
+## Nail the Cover Letter
+- 
 
 
 
@@ -70,6 +79,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDUzNDgxNywtMTQyMTI5NjE0OCwtMT
+eyJoaXN0b3J5IjpbMTA0MzM3NzUwNSwtMTQyMTI5NjE0OCwtMT
 Q0OTUyOTgxNSw5NzU0ODk1OTldfQ==
 -->
