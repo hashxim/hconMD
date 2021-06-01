@@ -81,7 +81,12 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 
 ## Targeted Outreach
 - Before applying, try to interact with 1-2 of its employees
-- Reach out to few people in similar roles
+- Reach out to few people in similar roles and ask if they are willing to share their insights
+
+## Prove Readiness
+- Managers want to know if you can do the job (or quickly learn to do it)
+- Cite examples of how you've done the requirements of this job in the past
+- Cite example of 
 
 
 
@@ -93,6 +98,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk1MTIwNDAsLTE0MjEyOTYxNDgsLT
-E0NDk1Mjk4MTUsOTc1NDg5NTk5XX0=
+eyJoaXN0b3J5IjpbLTMzODQ1MzUyLC0xMzg5NTEyMDQwLC0xND
+IxMjk2MTQ4LC0xNDQ5NTI5ODE1LDk3NTQ4OTU5OV19
 -->
