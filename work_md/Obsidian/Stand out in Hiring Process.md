@@ -67,7 +67,12 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - When asked about goals for coming years, always highlight learning
 
 ## Nail the Cover Letter
-- 
+- Well written cover letter is way to stand out
+- Keep it short and include **specific** answer to "why us" question
+- Try to infuse an element of personality
+
+## Make Them Look Smart
+- In organizations, Hi
 
 
 
@@ -79,6 +84,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzM3NzUwNSwtMTQyMTI5NjE0OCwtMT
-Q0OTUyOTgxNSw5NzU0ODk1OTldfQ==
+eyJoaXN0b3J5IjpbLTIxNDIyNTA3NjgsLTE0MjEyOTYxNDgsLT
+E0NDk1Mjk4MTUsOTc1NDg5NTk5XX0=
 -->
