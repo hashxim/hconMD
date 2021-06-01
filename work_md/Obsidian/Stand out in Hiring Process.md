@@ -40,7 +40,13 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - Make them know what makes you special
 
 ## Show your Passion
-- Show g
+- Show genuine excitement for the company and role
+- People hire candidates that want to be there
+- Smile, express you excitement calmly and let the passion shine
+
+## Carry a Notebook
+- If something interesting comes up, make a note and follow up
+- It
 
 
 
@@ -52,6 +58,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjI4NzUzOSwtMTQ0OTUyOTgxNSw5Nz
+eyJoaXN0b3J5IjpbMjEzNDk4MjgzMCwtMTQ0OTUyOTgxNSw5Nz
 U0ODk1OTldfQ==
 -->
