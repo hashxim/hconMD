@@ -86,7 +86,9 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 ## Prove Readiness
 - Managers want to know if you can do the job (or quickly learn to do it)
 - Cite examples of how you've done the requirements of this job in the past
-- Cite example of 
+- Cite example of you have quickly learned something new and had success
+
+
 
 
 
@@ -98,6 +100,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODQ1MzUyLC0xMzg5NTEyMDQwLC0xND
-IxMjk2MTQ4LC0xNDQ5NTI5ODE1LDk3NTQ4OTU5OV19
+eyJoaXN0b3J5IjpbLTE0OTE4OTE3MTEsLTEzODk1MTIwNDAsLT
+E0MjEyOTYxNDgsLTE0NDk1Mjk4MTUsOTc1NDg5NTk5XX0=
 -->
