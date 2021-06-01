@@ -54,7 +54,11 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - Include a specific detail (from your note book) so it doesn't appear generic
 
 ## Ask Unique Questions
-- "Do you have any questions for me" - Its an opportunity
+- "Do you have any questions for me" - Its an opportunity to show off your differentiated initiative and hustle
+
+## Real Weaknesses
+- We tend to give weaknesses that are actually Strength (I am too Detail oriented)
+- Tell real weakness but also back it up with plan on how to oe
 
 
 
@@ -66,6 +70,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzA3OTI4MCwtMTQyMTI5NjE0OCwtMT
+eyJoaXN0b3J5IjpbMTUyMDUzNDgxNywtMTQyMTI5NjE0OCwtMT
 Q0OTUyOTgxNSw5NzU0ODk1OTldfQ==
 -->
