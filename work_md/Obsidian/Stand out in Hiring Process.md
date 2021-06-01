@@ -20,7 +20,14 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 
 ## Prepare "Why Us"?
 - What attracted you to this company, The more specific, more better
-- Generic answers (I l
+- Generic answers (I love investing) gets minus marks. Specific answers win
+
+## Stalk (Non-creepily)
+- If you know who would be interviewing you, spend time learning about their background and experience
+- Identify potential bonding areas (same alma mater, similar interests, hobbies etc)
+
+## 
+
 
 
 ---
@@ -31,5 +38,5 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIzODk1NDldfQ==
+eyJoaXN0b3J5IjpbLTI0OTAyNzM3OF19
 -->
