@@ -35,7 +35,12 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 
 ## Play to your Strength
 - Don't fight on even playing fields
-- If you have unique
+- If you have unique attributes / competitive advantage, use them.
+- Hype up the advantage
+- Make them know what makes you special
+
+## Show your Passion
+- 
 
 
 
@@ -47,5 +52,5 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTg2MzgzNSw5NzU0ODk1OTldfQ==
+eyJoaXN0b3J5IjpbLTE0NDk1Mjk4MTUsOTc1NDg5NTk5XX0=
 -->
