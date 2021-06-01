@@ -40,7 +40,7 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - Make them know what makes you special
 
 ## Show your Passion
-- 
+- Show g
 
 
 
@@ -52,5 +52,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk1Mjk4MTUsOTc1NDg5NTk5XX0=
+eyJoaXN0b3J5IjpbLTQ2NjI4NzUzOSwtMTQ0OTUyOTgxNSw5Nz
+U0ODk1OTldfQ==
 -->
