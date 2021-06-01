@@ -46,7 +46,10 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 
 ## Carry a Notebook
 - If something interesting comes up, make a note and follow up
-- It
+- It shows attentiveness
+
+## Personalized Thank Yous
+- After interview, always 
 
 
 
@@ -58,6 +61,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDk4MjgzMCwtMTQ0OTUyOTgxNSw5Nz
-U0ODk1OTldfQ==
+eyJoaXN0b3J5IjpbLTE0MjEyOTYxNDgsLTE0NDk1Mjk4MTUsOT
+c1NDg5NTk5XX0=
 -->
