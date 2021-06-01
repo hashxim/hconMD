@@ -15,7 +15,12 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - Don't be afraid to say "I don't know" but then follow up
 	- “I don’t know, but I’ll dig in and follow up with an email.”
 
-## Stop fearing
+## Stop fearing Rejection
+- Don't be embarrassed to admit that you've been rejected
+
+## Prepare "Why Us"?
+- What attracted you to this company, The more specific, more better
+- Generic answers (I l
 
 
 ---
@@ -26,5 +31,5 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NTcyMzQyXX0=
+eyJoaXN0b3J5IjpbLTEyMTIzODk1NDldfQ==
 -->
