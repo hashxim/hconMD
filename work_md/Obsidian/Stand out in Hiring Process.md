@@ -72,7 +72,12 @@ Hiring Process is Ultra-competitive.  Fancy degree and credentials are not the o
 - Try to infuse an element of personality
 
 ## Make Them Look Smart
-- In organizations, Hi
+- In organizations, hierarchies matter
+- When speaking with future managers, make them believe that you will make them look smart to their bosses if they hire you
+
+## Pass the Plane test
+- There is a common test in the hiring process: "Would I want to sit nest to this person on a plane for 5 hours"
+- Be yours
 
 
 
@@ -84,6 +89,6 @@ Links:
 [Source](https://twitter.com/SahilBloom/status/1399375061111382022?s=20), [[Incomplete_Notes|File]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIyNTA3NjgsLTE0MjEyOTYxNDgsLT
-E0NDk1Mjk4MTUsOTc1NDg5NTk5XX0=
+eyJoaXN0b3J5IjpbMTc1Mjg1NjU2NiwtMTQyMTI5NjE0OCwtMT
+Q0OTUyOTgxNSw5NzU0ODk1OTldfQ==
 -->
