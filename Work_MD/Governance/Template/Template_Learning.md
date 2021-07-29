@@ -8,8 +8,7 @@
 
 Tags: #FleetingNotes, #learning , #Professional
 Week: <Week_Start_Date> - <Week_End_Date>
-Links: 
-[Source](template.md), [[Incomplete_Notes|File]]
+Links: [[Pro Learnings]]
 
 <!--
 Comment - 
