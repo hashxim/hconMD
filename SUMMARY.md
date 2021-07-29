@@ -13,7 +13,7 @@
 	* [Courses](work_md/Courses/README.md)
 		* [Foundation of Business Strategy](work_md/Courses/Foundation-of-Business-Strategy/README.md)
 			* [Week 1 - Introduction to Strategy Analysis](work_md/Courses/Foundation-of-Business-Strategy/Week-1/Introduction-to-Strategy-Analysis.md)
-	* [Learnings](work_md/Learnings/README.md)
+	* [Learnings](Pro%20Learnings.md)
 		* [W20210104](work_md/Learnings/W20210104.md)
 		* [W20210111](work_md/Learnings/W20210111.md)
 		* [W20210118](work_md/Learnings/W20210118.md)
