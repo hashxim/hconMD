@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work_MD/Learnings/W20210823.md",
+            "file": "Work_MD/Learnings/W20210830.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work_MD/Learnings/W20210823.md",
+                "file": "Work_MD/Learnings/W20210830.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work_MD/Learnings/W20210823.md"
+                "file": "Work_MD/Learnings/W20210830.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "b55ca6dfa24c402e",
   "lastOpenFiles": [
-    "Work_MD/Learnings/W20210823.md",
+    "Work_MD/Learnings/W20210830.md",
     "Work_MD/Learnings/Untitled.md",
+    "Work_MD/Learnings/W20210823.md",
     "Work_MD/Learnings/W20210816.md",
     "Work_MD/Learnings/W20210201.md",
     "Work_MD/Governance/Template/Template_Learning.md",
     "Work_MD/Learnings/W20210809.md",
     "Untitled.md",
     "Work_MD/Learnings/Pro Learnings.md",
-    "Work_MD/Learnings/W20210802.md",
-    "Work_MD/Governance/Template/Note Template.md"
+    "Work_MD/Learnings/W20210802.md"
   ]
 }
