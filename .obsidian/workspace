@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work_MD/Learnings/W20210906.md",
+            "file": "Work_MD/Learnings/W20210913.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work_MD/Learnings/W20210906.md",
+                "file": "Work_MD/Learnings/W20210913.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work_MD/Learnings/W20210906.md"
+                "file": "Work_MD/Learnings/W20210913.md"
               }
             }
           }
@@ -98,9 +98,9 @@
   },
   "active": "b55ca6dfa24c402e",
   "lastOpenFiles": [
+    "Work_MD/Learnings/Untitled.md",
     "Work_MD/Learnings/W20210906.md",
     "Work_MD/Learnings/W20210830.md",
-    "Work_MD/Learnings/Untitled.md",
     "Work_MD/Learnings/W20210823.md",
     "Work_MD/Learnings/W20210816.md",
     "Work_MD/Learnings/W20210201.md",
