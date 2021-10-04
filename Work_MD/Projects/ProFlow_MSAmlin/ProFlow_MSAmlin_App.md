@@ -5,7 +5,7 @@
 ### Features
 - Name, version, Client Name of the App
 - Link to [[ProFlow_MSAmlin_App#Support|Support]] page
-- 
+- Version with D means Dev environment App.
 ## Support
 ## Home
 ## Tasks
