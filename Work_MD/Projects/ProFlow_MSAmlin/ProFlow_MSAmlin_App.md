@@ -2,6 +2,10 @@
 
 ## Login
 ## About
+### Features
+- Name, version, Client Name of the App
+- Link to [[ProFlow_MSAmlin_App#Support|Support]] page
+- 
 ## Support
 ## Home
 ## Tasks
