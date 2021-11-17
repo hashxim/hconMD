@@ -7,7 +7,7 @@
         "id": "b55ca6dfa24c402e",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,15 +92,15 @@
   },
   "active": "b55ca6dfa24c402e",
   "lastOpenFiles": [
-    "Work_MD/Obsidian/_Obsidian_Work MOC.md",
-    "000 Index.md",
-    "Work_MD/Template_Learning.md",
-    "SUMMARY.md",
-    "Work_MD/Learnings/W20210726.md",
-    "Work_MD/Learnings/W20210719.md",
-    "Work_MD/Learnings/W20210524.md",
-    "Work_MD/Learnings/W20210517.md",
-    "Work_MD/Learnings/W20210503.md",
-    "Work_MD/Learnings/W20210426.md"
+    "Work_MD/Projects/ProFlow_MSAmlin/ProFlow_MSAmlin_App.md",
+    "Work_MD/Projects/ProFlow_MSAmlin/Untitled.md",
+    "Work_MD/Learnings/W20210913.md",
+    "Work_MD/Learnings/Untitled.md",
+    "Work_MD/Learnings/W20210906.md",
+    "Work_MD/Learnings/W20210830.md",
+    "Work_MD/Learnings/W20210823.md",
+    "Work_MD/Learnings/W20210816.md",
+    "Work_MD/Learnings/W20210201.md",
+    "Work_MD/Governance/Template/Template_Learning.md"
   ]
 }
