@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "f75cd65baf1661d1",
+    "id": "9009e193c72db72f",
     "type": "split",
     "children": [
       {
-        "id": "b55ca6dfa24c402e",
+        "id": "734fccde5b5bc011",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -90,7 +90,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b55ca6dfa24c402e",
+  "active": "734fccde5b5bc011",
   "lastOpenFiles": [
     "Work_MD/Projects/ProFlow_MSAmlin/ProFlow_MSAmlin_App.md",
     "Work_MD/Projects/ProFlow_MSAmlin/Untitled.md",
