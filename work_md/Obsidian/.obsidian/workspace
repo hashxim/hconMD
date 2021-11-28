@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "8539c00790f04f32",
+    "id": "bc38c95a85433f68",
     "type": "split",
     "children": [
       {
-        "id": "54f822d49c05393a",
+        "id": "591e55bbe603cf93",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -67,8 +67,9 @@
     ],
     "currentTab": 0
   },
-  "active": "54f822d49c05393a",
+  "active": "591e55bbe603cf93",
   "lastOpenFiles": [
+    "Area/Investing/Indicator - Bull vs Bear.md",
     "Area/Investing/Indicator - Bull vs Bear.md",
     "Area/Investing/Indicators - Bull vs Bear.md",
     "Company List.md",
