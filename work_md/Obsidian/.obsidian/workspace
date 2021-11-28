@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "bc38c95a85433f68",
+    "id": "8799bbc2a6f1c74b",
     "type": "split",
     "children": [
       {
-        "id": "591e55bbe603cf93",
+        "id": "51ee1b61cac2c711",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Area/Investing/Indicator - Bull vs Bear.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -54,6 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Area/Investing/Indicator - Bull vs Bear.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -67,9 +71,8 @@
     ],
     "currentTab": 0
   },
-  "active": "591e55bbe603cf93",
+  "active": "51ee1b61cac2c711",
   "lastOpenFiles": [
-    "Area/Investing/Indicator - Bull vs Bear.md",
     "Area/Investing/Indicator - Bull vs Bear.md",
     "Area/Investing/Indicators - Bull vs Bear.md",
     "Company List.md",

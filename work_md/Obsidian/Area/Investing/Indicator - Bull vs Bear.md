@@ -1,13 +1,12 @@
-`Summary`
+`Kuntal shah shares top vs bottom indicator in the market at Flame University`
 
-
+![[Indicators Bear vs Bull.jpg]]
 
 ---
 
 # Footer
-Tags: #FleetingNotes , #review , #incompleteNotes 
+Tags: #FleetingNotes , #review 
 Links:
-[Source](), [[Incomplete_Notes|File]]
 
 <!-- Comment
 -->
