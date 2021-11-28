@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "6d3226377a29165c",
+    "id": "8539c00790f04f32",
     "type": "split",
     "children": [
       {
-        "id": "08d7b39048bb08a4",
+        "id": "54f822d49c05393a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -67,8 +67,11 @@
     ],
     "currentTab": 0
   },
-  "active": "08d7b39048bb08a4",
+  "active": "54f822d49c05393a",
   "lastOpenFiles": [
+    "Area/Investing/Indicator - Bull vs Bear.md",
+    "Area/Investing/Indicators - Bull vs Bear.md",
+    "Company List.md",
     "_Obsidian_Work MOC.md"
   ]
 }
