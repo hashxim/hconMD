@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
-            "mode": "source"
+            "file": "Work_MD/Courses/Business Analysis Fundamental/Course tree.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
+                "file": "Work_MD/Courses/Business Analysis Fundamental/Course tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md"
+                "file": "Work_MD/Courses/Business Analysis Fundamental/Course tree.md"
               }
             }
           }
@@ -98,6 +99,8 @@
   },
   "active": "2b17cab569419243",
   "lastOpenFiles": [
+    "Work_MD/Courses/Business Analysis Fundamental/Course tree.md",
+    "Work_MD/Courses/Business Analysis Fundamental/Course Tree.md",
     "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
     "000 Index.md",
     "README.md",
@@ -105,8 +108,6 @@
     "Work_MD/Projects/ProFlow_MSAmlin/ProFlow_MSAmlin_App.md",
     "Work_MD/Projects/ProFlow_MSAmlin/Untitled.md",
     "Work_MD/Learnings/W20210913.md",
-    "Work_MD/Learnings/Untitled.md",
-    "Work_MD/Learnings/W20210906.md",
-    "Work_MD/Learnings/W20210830.md"
+    "Work_MD/Learnings/Untitled.md"
   ]
 }
