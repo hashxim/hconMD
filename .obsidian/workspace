@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Index.md",
+            "file": "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Index.md",
+                "file": "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Index.md"
+                "file": "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "2b17cab569419243",
   "lastOpenFiles": [
+    "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
     "000 Index.md",
     "README.md",
     "conflict-files-obsidian-git.md",
@@ -106,7 +107,6 @@
     "Work_MD/Learnings/W20210913.md",
     "Work_MD/Learnings/Untitled.md",
     "Work_MD/Learnings/W20210906.md",
-    "Work_MD/Learnings/W20210830.md",
-    "Work_MD/Learnings/W20210823.md"
+    "Work_MD/Learnings/W20210830.md"
   ]
 }
