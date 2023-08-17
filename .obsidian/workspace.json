@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activities in iOS.md",
+                "file": "RemoteDeviceVault/Common/Sync Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activities in iOS.md",
+                "file": "RemoteDeviceVault/Common/Sync Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Activities in iOS.md"
+                "file": "RemoteDeviceVault/Common/Sync Rules.md"
               }
             }
           }
@@ -139,8 +139,13 @@
   },
   "active": "4b5bf898cab493fd",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "Activities in iOS.md",
+    "RemoteDeviceVault/Common/Sync Rules.md",
+    "RemoteDeviceVault/Common",
+    "RemoteDeviceVault/Android Device",
+    "RemoteDeviceVault/iOS Device",
+    "RemoteDeviceVault",
+    "SUMMARY.md",
     "README.md",
     "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
     "Work_MD/Obsidian/Books/The Investment Checklist.md",

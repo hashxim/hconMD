@@ -2,3 +2,4 @@
 	- Highlighting texts
 	- Exporting highlights
 - Rules to follow for sync
+- Copy links, take notes
