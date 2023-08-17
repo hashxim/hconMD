@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RemoteDeviceVault/Common/Sync Rules.md",
+                "file": "RemoteDeviceVault/iOS Device/iOS Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RemoteDeviceVault/Common/Sync Rules.md",
+                "file": "RemoteDeviceVault/iOS Device/iOS Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RemoteDeviceVault/Common/Sync Rules.md"
+                "file": "RemoteDeviceVault/iOS Device/iOS Index.md"
               }
             }
           }
@@ -139,8 +139,10 @@
   },
   "active": "4b5bf898cab493fd",
   "lastOpenFiles": [
-    "Activities in iOS.md",
     "RemoteDeviceVault/Common/Sync Rules.md",
+    "RemoteDeviceVault/Android Device/Android Index.md",
+    "RemoteDeviceVault/iOS Device/iOS Index.md",
+    "Activities in iOS.md",
     "RemoteDeviceVault/Common",
     "RemoteDeviceVault/Android Device",
     "RemoteDeviceVault/iOS Device",
