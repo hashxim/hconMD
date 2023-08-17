@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb93cb0fd5ad665",
+        "id": "b2c71eac54a8facd",
         "type": "tabs",
         "children": [
           {
-            "id": "87682245ab58d32e",
+            "id": "1fb10e0da8e9a7ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b5bf898cab493fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activities in iOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5974817c84ba8d79",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Activities in iOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "Activities in iOS.md"
               }
             }
           }
@@ -125,17 +137,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "87682245ab58d32e",
+  "active": "4b5bf898cab493fd",
   "lastOpenFiles": [
     "SUMMARY.md",
+    "Activities in iOS.md",
+    "README.md",
+    "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
+    "Work_MD/Obsidian/Books/The Investment Checklist.md",
+    "Work_MD/Avoiding Bad Decisions.md",
+    "Work_MD/uk-funds.md",
+    "Work_MD/workflows.md",
+    "Work_MD/thoughts.md",
+    "Work_MD/things-to-check-in-cfi-activities.md",
+    "Work_MD/Testing Sync.md",
+    "Work_MD/template.md",
+    "Work_MD/README.md",
+    "Work_MD/Obsidian/Youtube/Alcoholic Beverages Industry India.md",
+    "Work_MD/Obsidian/_Obsidian_Work MOC.md",
+    "000 Index.md",
     "Work_MD/Courses/Business Analysis Fundamental/Business Analysis Foundation - Fundamental.md",
     "Work_MD/Courses/Business Analysis Fundamental/Course tree - BA Fundamental.md",
     "Work_MD/Courses/Foundation-of-Business-Strategy/Week-1/Introduction-to-Strategy-Analysis.md",
     "Work_MD/Courses/_Courses MOC.md",
     "Work_MD/Courses/Business Analysis Fundamental/Course Tree.md",
-    "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
-    "000 Index.md",
-    "README.md",
     "conflict-files-obsidian-git.md"
   ]
 }

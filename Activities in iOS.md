@@ -1,0 +1,4 @@
+- Reading books
+	- Highlighting texts
+	- Exporting highlights
+- Rules to follow for sync
