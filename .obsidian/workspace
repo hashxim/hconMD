@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work_MD/Courses/Business Analysis Fundamental/Course tree.md",
-            "mode": "preview",
+            "file": "SUMMARY.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work_MD/Courses/Business Analysis Fundamental/Course tree.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work_MD/Courses/Business Analysis Fundamental/Course tree.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -100,15 +100,15 @@
   },
   "active": "87682245ab58d32e",
   "lastOpenFiles": [
-    "Work_MD/Courses/Business Analysis Fundamental/Course tree.md",
+    "SUMMARY.md",
     "Work_MD/Courses/Business Analysis Fundamental/Business Analysis Foundation - Fundamental.md",
+    "Work_MD/Courses/Business Analysis Fundamental/Course tree - BA Fundamental.md",
     "Work_MD/Courses/Foundation-of-Business-Strategy/Week-1/Introduction-to-Strategy-Analysis.md",
     "Work_MD/Courses/_Courses MOC.md",
     "Work_MD/Courses/Business Analysis Fundamental/Course Tree.md",
     "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
     "000 Index.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
-    "Work_MD/Projects/ProFlow_MSAmlin/ProFlow_MSAmlin_App.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
