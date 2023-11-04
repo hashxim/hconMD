@@ -1,2 +1,2 @@
-Rules
-Books read
+[[Sync Rules]]
+[[iOS Books Index|Books Index]]
