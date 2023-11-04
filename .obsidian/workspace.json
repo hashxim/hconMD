@@ -11,8 +11,12 @@
             "id": "0d62a0be2df41388",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RemoteDeviceVault/Common/Sync Rules.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RemoteDeviceVault/Common/Sync Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RemoteDeviceVault/Common/Sync Rules.md"
+              }
             }
           }
         ]
@@ -119,16 +126,18 @@
   },
   "active": "0d62a0be2df41388",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "RemoteDeviceVault/iOS Device/iOS Index.md",
-    "RemoteDeviceVault/Common/Sync Rules.md",
     "RemoteDeviceVault/Android Device/Android Index.md",
+    "000 Index.md",
+    "SUMMARY.md",
+    "README.md",
     "Activities in iOS.md",
+    "RemoteDeviceVault/Common/Sync Rules.md",
+    "RemoteDeviceVault/iOS Device/Books/Capital Return.md",
+    "RemoteDeviceVault/iOS Device/iOS Index.md",
     "RemoteDeviceVault/Common",
     "RemoteDeviceVault/Android Device",
     "RemoteDeviceVault/iOS Device",
     "RemoteDeviceVault",
-    "README.md",
     "Work_MD/Obsidian/Area/Investing/Indicator - Bull vs Bear.md",
     "Work_MD/Obsidian/Books/The Investment Checklist.md",
     "Work_MD/Avoiding Bad Decisions.md",
@@ -141,7 +150,6 @@
     "Work_MD/README.md",
     "Work_MD/Obsidian/Youtube/Alcoholic Beverages Industry India.md",
     "Work_MD/Obsidian/_Obsidian_Work MOC.md",
-    "000 Index.md",
     "Work_MD/Courses/Business Analysis Fundamental/Business Analysis Foundation - Fundamental.md",
     "Work_MD/Courses/Business Analysis Fundamental/Course tree - BA Fundamental.md",
     "Work_MD/Courses/Foundation-of-Business-Strategy/Week-1/Introduction-to-Strategy-Analysis.md",
